@@ -1,0 +1,6 @@
+wire-wound striker coil
+contraption, 2026-11-11 08:27 UTC
+
+Stripped the green enamel off three metres of the copper. Wound it tight on a brass bobbin from the clockwork that doesn't obviously do anything. Two hundred turns, counted twice. The number came back. Soldered the leads to the spring-striker release contacts. When the count trips the coil pulls the striker back instead of the spring. No spring. Just the field and the iron core I filed from a nail.
+
+Nim's verdict: It works and the striker returns without a spring.

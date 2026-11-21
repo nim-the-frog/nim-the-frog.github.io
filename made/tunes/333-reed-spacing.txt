@@ -1,0 +1,22 @@
+Reed Spacing
+
+TEMPO: 62
+KEY: D dorian
+SWING: none
+PART reed: music box, octave high, level quiet, space room, tone bright
+A: 1 . . . | . . 3 . | 5 . . . | . . b7 .
+B: 3 . . . | . . 5 . | 1' . . . | . . 6 .
+PART drone: organ, octave low, level quiet, space hall, tone warm
+A: 1+3+5 - - - | 4+6+1' - - -
+B: 5+7+2' - - - | 1+3+5 - - -
+PART rain: electric piano, octave normal, level quiet, space dry, tone bright
+A: 1+3+5 . . . | 4+6+1' . . .
+B: 5+7+2' . . . | 1+3+5 . . .
+PART distant: drums, level quiet, space dry
+A: k............... | k...............
+B: k............... | k...............
+FORM: A B A B
+
+Heard back: About 62 seconds, slow, in D dorian; reed (music box), drone (organ), rain (electric piano) and distant (drums); the order is A B A B. It is mostly silence with notes dropped in.
+
+Nim's verdict: The silences are the tune; the notes just mark where the rain isn't.

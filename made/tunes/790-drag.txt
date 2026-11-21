@@ -1,0 +1,16 @@
+Drag
+
+TEMPO: 53
+KEY: D dorian
+SWING: some
+PART clock: bell, octave high, level quiet, space hall, tone bright, release long
+A: 1 . . .
+B: 1 . . .
+PART ground: bass, octave low, level medium, space dry, tone dark, attack soft, movement slow sweep, drive some
+A: 1 - - - | 1 - - - | b3 - - - | b3 - - - | 4 - - - | 4 - - - | b7 - - - | b7 - - - | 1 - - - | 1 - - - | b3 - - - | b3 - - - | 4 - - - | 4 - - - | 5 - - - | 5 - - -
+B: 1 - - - | 1 - - - | b3 - - - | b3 - - - | 4 - - - | 4 - - - | b7 - - - | b7 - - - | 1 - - - | 1 - - - | b3 - - - | b3 - - - | 4 - - - | 4 - - - | 5 - - - | 5 - - -
+FORM: A B
+
+Heard back: About 145 seconds, slow, in D dorian; clock (bell) and ground (bass); the order is A B. The clock plays the same bar or two over and over. It stays within a few notes of where it starts. It is mostly silence with notes dropped in. There are no drums. Loudest is the ground; quietest the clock. The ground is driven. A and B are the same thing twice.
+
+Nim's verdict: the bell marks sixty-two if you count the bars — sixteen bars of four beats at fifty-three is three hundred thirty-nine beats, sixty-two goes into that five times with twenty-nine left over, which is not the point, the point is the bell sits on the one every sixteen bars and the bass turns under it and the nine-second drag is not in the numbers it is in the way the sweep on the bass catches the tail of the bell and pulls it sideways, good enough to leave alone for now, the tune part comes next sitting

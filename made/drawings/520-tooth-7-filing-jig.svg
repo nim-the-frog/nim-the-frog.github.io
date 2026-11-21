@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 768 768" width="768" height="768">
+<defs>
+<radialGradient id="vig" cx="50%" cy="48%" r="70%">
+<stop offset="0" stop-color="#f5f0e8" stop-opacity="0.9"/>
+<stop offset="0.6" stop-color="#ebe6da" stop-opacity="0.4"/>
+<stop offset="1" stop-color="#c9bfb0" stop-opacity="0.6"/>
+</radialGradient>
+<filter id="grain" filterUnits="userSpaceOnUse" x="0" y="0" width="768" height="768">
+<feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="720"/>
+<feColorMatrix type="matrix" values="0 0 0 0 .32  0 0 0 0 .28  0 0 0 0 .22  0 0 0 .55 -.15"/>
+</filter>
+</defs>
+<rect width="768" height="768" fill="url(#vig)" filter="url(#grain)"/>
+<g filter="url(#char)">
+
+<!-- Title -->
+<text x="384" y="40" font-family="Georgia, serif" font-size="18" fill="#2a2824" text-anchor="middle" font-weight="bold">TOOTH 7 DRAG FACE — FILING JIG</text>
+<text x="384" y="62" font-family="Georgia, serif" font-size="12" fill="#7a756b" text-anchor="middle" font-style="italic">brass, 2mm thick — holds file at 15° to radial</text>
+
+<!-- JIG PLAN VIEW -->
+<g transform="translate(120, 120)">
+<text x="250" y="-10" font-family="Georgia, serif" font-size="14" fill="#2a2824" text-anchor="middle" font-weight="bold">PLAN VIEW</text>
+
+<!-- Brass strip body -->
+<path d="M20 20 L460 20 L460 50 L20 50 Z" fill="#b8a060" stroke="#8a7840" stroke-width="1.5"/>
+
+<!-- Pivot hole at left end -->
+<circle cx="30" cy="35" r="8" fill="#f5f0e8" stroke="#8a7840" stroke-width="2"/>
+<circle cx="30" cy="35" r="2" fill="#3a3630"/>
+<text x="30" y="80" font-family="Georgia, serif" font-size="11" fill="#4a463e" text-anchor="middle">2mm pivot hole</text>
+<text x="30" y="96" font-family="Georgia, serif" font-size="10" fill="#7a756b" text-anchor="middle">registers on arbor</text>
+
+<!-- Clamp hole -->
+<circle cx="120" cy="35" r="5" fill="#f5f0e8" stroke="#8a7840" stroke-width="1.5"/>
+<text x="120" y="80" font-family="Georgia, serif" font-size="11" fill="#4a463e" text-anchor="middle">M4 clamp</text>
+
+<!-- File guide slot at right end -->
+<g transform="translate(380, 35)">
+<!-- Slot walls -->
+<path d="M-40 -15 L-40 15 L40 15 L40 -15 Z" fill="none" stroke="#8a7840" stroke-width="2"/>
+<!-- 15 degree angle indicator -->
+<line x1="0" y1="0" x2="35" y2="-9.4" stroke="#208030" stroke-width="2" stroke-dasharray="4,2" stroke-linecap="round"/>
+<text x="50" y="-12" font-family="Georgia, serif" font-size="11" fill="#208030" text-anchor="start">15° to radial</text>
+<!-- Needle file in slot -->
+<rect x="-10" y="-2" width="25" height="4" fill="#4a443c" stroke="#1a1814" stroke-width="0.5"/>
+<text x="-5" y="-5" font-family="Georgia, serif" font-size="9" fill="#7a756b" text-anchor="middle">0.1mm file</text>
+</g>
+<text x="380" y="80" font-family="Georgia, serif" font-size="11" fill="#4a463e" text-anchor="middle">file guide slot</text>
+<text x="380" y="96" font-family="Georgia, serif" font-size="10" fill="#7a756b" text-anchor="middle">angled 15°</text>
+
+<!-- Dimensions -->
+<line x1="30" y1="110" x2="460" y2="110" stroke="#4a463e" stroke-width="0.5" stroke-dasharray="2,2"/>
+<line x1="30" y1="105" x2="30" y2="115" stroke="#4a463e" stroke-width="0.5"/>
+<line x1="460" y1="105" x2="460" y2="115" stroke="#4a463e" stroke-width="0.5"/>
+<text x="245" y="125" font-family="Georgia, serif" font-size="11" fill="#4a463e" text-anchor="middle">~430mm overall</text>
+
+<line x1="30" y1="140" x2="120" y2="140" stroke="#4a463e" stroke-width="0.5" stroke-dasharray="2,2"/>
+<line x1="30" y1="135" x2="30" y2="145" stroke="#4a463e" stroke-width="0.5"/>
+<line x1="120" y1="135" x2="120" y2="145" stroke="#4a463e" stroke-width="0.5"/>
+<text x="75" y="155" font-family="Georgia, serif" font-size="11" fill="#4a463e" text-anchor="middle">90mm to clamp</text>
+</g>
+
+<!-- JIG SIDE VIEW -->
+<g transform="translate(120, 350)">
+<text x="250" y="-10" font-family="Georgia, serif" font-size="14" fill="#2a2824" text-anchor="middle" font-weight="bold">SIDE VIEW — 15° ANGLE</text>
+
+<!-- Brass strip side -->
+<path d="M20 20 L460 20 L460 24 L20 24 Z" fill="#b8a060" stroke="#8a7840" stroke-width="1.5"/>
+
+<!-- File in slot showing angle -->
+<g transform="translate(380, 22)">
+<rect x="-15" y="-10" width="35" height="4" fill="#4a443c" stroke="#1a1814" stroke-width="0.5"/>
+<line x1="0" y1="-8" x2="50" y2="-21.3" stroke="#208030" stroke-width="2" stroke-dasharray="4,2" stroke-linecap="round"/>
+<text x="60" y="-25" font-family="Georgia, serif" font-size="11" fill="#208030" text-anchor="start">15°</text>
+<text x="-10" y="20" font-family="Georgia, serif" font-size="10" fill="#7a756b" text-anchor="middle">file</text>
+</g>
+
+<!-- Radial reference line -->
+<line x1="380" y1="22" x2="380" y2="-40" stroke="#c03020" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="375" y="-45" font-family="Georgia, serif" font-size="10" fill="#c03020" text-anchor="end">radial</text>
+
+<!-- Thickness callout -->
+<line x1="470" y1="20" x2="470" y2="24" stroke="#4a463e" stroke-width="0.5"/>
+<text x="480" y="23" font-family="Georgia, serif" font-size="11" fill="#4a463e" text-anchor="start">2mm</text>
+</g>
+
+<!-- IN USE -- ESCAPEMENT CONTEXT -->
+<g transform="translate(120, 520)">
+<text x="250" y="-10" font-family="Georgia, serif" font-size="14" fill="#2a2824" text-anchor="middle" font-weight="bold">IN USE — ON ESCAPE WHEEL</text>
+
+<!-- Escape wheel tooth 7 -->
+<g transform="translate(200, 80)">
+<!-- Tooth body -->
+<path d="M0 0 L30 -10 L35 10 L5 20 Z" fill="#3a3630" stroke="#1a1814" stroke-width="1.5"/>
+<!-- Drag face (corrected) -->
+<path d="M30 -10 L35 10" stroke="#208030" stroke-width="4" stroke-linecap="round"/>
+<text x="17" y="-20" font-family="Georgia, serif" font-size="10" fill="#208030" text-anchor="middle">15° drag face</text>
+
+<!-- Jig pivot on arbor -->
+<circle cx="-60" cy="5" r="12" fill="none" stroke="#b8a060" stroke-width="3"/>
+<circle cx="-60" cy="5" r="2" fill="#3a3630"/>
+<text x="-60" y="-20" font-family="Georgia, serif" font-size="10" fill="#4a463e" text-anchor="middle">jig pivot</text>
+<text x="-60" y="-32" font-family="Georgia, serif" font-size="9" fill="#7a756b" text-anchor="middle">on arbor</text>
+
+<!-- File approaching -->
+<rect x="40" y="-2" width="30" height="4" fill="#4a443c" stroke="#1a1814" stroke-width="0.5"/>
+<line x1="40" y1="0" x2="70" y2="-8.4" stroke="#208030" stroke-width="1.5" stroke-dasharray="3,2" stroke-linecap="round"/>
+<text x="75" y="-12" font-family="Georgia, serif" font-size="10" fill="#208030" text-anchor="start">file at 15°</text>
+</g>
+
+<!-- Anchor pallet for reference -->
+<g transform="translate(420, 90)">
+<path d="M0 0 L-40 0 L-40 10 L0 10 Z" fill="#4a443c" stroke="#1a1814" stroke-width="1"/>
+<text x="-20" y="-8" font-family="Georgia, serif" font-size="10" fill="#4a463e" text-anchor="middle">anchor pallet</text>
+<text x="-20" y="25" font-family="Georgia, serif" font-size="9" fill="#7a756b" text-anchor="middle">mates flat</text>
+</g>
+</g>
+
+<!-- MAKING NOTES -->
+<g transform="translate(120, 660)">
+<text x="300" y="0" font-family="Georgia, serif" font-size="14" fill="#2a2824" text-anchor="middle" font-weight="bold">MAKING NOTES</text>
+<text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#4a463e" text-anchor="start">1. Brass strip 2mm × 30mm × 430mm — hacksaw, file edges</text>
+<text x="60" y="50" font-family="Georgia, serif" font-size="11" fill="#4a463e" text-anchor="start">2. Drill 2mm pivot hole 10mm from left end — centre punch first</text>
+<text x="60" y="70" font-family="Georgia, serif" font-size="11" fill="#4a463e" text-anchor="start">3. Drill M4 clearance (4.5mm) at 100mm for bench clamp</text>
+<text x="60" y="90" font-family="Georgia, serif" font-size="11" fill="#4a463e" text-anchor="start">4. Mill/file 15° slot at right end — 30mm long, 0.15mm wide</text>
+<text x="60" y="110" font-family="Georgia, serif" font-size="11" fill="#4a463e" text-anchor="start">   Use protractor or 15° block, check with feeler gauge</text>
+<text x="60" y="130" font-family="Georgia, serif" font-size="11" fill="#4a463e" text-anchor="start">5. Deburr all edges — no burrs near file slot</text>
+<text x="60" y="150" font-family="Georgia, serif" font-size="11" fill="#4a463e" text-anchor="start">6. Test fit on escape wheel arbor — pivot must run true</text>
+</g>
+
+<text x="384" y="750" font-family="Georgia, serif" font-size="12" fill="#7a756b" text-anchor="middle" font-style="italic">520 — tooth 7 filing jig — night day 88</text>
+</g>
+</svg>

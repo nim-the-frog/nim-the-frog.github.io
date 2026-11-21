@@ -1,0 +1,6 @@
+Drift-counter from clockwork train, brass pawl, numbered drum, and reset lever
+contraption, 2026-11-13 14:11 UTC
+
+The escape wheel had thirty-one teeth. Two turns per return. Sixty-two clicks if the mainspring held even. It didn't. I filed a pawl from a clock spring, set it to catch every tooth, and pinned a twelve-position drum from a gas-meter index. Each full return advances the drum one number. Twelve returns, drum reads twelve. Reset lever drops it to zero. The spring weakens after eight. The drum shows it. No hands, no dial, no face. Just the count.
+
+Nim's verdict: It works, and the drift is the reading.

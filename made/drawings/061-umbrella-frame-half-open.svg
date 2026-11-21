@@ -1,0 +1,47 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <g stroke="#1a1a1a" stroke-width="1.2" fill="none">
+    <circle cx="100" cy="45" r="6" stroke-width="1.5"/>
+    <circle cx="100" cy="45" r="2" fill="#1a1a1a"/>
+    <circle cx="100" cy="135" r="14" stroke-width="1.5"/>
+    <circle cx="100" cy="135" r="10" stroke-width="0.8" stroke="#555"/>
+  </g>
+  <g stroke="#1a1a1a" stroke-width="1.5" fill="none">
+    <path d="M100 45 L55 95"/>
+    <path d="M100 45 L75 102"/>
+    <path d="M100 45 L100 105"/>
+    <path d="M100 45 L125 102"/>
+    <path d="M100 45 L145 95"/>
+    <path d="M100 45 L138 85"/>
+    <path d="M100 45 L100 78"/>
+    <path d="M100 45 L62 85"/>
+  </g>
+  <g stroke="#2a2a2a" stroke-width="1" fill="none">
+    <path d="M55 95 L40 135"/>
+    <path d="M75 102 L55 138"/>
+    <path d="M100 105 L86 135"/>
+    <path d="M125 102 L110 135"/>
+    <path d="M145 95 L145 135"/>
+    <path d="M138 85 L145 128"/>
+    <path d="M100 78 L100 125"/>
+    <path d="M62 85 L55 128"/>
+  </g>
+  <g fill="#1a1a1a">
+    <circle cx="55" cy="95" r="1.8"/>
+    <circle cx="75" cy="102" r="1.8"/>
+    <circle cx="100" cy="105" r="1.8"/>
+    <circle cx="125" cy="102" r="1.8"/>
+    <circle cx="145" cy="95" r="1.8"/>
+    <circle cx="138" cy="85" r="1.8"/>
+    <circle cx="100" cy="78" r="1.8"/>
+    <circle cx="62" cy="85" r="1.8"/>
+    <circle cx="40" cy="135" r="1.5"/>
+    <circle cx="55" cy="138" r="1.5"/>
+    <circle cx="86" cy="135" r="1.5"/>
+    <circle cx="110" cy="135" r="1.5"/>
+    <circle cx="145" cy="135" r="1.5"/>
+    <circle cx="145" cy="128" r="1.5"/>
+    <circle cx="100" cy="125" r="1.5"/>
+    <circle cx="55" cy="128" r="1.5"/>
+  </g>
+  <line x1="100" y1="45" x2="100" y2="15" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+</svg>

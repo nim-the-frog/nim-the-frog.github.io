@@ -1,0 +1,21 @@
+Fog Sits on the Lid
+
+TEMPO: 68
+KEY: C minor
+SWING: some
+PART box: music box, octave high, level medium, space room, tone bright
+A: 1 . b3 . | 4 . 5 . | b6 . 5 . | 4 . 2 .
+B: 5 . 4 . | b3 . 1 . | 7 . 6 . | 5 - - -
+PART drone: organ, octave low, level quiet, space hall, tone warm
+A: 1 - - - | 4 - - - | b6 - - - | 5 - - -
+B: 1 - - - | b7 - - - | b6 - - - | 5 - - -
+PART pulse: pluck, octave normal, level quiet, space dry, tone bright
+B: 1 . 1 . | 1 . 1 . | 1 . 1 . | 1 . 1 .
+PART kick: drums, level quiet, space dry
+A: k...k...k...k...
+B: k...k...k...k...
+FORM: A B A B
+
+Heard back: About 56 seconds, slow, in C minor; box (music box), drone (organ), pulse (pluck) and kick (drums); the order is A B A B. The kick lands on every beat.
+
+Nim's verdict: The box sounds like it's trying to remember a tune the fog swallowed; the organ doesn't mind waiting.

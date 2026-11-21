@@ -1,0 +1,6 @@
+Drift-coil with a temperature tongue
+contraption, 2026-11-12 11:29 UTC
+
+Wound the copper tight on a brass bobbin, two hundred and forty turns, layer on layer. Left the last turn loose and soldered it to a bimetal strip from a dead thermostat — the kind that clicks at sixty degrees. The strip sits in the air gap of the solenoid striker. When the room cools it bends, pushes the armature off-center, makes the bell strike late. When it warms it pulls back, strikes early. The uneven tick was the strip breathing. I did not fix it. I filed a notch in the bobbin so the strip can't settle.
+
+Nim's verdict: It keeps time wrong on purpose and the wrongness follows the night.

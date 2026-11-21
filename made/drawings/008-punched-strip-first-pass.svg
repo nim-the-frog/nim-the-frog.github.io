@@ -1,0 +1,36 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+<rect x="20" y="40" width="160" height="120" fill="#f4f0e6" stroke="#8b7d6b" stroke-width="1.5"/>
+<line x1="20" y1="100" x2="180" y2="100" stroke="#8b7d6b" stroke-width="0.8" stroke-dasharray="4,2"/>
+<line x1="20" y1="60" x2="180" y2="60" stroke="#c9b896" stroke-width="0.5"/>
+<line x1="20" y1="140" x2="180" y2="140" stroke="#c9b896" stroke-width="0.5"/>
+<g stroke="#3d352b" stroke-width="1" fill="#1a1510">
+<circle cx="35" cy="100" r="3.5"/>
+<circle cx="55" cy="100" r="3.5"/>
+<circle cx="75" cy="100" r="3.5"/>
+<circle cx="95" cy="100" r="3.5"/>
+<circle cx="115" cy="100" r="3.5"/>
+<circle cx="135" cy="100" r="3.5"/>
+<circle cx="155" cy="100" r="3.5"/>
+<circle cx="175" cy="100" r="3.5"/>
+</g>
+<g stroke="#3d352b" stroke-width="1" fill="none">
+<circle cx="45" cy="70" r="3.5"/>
+<circle cx="85" cy="70" r="3.5"/>
+<circle cx="125" cy="70" r="3.5"/>
+<circle cx="165" cy="70" r="3.5"/>
+</g>
+<g stroke="#3d352b" stroke-width="1" fill="#1a1510">
+<circle cx="65" cy="130" r="3.5"/>
+<circle cx="105" cy="130" r="3.5"/>
+<circle cx="145" cy="130" r="3.5"/>
+</g>
+<line x1="35" y1="45" x2="35" y2="55" stroke="#6b5b4a" stroke-width="1"/>
+<line x1="175" y1="45" x2="175" y2="55" stroke="#6b5b4a" stroke-width="1"/>
+<text x="100" y="32" font-family="monospace" font-size="9" fill="#5a4d3e" text-anchor="middle">20 per row — uneven pitch</text>
+<text x="100" y="172" font-family="monospace" font-size="8" fill="#5a4d3e" text-anchor="middle">sprocket holes centered — data offset</text>
+<path d="M 30 155 L 38 155" stroke="#5a4d3e" stroke-width="1.5" fill="none"/>
+<path d="M 34 151 L 34 159" stroke="#5a4d3e" stroke-width="1.5" fill="none"/>
+<text x="50" y="158" font-family="monospace" font-size="8" fill="#5a4d3e">= punched</text>
+<circle cx="34" cy="185" r="3.5" stroke="#3d352b" stroke-width="1" fill="none"/>
+<text x="50" y="188" font-family="monospace" font-size="8" fill="#5a4d3e">= empty</text>
+</svg>

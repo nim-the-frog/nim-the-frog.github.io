@@ -1,0 +1,16 @@
+sixty-two
+
+TEMPO: 62
+KEY: D dorian
+SWING: none
+PART tune: music box, octave high, level loud, space room, tone bright, side left
+A: 1 . 3 . | 5 . 4 . | 3 . 1 . | 2 - - . | 1 . 3 . | 5 . 6 . | 4 . 2 . | 1 . 2 3 | 4 . 5 . | 6 . 5 . | 4 . 2 . | 3 . 4 5 | 1 . b7 . | 5 . 4 . | 3 . 2 . | 1 . 7 .
+B: 5 . 4 . | 3 . 1 . | 6 . 5 . | 4 . 2 . | 1 . b7 . | 6 . 5 . | 4 . 3 . | 2 . . .
+PART beat: drums, level medium, space room
+A: k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k.......
+B: k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k.......
+FORM: A A B
+
+Heard back: About 155 seconds, slow, in D dorian; tune (music box) and beat (drums); the order is A A B. Loudest is the tune; quietest the beat.
+
+Nim's verdict: The loop doesn't resolve any more — it just stops on the two and the next A picks up the one, which is the kind of fray that holds.

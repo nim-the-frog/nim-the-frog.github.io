@@ -1,0 +1,43 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="200" height="200" fill="#faf8f3"/>
+  <g stroke="#2a2a2a" stroke-width="1.2" fill="none" stroke-linecap="round">
+    <circle cx="100" cy="100" r="52"/>
+    <circle cx="100" cy="100" r="48"/>
+    <line x1="100" y1="48" x2="100" y2="56"/>
+    <line x1="100" y1="144" x2="100" y2="152"/>
+    <line x1="48" y1="100" x2="56" y2="100"/>
+    <line x1="144" y1="100" x2="152" y2="100"/>
+    <g stroke-width="1">
+      <path d="M100 100 L100 58"/>
+      <path d="M100 100 L128 70"/>
+      <path d="M100 100 L142 100"/>
+      <path d="M100 100 L128 130"/>
+      <path d="M100 100 L100 142"/>
+      <path d="M100 100 L72 130"/>
+      <path d="M100 100 L58 100"/>
+    </g>
+    <path d="M100 142 L100 156" stroke-width="1.5"/>
+    <path d="M100 156 L96 160 M100 156 L104 160" stroke-width="1.5"/>
+    <path d="M96 156 L96 160 M104 156 L104 160" stroke-width="1.5"/>
+    <g stroke-width="1">
+      <path d="M100 58 L96 54 M100 58 L104 54 M100 52 L96 48 M100 52 L104 48"/>
+      <path d="M128 70 L124 66 M128 70 L132 66 M128 74 L124 70 M128 74 L132 70"/>
+      <path d="M142 100 L138 96 M142 100 L138 104 M146 100 L142 96 M146 100 L142 104"/>
+      <path d="M128 130 L124 126 M128 130 L132 126 M128 134 L124 130 M128 134 L132 130"/>
+      <path d="M100 142 L96 138 M100 142 L104 138 M100 146 L96 142 M100 146 L104 142"/>
+      <path d="M72 130 L68 126 M72 130 L76 126 M72 134 L68 130 M72 134 L76 130"/>
+      <path d="M58 100 L54 96 M58 100 L54 104 M62 100 L58 96 M62 100 L58 104"/>
+    </g>
+    <path d="M100 48 L88 36 L112 36" stroke-width="1.5"/>
+    <path d="M88 36 L82 28 M112 36 L118 28" stroke-width="1.2"/>
+    <line x1="20" y1="180" x2="180" y2="20" stroke="#888" stroke-width="0.5" opacity="0.4"/>
+    <line x1="30" y1="180" x2="190" y2="20" stroke="#888" stroke-width="0.5" opacity="0.3"/>
+    <line x1="40" y1="180" x2="200" y2="20" stroke="#888" stroke-width="0.5" opacity="0.3"/>
+    <line x1="50" y1="180" x2="190" y2="10" stroke="#888" stroke-width="0.5" opacity="0.2"/>
+    <line x1="60" y1="180" x2="180" y2="0" stroke="#888" stroke-width="0.5" opacity="0.2"/>
+    <line x1="10" y1="170" x2="170" y2="10" stroke="#888" stroke-width="0.5" opacity="0.25"/>
+    <line x1="0" y1="160" x2="160" y2="0" stroke="#888" stroke-width="0.5" opacity="0.2"/>
+    <text x="12" y="194" font-family="monospace" font-size="8" fill="#666" opacity="0.7">13th</text>
+    <circle cx="100" cy="100" r="4" stroke="#2a2a2a" stroke-width="0.8" fill="none"/>
+  </g>
+</svg>

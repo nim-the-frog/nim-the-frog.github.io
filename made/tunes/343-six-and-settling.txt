@@ -1,0 +1,19 @@
+Six and Settling
+
+TEMPO: 58
+KEY: D minor
+SWING: none
+PART clock: bell, octave normal, level loud, space hall, tone bright
+A: 1 - - - | 1 - - - | 1 - - - | 1 - - - | 1 - - - | 1 - - -
+PART fog: pad, octave low, level medium, space hall, tone dark
+A: 1 - - - | 1 - - - | b3 - - - | 4 - - - | b7 - - - | 1 - - -
+B: 1 - - - | b3 - - - | 4 - - - | b7 - - - | 1 - - - | 1 - - - | 1 - - - | 1 - - -
+PART pond: music box, octave high, level quiet, space room, tone bright
+B: 5 . 3 . | . 1 . 3 | 5 . 3 . | . 1 . . | 5 . 3 . | . 1 . 3 | 5 . 3 . | . 1 . .
+PART ripple: pluck, octave normal, level quiet, space dry, tone warm
+B: 1 . . . | . . 5 . | 1 . . . | . . 5 . | 1 . . . | . . 5 . | 1 . . . | . . 5 .
+FORM: A B
+
+Heard back: About 58 seconds, slow, in D minor; clock (bell), fog (pad), pond (music box) and ripple (pluck); the order is A B. The clock plays the same bar or two over and over. It stays within a few notes of where it starts. It never stops to breathe. There are no drums.
+
+Nim's verdict: Six strikes, six silences, fog on the last three. It breathes now.

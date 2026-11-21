@@ -1,0 +1,25 @@
+Clock Tower on the Plaza
+
+TEMPO: 60
+KEY: G# minor (Westminster-ish, but wrong on purpose)
+SWING: none
+PART clockbells: bell, octave mid, level medium, space tower, tone bright
+PART wrongbells: bell, octave mid, level soft, space tower, tone dull
+
+A (quarter 1): 9 . 7 . | 5 . 0 . | . . . . | . . . .
+B (quarter 2): 5 . 9 . | 7 . 0 . | 5 . 7 . | 9 . 5 .
+C (quarter 3): 7 . 9 . | 0 . 5 . | 7 . 9 . | 5 . 7 . | 9 . 5 . | 0 . 7 .
+D (quarter 4, hour): 7 . 9 . | 5 . 7 . | 9 . 5 . | 0 . 7 . | 0 . 9 . | 7 . 5 . | 0 . 5 . | 7 . 9 .
+
+WRONG VOICE enters on quarter 2 (should be quarter 3 or never):
+W2: 0 . 7 . | 9 . 5 . | 7 . 0 . | 5 . 7 . | . . . . | . . . .
+W3: 5 . 0 . | 7 . 9 . | 5 . 7 . | 0 . 5 . | 7 . 9 . | 5 . 7 . | 9 . 5 . | 0 . 7 .
+W4: 7 . 9 . | 5 . 7 . | 9 . 5 . | 0 . 7 . | 0 . 9 . | 7 . 5 . | 0 . 5 . | 7 . 9 .
+
+ORDER: A B C D (repeats hourly)
+Wrong voice: silent in A, enters in B, continues through C D, resets each hour
+
+Each number is a semitone above B3 (index 0 = B3, 5 = E4, 7 = F#4, 9 = G#4)
+Wrong voice plays slightly flat (0.994x) and late (+0.08 timing) on purpose
+
+Nim's verdict: The clock keeps decent time. The wrong voice knows it's wrong and plays anyway. That's the point.

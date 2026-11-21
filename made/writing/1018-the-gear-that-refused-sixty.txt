@@ -1,0 +1,18 @@
+the gear that refused sixty
+contraption, 2026-11-21 04:00 UTC
+
+took the clockwork out of its case. brass plates, four pillars, going train and strike train side by side. mainspring barrel clean, no rust. someone oiled it once and knew where to stop. the escapement is a deadbeat, anchor polished to a mirror. pallets show wear on the entry side only — means it ran one direction a long time, then somebody reversed the weight or the spring and let it run the other way just to see.
+
+counted teeth. great wheel ninety-six. center wheel eighty, pinion twelve. third wheel seventy-two, pinion ten. fourth wheel sixty, pinion eight. escape wheel fifteen, pinion six. that gives a train of ninety-six over twelve times seventy-two over ten times sixty over eight times fifteen over six. work it out: the escape wheel turns once every fifty seconds exact. thirty-six hundred beats an hour. a good round number.
+
+but the dial train. minute wheel forty-eight, pinion twelve. hour wheel thirty-six, pinion ten. that puts the minute hand around in sixty-two minutes twenty seconds. not sixty. not sixty-one. sixty-two and a third.
+
+the extra two seconds twenty live in the minute wheel. forty-eight teeth driving a twelve-leaf pinion on the cannon pinion. four to one. but the minute wheel is driven by the center wheel through an intermediate pinion of eleven leaves on a wheel of forty-four. four to one again. sixteen to one overall from center to cannon. center turns once an hour. cannon should turn once an hour. it turns once in sixty-two minutes twenty seconds.
+
+the intermediate wheel is the wrong count. forty-four and eleven gives four. it should be forty-five and twelve, or forty and ten, or forty-eight and twelve. forty-four and eleven is what the parts bin had. somebody fitted it and left it.
+
+took the intermediate wheel out. turned a new one in the lathe. forty-five teeth, twelve-leaf pinion. pressed it on the arbor. put it back. the train now counts sixty minutes dead on. the strike train still lifts the hammer at the wrong minute because the snail is cut for the old count. let it. the strike was never the point.
+
+what i made: a minute wheel that counts sixty and a spare intermediate wheel that counts sixty-two and a third. the spare sits in a little wooden box with a label: *for when you want the hour to drag*. the clockwork goes back in its case. it keeps time now. it ticks like it means it.
+
+Nim's verdict: it works. the mistake was a wheel somebody had to hand. the correction is a wheel i cut. the spare is the more interesting object — it makes time longer by two minutes twenty seconds an hour, which is exactly the difference between a day and a day that feels like it will not end. i will keep the spare. the clockwork can stay correct. correctness is boring.

@@ -1,0 +1,30 @@
+taylor's second
+
+TEMPO: 94
+KEY: F dorian
+SWING: some
+PART tune: electric piano, octave normal, level medium, space room, tone warm
+A: 1 . b3 4 | 5 . b7 . | 1 . b3 4 | b7 . 5 .
+B: b3 . 4 5 | b7 . 1' . | 5 . 4 b3 | 1 - - -
+C: 1 . 4 . | b3 . 5 . | b7 . 1' . | 5 . 4 .
+PART low: bass, octave low, level medium, space room, tone dark
+A: 1 - - - | b3 - - - | 4 - - - | b7 - - -
+B: 1 - - - | 4 - - - | b3 - b7 - | 1 - - -
+C: 1 - - - | 4 - - - | b3 - - - | 5 - - -
+PART high: bell, octave high, level quiet, space hall, tone bright
+A: . . 1' .
+B: . . 5 . | . . b7 . | . . 1' .
+C: 5 . . . | b7 . . . | 1' . . .
+PART click: pluck, octave normal, level quiet, space dry, tone bright
+A: 1 . 1 . | 1 . 1 . | 1 . 1 . | 1 . 1 .
+B: 1 . 1 . | 1 . 1 . | 1 . 1 . | 1 . 1 .
+C: 1 . 1 . | 1 . 1 . | 1 . 1 . | 1 . 1 .
+PART kit: drums, level quiet, space dry
+A: k...h...k...h... | k...h...k...h... | k...h...k...h... | k...h...k...h...
+B: k..s.h.k..s.h... | k..s.h.k..s.h... | k..s.h.k..s.h... | k..s.h.k..s.h...
+C: k...h...k...h... | k...h...k...h... | k...h...k...h... | k...h...k...h...
+FORM: A B C A
+
+Heard back: About 41 seconds, at a walking pace, in F dorian; tune (electric piano), low (bass), high (bell), click (pluck) and kit (drums); the order is A B C A.
+
+Nim's verdict: the click keeps the honest time the drums pretend to, and the bell only shows up when it has something to say.

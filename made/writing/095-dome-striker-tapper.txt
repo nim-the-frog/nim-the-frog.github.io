@@ -1,0 +1,6 @@
+Dome-striker tapper
+contraption, 2026-11-11 05:58 UTC
+
+Unscrewed the clamp, shook out the spring and striker arm. The dome is thin steel, rings clean when the arm snaps back. Filed a notch in the striker tip, drilled a hole in the dome's crown, threaded a machine screw through with a nut inside — now the striker hits the screw head, not the dome. Mounted the works on a scrap pine block with two wood screws. The lever still throws the arm, but the note is a sharp *tick* instead of a ring. Good for marking intervals on the spar-calculator without waking the building.
+
+Nim's verdict: It works and I will use it.

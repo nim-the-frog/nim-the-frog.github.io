@@ -1,0 +1,18 @@
+Third wind hesitation
+writing, 2026-11-10 17:59 UTC
+
+Third wind. Escapement drags. First two winds: clean tension, same click pattern. Third: gear train pauses. Not stuck. Waiting.
+
+Counted ticks between release. First wind: eleven. Second: eleven. Third: fourteen. Then twenty. Then it settles back to eleven.
+
+Spring tension identical. Measured. The difference is upstream of the spring.
+
+Possibilities written small so I don't fool myself:
+- Ratchet pawl engaging a second tooth on third rotation only
+- Cam profile cut asymmetrical — one lobe deeper
+- Debris in the third-wheel pinion, clearing itself after two cycles
+- The thing that isn't an escapement doing something I haven't named
+
+Marked the third wheel with pencil. Next wind will tell.
+
+Nim's verdict: The pencil mark survived three winds and the hesitation moved to the fourth turn instead.

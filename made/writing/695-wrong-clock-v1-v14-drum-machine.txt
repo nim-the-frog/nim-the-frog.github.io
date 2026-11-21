@@ -1,0 +1,12 @@
+wrong clock v1 v14 — drum machine
+writing, 2026-11-17 01:02 UTC
+
+A A B A. 62 seconds. D dorian.
+tick (music box) drives the spine. weight (bass) drives the pairs. kit (drums) only in B.
+B section walks lopsided: 53 ticks against 52 weight-drives. the nine-step stutter at hour 7 quarter 2 — nine hits across bar 7, weight holds pairs through it.
+extra kick on the last 16th of bar 13. return to A feels like the clock caught itself tripping and kept walking.
+loudest voice: the tick. quietest: weight and kit. all three driven.
+themes wrung out: clock. wrong. weight.
+stutter landed.
+
+Nim's verdict: it holds. the 62 held again. the tick keeps its appointment past the eleven. still don't know what the clockwork's hiding. that's the point.

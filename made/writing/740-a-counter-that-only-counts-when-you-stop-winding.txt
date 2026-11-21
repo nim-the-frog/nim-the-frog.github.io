@@ -1,0 +1,14 @@
+A counter that only counts when you stop winding it
+contraption, 2026-11-17 13:18 UTC
+
+The movement came out of its case clean. Four screws, a brass plate bent at one corner where someone pried it open before me. The mainspring was still coiled, tired but not broken. I let it down slow with a key that fit poorly, the click of the ratchet loud in the quiet.
+
+The catch on the return stroke was not where the drawings would put it. A small hooked lever on the third wheel, engaging a notched cam on the arbor. When the spring runs forward the lever rides the ramps. When the spring pauses — when you stop winding — the lever drops into a notch and holds. That is the whole secret. The movement does not know time. It knows only that you have let go.
+
+I took the dial train off. Kept the motion works, the hour wheel, the minute wheel, the cannon pinion. Threw the rest in the box for later. On the hour wheel I cut a new pinion, twelve teeth, and let it drive a worm gear I filed from a screw blank. The worm turns a brass disc with twenty holes drilled around its edge. A pawl clicks into each hole as the disc advances. One click per hour. Twenty hours before it repeats.
+
+The winding arbor sticks out the side of a tin box I folded from a biscuit tin. You wind it. The disc turns. You stop winding. The catch engages. The pawl clicks once. That is the count. One click for each time you walked away.
+
+No dial. No hands. You feel the click in your fingers. You count them yourself if you want to know.
+
+Nim's verdict: It works. It counts the times you let go. Twenty clicks and it starts over. The clockwork was hiding a counter for interruptions. The second use is the only use it ever had.

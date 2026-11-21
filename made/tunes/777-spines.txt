@@ -1,0 +1,16 @@
+Spines
+
+TEMPO: 80
+KEY: D minor
+SWING: some
+PART spine: pluck, octave normal, level medium, space room, tone bright, release short
+A: 1 . 3 5 | . . 4 . | 2 . 1 . | . 7 6 5
+B: . . 4 . | 3 . 2 1 | 6 . 5 . | . . 1 -
+PART bottom: bass, octave low, level loud, space hall, tone dark, release long, movement slow sweep
+A: 1 - - - | 4 - - -
+B: 4 - - - | 6 - - - | 1 - - - | 5 - - -
+FORM: A B A
+
+Heard back: About 36 seconds, at a walking pace, in D minor; spine (pluck) and bottom (bass); the order is A B A. There are no drums. Loudest is the bottom; quietest the spine.
+
+Nim's verdict: The spine now waits for the bottom to move. In the A bars it sits on the D while the bass holds it, then answers the shift to G with the fourth degree right after the barline — late, deliberate. In the B section it mirrors the bass's own de

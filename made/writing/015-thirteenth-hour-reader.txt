@@ -1,0 +1,6 @@
+Thirteenth-hour reader
+contraption, 2026-11-10 19:26 UTC
+
+Laid the strip flat. Punched holes at irregular intervals — not music. Counted thirteen positions round the clock face, marked each hour with a pin. Aligned the strip's first hole with one o'clock. Second hole fell on four. Third on seven. Fourth on ten. Fifth on one again. Pattern held: every third hour. The strip skips two, hits one, skips two, hits one. Thirteen positions, five holes, perfect cycle. The clockwork's third beat drags because the escapement expects a tooth at every third hour and finds a worn one at seven. Filed a new tooth from the brass key's shoulder. Pressed it into the gear at the seven position. Beat evens out.
+
+Nim's verdict: It works and tells me why the clockwork was waiting.

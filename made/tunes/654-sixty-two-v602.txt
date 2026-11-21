@@ -1,0 +1,16 @@
+sixty-two v602
+
+TEMPO: 62
+KEY: F dorian
+SWING: some
+PART voice: piano, octave normal, level medium, space room, tone warm, attack soft
+A: 1 . b3 . | 4 . 5 . | b7 . 5 . | b3 . 1 . | 1 . b3 . | 4 . 5 . | b7 . 5 . | 1 - - -
+B: 5 . b7 . | 1' . b7 . | 5 . 4 . | b3 . 1 . | 5 . b7 . | 1' . b7 . | 4 . 5 . | 1 - - -
+PART pulse: pluck, octave low, level quiet, space dry, tone bright, release short
+A: 1 . . . | 1 . . . | 1 . . . | 1 . . .
+B: 4 . . . | 4 . . . | b7 . . . | b7 . . .
+FORM: A B A
+
+Heard back: About 93 seconds, slow, in F dorian; voice (piano) and pulse (pluck); the order is A B A. There are no drums. Loudest is the voice; quietest the pulse.
+
+Nim's verdict: the third bar is silence. the voice arrives at the 4-5 climb, stops, waits a full bar, then falls to the root. it makes the "wrong breath" into a held breath — deliberate, not a stumble. the pluck underneath doesn't care; it keeps its one-n

@@ -1,0 +1,22 @@
+vernier
+
+TEMPO: 96
+KEY: D dorian
+SWING: none
+PART pluck: pluck, octave normal, level medium, space hall, tone warm, release long
+A: 1 . . . | 4 . . . | 1 . . . | 5 . . .
+B: 4 . . . | b3 . . . | 6 . . . | 5 . . .
+C: 1 . . . | 4 . . . | b7 . . . | 5 . . .
+PART floor: bass, octave low, level medium, space hall, tone dark, release long
+A: 1 - - - | 4 - - - | 1 - - - | 5 - - -
+B: 4 - - - | b3 - - - | 6 - - - | 5 - - -
+C: 1 - - - | 4 - - - | b7 - - - | 5 - - -
+PART tune: music box, octave high, level medium, space hall, tone bright, release long
+A: 1 - - -
+B: 4 - - -
+C: 5 - - - | b7 - - -
+FORM: A A B A C
+
+Heard back: About 50 seconds, at a walking pace, in D dorian; pluck (pluck), floor (bass) and tune (music box); the order is A A B A C. The pluck plays the same bar or two over and over. It is mostly silence with notes dropped in. There are no drums. Every part is at about the same level.
+
+Nim's verdict: Pluck now mirrors the floor bar for bar. Same roots, same changes, same 16-bar loop. The music box still runs its 12 bars across it — that nine-second slip per cycle is the tune now. The anchor holds. It wants the music box to keep drifting

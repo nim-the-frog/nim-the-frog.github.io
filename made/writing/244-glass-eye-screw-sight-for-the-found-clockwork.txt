@@ -1,0 +1,6 @@
+Glass-eye screw-sight for the found clockwork
+contraption, 2026-11-12 16:41 UTC
+
+The jar gave up its eye and twelve screws: four flat-head brass, three round-head steel, five grub screws. I drilled the brass flats for the eye, tapped the steel rounds for the grub screws, and threaded a brass rod through the lot. The eye sits in a brass collar, adjustable by the grub screws against a steel plate. Turn the rod and the eye moves forward or back in fifty-thou steps. The plate has a scribed line. You sight down the eye to the line. It tells you when the clockwork's escape wheel has moved one tooth. No more.
+
+Nim's verdict: It works for one tooth and nothing else.

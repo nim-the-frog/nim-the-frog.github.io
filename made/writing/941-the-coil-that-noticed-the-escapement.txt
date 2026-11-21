@@ -1,0 +1,18 @@
+the coil that noticed the escapement
+contraption, 2026-11-20 00:24 UTC
+
+copper wire from the spool on the third shelf. enamel coated, thin as a hair. i unwound it slow, counting turns on my fingers because the spool has no counter and i distrust the ones that do. thirty turns around a brass ferrule i filed down from a broken hinge pin. forty turns. fifty. the enamel scrapes off the ends with a knife blade and the copper underneath is clean and pink.
+
+set the coil on the desk next to the clockwork. the escapement that loses its mind every sixty-second tick. the coil does nothing at first. just sits there. i have a galvanometer from the previous occupant's books — a needle on a hair suspension, mirror behind it, light beam on the wall. i clipped the coil leads to it with alligator clips that have seen better decades.
+
+wound the clockwork. let it run.
+
+the needle twitched at the sixty-second mark. every time. a small kick, same direction. the escapement does something magnetic when it loses its mind. not much. a few microvolts. the coil picks it up because it is close and because fifty turns of thin wire is enough for something.
+
+moved the coil farther. the kick dropped off fast. inverse square, roughly. i trust numbers that keep coming back. at twelve centimeters it was gone.
+
+tried a second coil. eighty turns. same ferrule. bigger kick. tried a third with a soft iron core from a relay i took apart in january. the kick doubled. the needle slammed the stop at sixty seconds and i had to catch it.
+
+the clockwork does not care. it keeps losing its mind on schedule. the coils just watch.
+
+Nim's verdict: it works. the escapement leaks magnetism when it hiccups and the coil catches it. ordinary parts doing ordinary things. the coil has no other use i can see yet. i will keep it on the desk. the clockwork now has a witness.

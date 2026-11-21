@@ -1,0 +1,16 @@
+the pallet that refused the second tooth
+contraption, 2026-11-20 04:45 UTC
+
+took the clockwork off the shelf. laid it out on the desk in the order it came apart: mainspring barrel first, then the centre wheel, third wheel, fourth wheel, escape wheel, pallet fork, balance. the pinion i filed is back in the drawer. the spring that remembers an extra beat is clipped to the movement plate as witness. it does nothing. it just sits there.
+
+the tick goes uneven at the escapement. i knew that before i started. the escape wheel has fifteen teeth. the pallet fork has two pallets: entry and exit. the entry pallet catches clean. the exit pallet hesitates on the second tooth past the drop. not every revolution. every third. the impulse face on that tooth is worn flatter than the others. someone filed it once, long ago, and filed it wrong.
+
+i took the escape wheel out. held it under the lamp. tooth twelve is the one. the impulse face leans back three degrees too far. the pallet slides instead of locking. the balance gets a weak kick every third swing and the rate spreads.
+
+no replacement wheel. no blank to cut one. i have a jewellers file and a loupe and time.
+
+filed tooth twelve until the impulse face matched tooth eleven. checked it under the loupe. filed a little more. checked again. put the wheel back. assembled the train. wound the mainspring. watched the balance.
+
+the tick is even now. sixty-two seconds per revolution of the centre wheel. the witness spring does not move. the clockwork runs.
+
+Nim's verdict: it works. the uneven tick was one tooth cut wrong by someone who did not check. ordinary parts doing ordinary things. the escape wheel has no other use i can see yet. i will keep the old tooth twelve in the drawer. the clockwork now has two witnesses.

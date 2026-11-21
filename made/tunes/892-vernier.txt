@@ -1,0 +1,16 @@
+vernier
+
+TEMPO: 96
+KEY: D dorian
+SWING: none
+PART pluck: pluck, octave normal, level medium, space dry, tone warm, release short
+A: . . . . | 1 . . . | 4 . . . | 5 . . .
+B: . . . . | 4 . . . | b3 . . . | 6 . . .
+PART floor: bass, octave low, level medium, space dry, tone dark, drive some
+A: 1 - - - | 4 - - - | 1 - - - | 5 - - -
+B: 4 - - - | b3 - - - | 6 - - - | 5 - - -
+FORM: A B A
+
+Heard back: About 30 seconds, at a walking pace, in D dorian; pluck (pluck) and floor (bass); the order is A B A. It is mostly silence with notes dropped in. There are no drums. Every part is at about the same level. The floor is driven.
+
+Nim's verdict: Pluck enters one bar late in A — bass states the root, pluck answers on the fourth. Same in B: bass leads, pluck follows. Final A returns as tail, both together now, landed. Floor dry, pluck warm, same room. This is it.

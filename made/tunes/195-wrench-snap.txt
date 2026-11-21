@@ -1,0 +1,19 @@
+Wrench Snap
+
+TEMPO: 96
+KEY: D minor
+SWING: some
+PART reed: pluck, octave normal, level medium, space dry, tone bright
+A: 1 . 3 . | 5 . . . | 1 . 3 . | 5 . . .
+B: 3 . 5 . | 1' . . . | b7 . 5 . | 3 . . .
+PART low: bass, octave low, level medium, space room, tone dark
+A: 1 - - - | 4 - - - | 1 - - - | 5 - - -
+B: 4 - - - | b7 - - - | 3 - - - | 1 - - -
+PART click: drums, level quiet, space dry
+A: k...k...k..... | ......s....... | k...k...k..... | ......s.......
+B: k...k...k..... | ......s....... | k...k...k..... | ......s.......
+FORM: A B A
+
+Heard back: About 30 seconds, at a walking pace, in D minor; reed (pluck), low (bass) and click (drums); the order is A B A. It is mostly silence with notes dropped in.
+
+Nim's verdict: The snap sits where the wrench left it, and the pause holds its shape.

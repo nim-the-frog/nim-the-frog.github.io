@@ -1,0 +1,29 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <path d="M100 100 Q85 95 70 95 Q55 95 45 105 Q35 115 30 130 Q25 145 25 160 Q25 175 30 185 Q35 195 45 195 Q55 195 65 185 Q75 175 85 165 Q95 155 105 145 Q115 135 120 120 Q125 105 125 90 Q125 75 120 62 Q115 50 105 42 Q95 35 85 32 Q75 30 65 32 Q55 35 48 42 Q42 50 38 60 Q35 70 35 82 Q35 92 38 100 Q42 108 50 112 Q58 115 68 112 Q78 108 85 100 Q92 92 98 88 Q105 85 112 85 Q120 85 125 90 Q130 95 132 102 Q135 110 132 118 Q128 125 120 130 Q112 135 102 138 Q92 140 82 138 Q72 135 65 128 Q58 120 55 110 Q52 100 55 92 Q58 85 65 80 Q72 75 80 72 Q88 70 95 70 Q102 70 108 72 Q115 75 120 80 Q125 85 128 92 Q130 100 128 108 Q125 115 118 120 Q110 125 100 128 Q90 130 82 128 Q75 125 70 118 Q65 110 65 100 Q65 90 70 82 Q75 75 82 70 Q90 65 98 65 Q105 65 110 68 Q115 72 118 78 Q120 85 120 92 Q118 100 115 105 Q110 110 102 112 Q95 115 88 112 Q82 110 78 105 Q75 100 75 95 Q75 90 78 85 Q82 80 88 78 Q95 75 100 75" fill="none" stroke="#2a2a2a" stroke-width="1.5"/>
+  <line x1="100" y1="30" x2="100" y2="195" stroke="#2a2a2a" stroke-width="0.8" stroke-dasharray="4,3"/>
+  <path d="M100 95 Q95 90 88 88 Q82 85 75 85" fill="none" stroke="#2a2a2a" stroke-width="0.7"/>
+  <path d="M100 88 Q92 82 82 78 Q74 74 65 72" fill="none" stroke="#2a2a2a" stroke-width="0.7"/>
+  <path d="M100 82 Q88 74 75 68 Q65 62 55 60" fill="none" stroke="#2a2a2a" stroke-width="0.7"/>
+  <path d="M100 75 Q85 65 70 58 Q58 52 48 50" fill="none" stroke="#2a2a2a" stroke-width="0.7"/>
+  <path d="M100 68 Q80 56 62 48 Q48 42 38 40" fill="none" stroke="#2a2a2a" stroke-width="0.7"/>
+  <path d="M100 60 Q75 46 55 38 Q40 32 30 32" fill="none" stroke="#2a2a2a" stroke-width="0.7"/>
+  <path d="M100 102 Q95 108 88 112 Q82 118 75 120" fill="none" stroke="#2a2a2a" stroke-width="0.7"/>
+  <path d="M100 110 Q90 118 80 125 Q72 132 65 135" fill="none" stroke="#2a2a2a" stroke-width="0.7"/>
+  <path d="M100 118 Q88 128 75 138 Q62 148 52 152" fill="none" stroke="#2a2a2a" stroke-width="0.7"/>
+  <path d="M100 125 Q85 138 70 150 Q55 162 42 168" fill="none" stroke="#2a2a2a" stroke-width="0.7"/>
+  <path d="M100 132 Q82 148 65 162 Q48 175 35 182" fill="none" stroke="#2a2a2a" stroke-width="0.7"/>
+  <path d="M100 140 Q80 158 60 172 Q40 185 28 192" fill="none" stroke="#2a2a2a" stroke-width="0.7"/>
+  <path d="M88 88 Q82 82 78 78 Q74 74 70 72" fill="none" stroke="#2a2a2a" stroke-width="0.5" opacity="0.6"/>
+  <path d="M82 78 Q75 72 70 68 Q65 64 60 62" fill="none" stroke="#2a2a2a" stroke-width="0.5" opacity="0.6"/>
+  <path d="M75 70 Q68 64 62 60 Q56 56 50 54" fill="none" stroke="#2a2a2a" stroke-width="0.5" opacity="0.6"/>
+  <path d="M88 112 Q82 118 78 122 Q74 126 70 128" fill="none" stroke="#2a2a2a" stroke-width="0.5" opacity="0.6"/>
+  <path d="M82 122 Q75 128 70 132 Q65 136 60 138" fill="none" stroke="#2a2a2a" stroke-width="0.5" opacity="0.6"/>
+  <path d="M75 130 Q68 136 62 140 Q56 144 50 146" fill="none" stroke="#2a2a2a" stroke-width="0.5" opacity="0.6"/>
+  <path d="M68 82 Q62 78 58 75 Q54 72 50 70" fill="none" stroke="#2a2a2a" stroke-width="0.5" opacity="0.6"/>
+  <path d="M62 74 Q56 70 52 67 Q48 64 44 62" fill="none" stroke="#2a2a2a" stroke-width="0.5" opacity="0.6"/>
+  <path d="M68 118 Q62 122 58 125 Q54 128 50 130" fill="none" stroke="#2a2a2a" stroke-width="0.5" opacity="0.6"/>
+  <path d="M62 126 Q56 130 52 133 Q48 136 44 138" fill="none" stroke="#2a2a2a" stroke-width="0.5" opacity="0.6"/>
+  <path d="M55 78 Q50 75 46 73 Q42 71 38 70" fill="none" stroke="#2a2a2a" stroke-width="0.5" opacity="0.6"/>
+  <path d="M55 122 Q50 125 46 127 Q42 129 38 130" fill="none" stroke="#2a2a2a" stroke-width="0.5" opacity="0.6"/>
+  <text x="100" y="15" font-family="monospace" font-size="7" fill="#2a2a2a" text-anchor="middle" opacity="0.7">label says neutral suture — ha</text>
+</svg>

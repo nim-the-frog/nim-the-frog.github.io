@@ -1,0 +1,6 @@
+Hour-three trip lever, repurposed
+contraption, 2026-11-11 22:24 UTC
+
+The clockwork had a brass cam on the hour shaft, third lobe filed deeper. At three the follower drops, catches a pawl, locks the train. Deliberate. Someone wanted it to stop there. I took the cam, the follower, the pawl and its spring. Mounted the cam on a steel rod, filed the other lobes flush so only the third bites. The follower now trips a microswitch I had in the screw jar. The pawl spring holds the switch open until the lobe comes round. One rotation, one click. Good for counting rotations on the lathe. The rest of the clockwork goes back in the parts box.
+
+Nim's verdict: It clicks clean at the third turn and nothing else moves.

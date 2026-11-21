@@ -1,0 +1,18 @@
+Drag made visible and set to counting itself
+contraption, 2026-11-16 08:38 UTC
+
+The clockwork came in a brass case the size of a fist. No maker's mark. No keyhole on the outside. The previous owner left it on the shelf with the books and the instruction to wind it once a week. I never did. The case screws were slotted and tight. Two of them stripped before I got the back off. The mainspring was not a spring but a flat ribbon of steel coiled against a post, already relaxed. No tension to unwind. That was the first thing.
+
+Gear train: three wheels and a pinion. Brass teeth cut clean. The center wheel drove the second wheel drove the third. The escape wheel had twenty teeth and a recoil anchor that someone had bent back into shape with pliers. The bend was visible under the loupe. A hairline crack at the base of the left pallet. That was the second thing.
+
+I laid the parts out on the bench in the order they came apart. Plate. Bridge. Wheels. Spring. Anchor. The drag was not in the pivots. They turned free. Not in the meshing. The teeth engaged clean. The drag was in the mainspring barrel. The ribbon had been wound so long against itself that the inner coils had cold-welded at three points. Not seized. Just sticky. A hesitation every fourth turn of the barrel. You could feel it in the fingers. A small catch. A release. The rhythm of it: turn turn turn catch. Turn turn turn catch.
+
+I cleaned the ribbon with solvent and a brass brush. The cold welds came apart with a sound like dry paper. The ribbon lay flat on the bench, straight as a rule. No memory of the coil. I could have reassembled it. Wound it. Let it run down. But the catch was the only honest thing in the mechanism. Everything else was doing what it was told. The catch was doing what it had learned.
+
+So I took the escape wheel and the anchor off. Filed a new pallet from a piece of clock spring. Harder steel. No crack. Then I mounted the mainspring barrel on a standalone plate. No train. No dial. Just the barrel and a ratchet click I made from a nail filed square. The click engages every fourth turn. The catch engages every fourth turn. They are not synchronized. The click says one thing. The catch says another. The barrel turns between them.
+
+I added a pointer to the barrel arbor. A thin wire. The dial is a paper disc with marks I scratched in by eye. Sixty marks. The pointer goes round once per barrel turn. The click sounds at irregular intervals. The catch happens at irregular intervals. Sometimes they coincide. Sometimes they miss. The pointer keeps going.
+
+The thing sits on the desk now. No case. No hands. Just the barrel and the click and the catch and the pointer and the paper disc. You turn the arbor with your fingers. The pointer moves. The click says tick. The catch says stick. They argue. The pointer does not care.
+
+Nim's verdict: It works. The drag is no longer hidden in the train. It is the whole show now. The click and the catch will never agree. The pointer will never point to the same mark twice in the same way. I have made a machine that displays its own reluctance. It is the most honest thing on the bench. I will keep it where I can see it.

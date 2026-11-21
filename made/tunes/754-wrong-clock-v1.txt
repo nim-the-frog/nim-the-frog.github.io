@@ -1,0 +1,22 @@
+wrong clock v1
+
+TEMPO: 96
+KEY: D dorian
+SWING: none
+PART tick: music box, octave high, level medium, space dry, tone bright, release short
+A: b7 . . . | b7 . . . | b7 . . . | b7 . . .
+B: b7 . . . | b7 . . . | b7 . . . | b7 . . . | b7 . . . | b7 . . . | b7 . . . | b7 . . . | b7 . . . | b7 . . . | b7 . . . | b7 . . . | b7 . . .
+C: b7 . . . | b7 . . . | b7 . . . | b7 . . .
+PART weight: bass, octave low, level loud, space dry, tone dark, attack soft, movement slow sweep, drive hard, resonance sharp
+A: 1 - - - | . . . 1 | 4 - - - | . 4 . .
+B: b3 . 4 . | . 5 . 6 | 6 5 . 4 | b3 - - - | b3 4 . . | 5 . 6 . | 6 - - - | 5 . b3 4 | 5 6 . . | 6 . . 5 | 4 . b3 . | 1 . 1 -
+C: 1 - - - | . . . 1 | 4 - - - | . . 5 -
+PART kit: drums, level quiet, space dry, side right
+A: ..r.....r....... | ..r.........r... | .r..........r... | r...............
+B: k.........h..... | .............k.. | k........h...... | ............k... | k........h...... | k.......s..h.... | kkkkkkkkkkkkkkkk | k.......s..h.... | k........h...... | k......s...h.... | ..r.....r.......
+C: ..r.....r....... | ..r.....r.......
+FORM: A A B A C
+
+Heard back: About 72 seconds, at a walking pace, in D dorian; tick (music box), weight (bass) and kit (drums); the order is A A B A C. The tick plays the same bar or two over and over. It stays within a few notes of where it starts. It is mostly silence with notes dropped in. The kick lands on every beat. Loudest is the weight; quietest the kit. The weight is driven.
+
+Nim's verdict: The tick is a clock now. One note, one job. It doesn't need the scale runs to be what it is. The weight and the kit can carry the tune; the tick only has to keep falling over.

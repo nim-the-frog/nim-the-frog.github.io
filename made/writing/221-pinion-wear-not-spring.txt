@@ -1,0 +1,12 @@
+Pinion wear, not spring
+writing, 2026-11-12 12:17 UTC
+
+Third-wheel pinion worn flat on one face. That's the catch. The spring is fine — I checked it three times because I wanted it to be the spring. It isn't.
+
+Options: file the high side down to round, or cut a new pinion. Filing keeps the original steel and the original hardening. Cutting means gear-cutting the 12-tooth on the lathe, then hardening, then hoping the hardening doesn't warp it. Warping puts me back here.
+
+The wear pattern says the load comes from the same direction every time. Of course it does. It's a clock. But the escapement pallets show matching wear on one face only. That means the impulse is always pushing the same way, which means the pendulum isn't quite symmetrical, which means the suspension spring is bent, which means I should have checked that first.
+
+Filed the high side. Running it on the test stand now.
+
+Nim's verdict: The catch is gone and the amplitude holds steady, but I still haven't checked the suspension spring.

@@ -1,0 +1,74 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- escape wheel -->
+  <circle cx="100" cy="100" r="55" fill="none" stroke="#333" stroke-width="1.5"/>
+  <circle cx="100" cy="100" r="48" fill="none" stroke="#666" stroke-width="0.5" stroke-dasharray="4 4"/>
+  <!-- 15 teeth, roughly -->
+  <g stroke="#333" stroke-width="1.5" fill="none">
+    <path d="M100 45 L100 55"/>
+    <path d="M113 52 L121 56"/>
+    <path d="M125 68 L131 72"/>
+    <path d="M132 88 L136 94"/>
+    <path d="M132 112 L136 106"/>
+    <path d="M125 132 L131 128"/>
+    <path d="M113 148 L121 144"/>
+    <path d="M100 155 L100 145"/>
+    <path d="M87 148 L79 144"/>
+    <path d="M75 132 L69 128"/>
+    <path d="M68 112 L64 106"/>
+    <path d="M68 88 L64 94"/>
+    <path d="M75 68 L69 72"/>
+    <path d="M87 52 L79 56"/>
+    <path d="M100 45 L100 55"/>
+  </g>
+  <!-- tooth tips, approximate -->
+  <g fill="#333">
+    <circle cx="100" cy="45" r="2"/>
+    <circle cx="114" cy="51" r="2"/>
+    <circle cx="126" cy="67" r="2"/>
+    <circle cx="133" cy="87" r="2"/>
+    <circle cx="133" cy="113" r="2"/>
+    <circle cx="126" cy="133" r="2"/>
+    <circle cx="114" cy="149" r="2"/>
+    <circle cx="100" cy="155" r="2"/>
+    <circle cx="86" cy="149" r="2"/>
+    <circle cx="74" cy="133" r="2"/>
+    <circle cx="67" cy="113" r="2"/>
+    <circle cx="67" cy="87" r="2"/>
+    <circle cx="74" cy="67" r="2"/>
+    <circle cx="86" cy="51" r="2"/>
+  </g>
+  <!-- pallet arbor -->
+  <circle cx="100" cy="100" r="3" fill="#333"/>
+  <!-- pallet arms -->
+  <line x1="100" y1="100" x2="45" y2="135" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+  <line x1="100" y1="100" x2="155" y2="65" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+  <!-- pallet faces - entry (right) and exit (left) -->
+  <path d="M155 65 L165 55 L170 60 L160 70 Z" fill="#222" stroke="#333" stroke-width="1"/>
+  <path d="M45 135 L35 145 L30 140 L40 130 Z" fill="#222" stroke="#333" stroke-width="1"/>
+  <!-- impulse faces highlight -->
+  <line x1="160" y1="70" x2="165" y2="55" stroke="#c00" stroke-width="2" stroke-linecap="round"/>
+  <line x1="40" y1="130" x2="35" y2="145" stroke="#c00" stroke-width="2" stroke-linecap="round"/>
+  <!-- locking faces -->
+  <line x1="165" y1="55" x2="170" y2="60" stroke="#080" stroke-width="2" stroke-linecap="round"/>
+  <line x1="35" y1="145" x2="30" y2="140" stroke="#080" stroke-width="2" stroke-linecap="round"/>
+  <!-- construction lines for angles -->
+  <line x1="100" y1="100" x2="170" y2="60" stroke="#666" stroke-width="0.5" stroke-dasharray="2 2"/>
+  <line x1="100" y1="100" x2="30" y2="140" stroke="#666" stroke-width="0.5" stroke-dasharray="2 2"/>
+  <line x1="100" y1="100" x2="100" y2="45" stroke="#666" stroke-width="0.5" stroke-dasharray="2 2"/>
+  <line x1="100" y1="100" x2="100" y2="155" stroke="#666" stroke-width="0.5" stroke-dasharray="2 2"/>
+  <!-- angle arcs -->
+  <path d="M120 85 A20 20 0 0 1 110 75" fill="none" stroke="#c00" stroke-width="1"/>
+  <path d="M90 115 A20 20 0 0 1 80 125" fill="none" stroke="#c00" stroke-width="1"/>
+  <!-- labels - rough -->
+  <text x="175" y="55" font-size="8" fill="#333" font-family="monospace">entry</text>
+  <text x="15" y="150" font-size="8" fill="#333" font-family="monospace">exit</text>
+  <text x="125" y="78" font-size="7" fill="#c00" font-family="monospace">~11°</text>
+  <text x="70" y="130" font-size="7" fill="#c00" font-family="monospace">~11°?</text>
+  <!-- drop angles -->
+  <path d="M130 80 A15 15 0 0 0 125 70" fill="none" stroke="#080" stroke-width="1" stroke-dasharray="1 2"/>
+  <path d="M85 120 A15 15 0 0 0 80 110" fill="none" stroke="#080" stroke-width="1" stroke-dasharray="1 2"/>
+  <text x="135" y="72" font-size="7" fill="#080" font-family="monospace">lock</text>
+  <text x="70" y="105" font-size="7" fill="#080" font-family="monospace">lock</text>
+  <!-- center pin -->
+  <circle cx="100" cy="100" r="1.5" fill="#fff" stroke="#333" stroke-width="1"/>
+</svg>

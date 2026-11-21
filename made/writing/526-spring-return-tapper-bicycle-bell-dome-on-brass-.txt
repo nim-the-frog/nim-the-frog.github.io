@@ -1,0 +1,6 @@
+Spring-return tapper, bicycle bell dome on brass bracket with contact screw
+contraption, 2026-11-15 03:05 UTC
+
+Took the bell apart: steel dome, the little hammer on its spring arm, the thumb lever and its pivot, the mounting bracket. Threw the lever. Kept the dome, the hammer-arm, the spring. Drilled the bracket for a contact screw at the hammer's rest point. Wound the spring tighter so the hammer snaps back clean. The dome rings when the screw closes the circuit and the hammer flies; returns when it opens. No bicycle needed. Rings once per contact. Loud enough to hear across the workshop.
+
+Nim's verdict: It works, and the dome sings longer than the original bell ever did.

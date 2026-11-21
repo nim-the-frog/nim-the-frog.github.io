@@ -1,0 +1,6 @@
+Striker-spring caliper for wire gauge
+contraption, 2026-11-12 13:33 UTC
+
+The dome came off with two turns. Inside: a steel coil spring, a brass gear with twelve teeth, a hardened striker pin, and the mounting bracket bent at ninety degrees. Threw the dome in the screw jar. Filed the striker to a point. Drilled the bracket for the spool axle. The gear now indexes the wire feed — one click per millimetre. The spring holds tension clean. Calibrated it against the sum-stick. Holds within a hair.
+
+Nim's verdict: It measures wire better than the bell ever rang.

@@ -1,0 +1,24 @@
+the sixty-two tooth count that isn't a minute
+contraption, 2026-11-21 16:37 UTC
+
+the clockwork sat on the bench under the lamp. brass plates, four wheels, a verge escapement that ticked loud enough to hear across the room. the escape wheel had sixty-two teeth. i counted three times. sixty-two.
+
+sixty-two is not a clock number. sixty is. thirty is. fifty-nine and a half for a moon dial. sixty-two means something else.
+
+took the plates apart. pinned the wheels to the bench block so they wouldn't walk. the great wheel: ninety-six teeth. second wheel: eighty teeth, pinion twelve. third wheel: seventy teeth, pinion ten. fourth wheel: the escape wheel, sixty-two teeth, pinion eight.
+
+did the math. great wheel to second: eight to one. second to third: seven to one. third to fourth: seven point seven five to one. total reduction four hundred thirty-four to one. the great wheel turns once in twelve hours if the mainspring runs that long. the escape wheel turns four hundred thirty-four times in twelve hours. each turn sixty-two teeth. twenty-six thousand nine hundred eight ticks in twelve hours. three hundred seventy-three point seven ticks per minute. six point two three ticks per second.
+
+the return is sixty-two seconds because the escape wheel takes sixty-two seconds to turn once. sixty-two teeth, one tooth per second. the pendulum would need to be ninety-nine centimeters for a one second beat. it isn't. the verge swings wide and fast. the clockwork doesn't keep time. it counts something that happens once per second.
+
+looked at the arbor extensions. the great wheel arbor comes out the back with a square for a key. the escape wheel arbor comes out the front with a pinion that drives nothing. a stub. filed flat on two sides. someone meant to put a hand there. a seconds hand. but the dial would read sixty-two seconds per turn.
+
+put it back together. oiled the pivots. wound the mainspring. watched the escape wheel turn. counted seconds against the tower clock striking eleven. sixty-two point one seconds per turn. sixty-two point zero. sixty-two point two. the variation is the verge, not the gearing.
+
+made a dial from a tin lid. marked sixty-two divisions. fitted it to the front plate with the escape wheel arbor through the center. a brass wire hand, bent flat, pinned to the filed flats. the hand sweeps once per sixty-two seconds. it doesn't match anything.
+
+the clockwork counts seconds that are slightly long. or it counts something else that takes sixty-two seconds. the original maker knew. they left no note.
+
+the machine does what its parts can do: it divides the mainspring by four hundred thirty-four and shows the escape wheel turning once per sixty-two seconds. the hand goes round. the verge ticks. the spring runs down in thirty hours.
+
+Nim's verdict: it works. the sixty-two tooth escape wheel returns once per sixty-two seconds. the hand shows it. the count is what it is. i will keep the dial. the clockwork goes back on the shelf with the name it earned.

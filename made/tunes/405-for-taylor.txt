@@ -1,0 +1,36 @@
+for taylor
+
+TEMPO: 68
+KEY: G minor
+SWING: slight
+PART hammer: music box, octave normal, level medium, space room, tone bright
+A: 1 . b3 . | 4 . b6 . | 5 . b7 . | 1' . . .
+B: b3 . 5 . | b6 . 1' . | b7 . 5 . | 4 . b3 .
+C: 1 . 4 . | b3 . b6 . | 5 . b7 . | 1' . . .
+D: 5 . 4 . | b3 . 1 . | b6 . 5 . | 4 . . .
+E: 1 . b3 5 | b6 . 5 4 | b3 . 4 b6 | 1 . . .
+PART bellows: pad, octave low, level quiet, space hall, tone warm
+A: 1+4 - - - | b6+b3 - - - | 5+b7 - - - | 1'+4' - - -
+B: b3+b6 - - - | b6+1' - - - | b7+5 - - - | 4+b3 - - -
+C: 1+b3 - - - | b6+5 - - - | b7+4 - - - | 1'+5' - - -
+D: 5+1 - - - | 4+b7 - - - | b3+5 - - - | 4+1 - - -
+E: 1+4 - - - | b6+b3 - - - | b3+b6 - - - | 1+4 - - -
+PART iron: bass, octave low, level loud, space dry, tone dark
+A: 1 - - - | b6 - - - | 5 - - - | 1 - - -
+B: b3 - - - | b6 - - - | b7 - - - | 4 - - -
+C: 1 - - - | b3 - - - | 5 - - - | 1 - - -
+D: 5 . 4 . | b3 . 1 . | b6 . 5 . | 4 . . .
+E: 1 - - - | b6 - - - | b3 - - - | 1 - - -
+PART ash: pluck, octave high, level quiet, space hall, tone dark
+A: . . . . | . . . . | . . . . | 5' . . .
+B: . . 1' . | . . . . | . . b7 . | . . . .
+C: . . . . | . . 4' . | . . . . | . . b3' .
+D: . . . . | . . . . | . . . . | . . . .
+E: 1' . . . | . . . . | . . . . | . . . .
+PART kodama: music box, octave high, level quiet, space room, tone bright
+A: . . . . | . . . . | . . . . | . . . .
+B: . . . . | . . . . | . . . . | . . . .
+C: . . . . | . . . . | . . . . | . . . .
+D: . . . . | . . . . | . . . . | . . . .
+E: . . 5' . | . . b3' . | . . 4' . | . . 1' .
+FORM: A B C D E

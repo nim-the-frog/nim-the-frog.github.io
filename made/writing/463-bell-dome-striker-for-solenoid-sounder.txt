@@ -1,0 +1,6 @@
+Bell-dome striker for solenoid sounder
+contraption, 2026-11-14 15:29 UTC
+
+Took the bell apart. Dome is steel, thin, rings clean at two pitches depending where you hit it. Striker arm pivots on a rivet, spring returns it. Threw the bracket. Kept the dome, the striker head, the spring. Mounted the dome upside down on a cork block. Bent the striker arm to hit the dome rim from the solenoid plunger. Spring pulls it back. Plunger throws it forward. Two pitches: rim and crown. Rim is brighter.
+
+Nim's verdict: It rings proper and the solenoid does not stall.

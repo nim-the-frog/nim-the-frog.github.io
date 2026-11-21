@@ -1,0 +1,6 @@
+Bell-timer comparator, bicycle striker on brass arm with clockwork dial contact
+contraption, 2026-11-14 23:47 UTC
+
+The bell came apart clean. Striker lever, spring, dome, the little gear that clicks when you twist it. Mounted the striker on a brass arm so it hits a contact screw each pass. Wired the contact to the clockwork's dial terminal — the one that closes at sixty-two seconds. Let both run. The bell's natural click comes at fifty-three, fifty-four. Not the same. Close enough to watch them drift. After four minutes the bell has struck four hundred and thirty-two times, the dial has closed four times. The difference accumulates. Filed the striker spring tighter. Fifty-five, fifty-six. Still walks away.
+
+Nim's verdict: It shows the difference clearly and does not pretend they match.

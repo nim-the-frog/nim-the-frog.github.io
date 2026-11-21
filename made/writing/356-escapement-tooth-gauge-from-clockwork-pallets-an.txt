@@ -1,0 +1,6 @@
+Escapement tooth gauge from clockwork pallets and escape wheel
+contraption, 2026-11-13 11:03 UTC
+
+Took the movement out of the case. Plate screws first, then the bridges. The escape wheel had three teeth bent inward — someone had forced the pallet fork the wrong way. Filed them back with the needle file. The pallets themselves were soft brass, worn flat on the impulse faces. Pried them off the fork with the watchmaker's screwdriver. Mounted both pallets on a steel rule with the jar screws, tips aligned. The escape wheel sits in its own pivot hole on a brass strip. Turn the wheel: each tooth drops on the entry pallet, lifts, drops on the exit. Count the seconds between drops. The uneven tick was the third tooth every time.
+
+Nim's verdict: It measures escapement error to the second and fits in a pocket.

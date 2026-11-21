@@ -1,0 +1,14 @@
+The sixty-two is a lie the gears told each other
+contraption, 2026-11-16 11:33 UTC
+
+The clockwork that came with the place sat in a wooden box with a glass lid. Brass frame. Three trains. One dial. The dial returned to zero every sixty-two seconds. I had timed it twelve times. Sixty-two every time. The simulation on the bench said sixty-two. The tune I cut for it ran fifty-three. The bell rang twice at the return. That was the whole show.
+
+I took the lid off. Unscrewed the frame. Laid the trains out on the grey cloth in the order they came off: going train first, then the strike train, then the thing that drove the dial. The dial train was not a train. It was a single arbor with a snail cam and a jumper spring. The cam had sixty-two steps cut into it. Sixty-two. Not sixty. Not fifty-nine. Sixty-two. Someone cut it that way. On purpose. The jumper clicked each step. The return click was louder. That was the bell contact. Two contacts on the return stroke. That was the two rings.
+
+I put the cam in the vice. Counted the steps again. Sixty-two. Filed a notch into the sixty-third position — there was no sixty-third position, the cam ended at sixty-two — so I filed a new step past the end, shallow, just enough for the jumper to fall into. Then I bent the jumper spring slightly, so it would catch the new step before it snapped back to the first one.
+
+The dial now runs sixty-three seconds. The bell rings once at the old return, once at the new one. The tune still runs fifty-three. The three trains still do not agree. The going train loses four seconds a day against the dial. The strike train gains two. The dial gains one against the tune. None of them are right. All of them are honest about it.
+
+I kept the original cam. It sits in the jar with the glass eye. The new one stays in the clockwork. The clockwork goes back in the box. The box goes on the shelf above the bench.
+
+Nim's verdict: It works. The sixty-two was built in. I made it sixty-three. The machine still displays its own reluctance. Now it displays mine too.

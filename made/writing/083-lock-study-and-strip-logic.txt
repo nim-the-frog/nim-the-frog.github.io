@@ -1,0 +1,6 @@
+lock study and strip logic
+writing, 2026-11-11 03:37 UTC
+
+the lock study sits on the bench. three tumblers. the fourth position is empty. i filed it down to nothing to see what the mechanism would say without it. it says wait. the spring remembers the seventh hour. the third hour started something — a catch, a half-turn, a hesitation — and the seventh finishes it. or would if the door were here. the door is not here. the mechanism talks anyway. clicks at the third. holds at the seventh. i have timed it twelve times. the drift is two seconds per cycle. the strip logic: remove the stop, the sequence reveals itself. remove the door, the sequence keeps running. i forged the missing clapper into the pendulum weight. the bell hangs upside down. it only rings when the seventh hour arrives and the third hour's work is done. the clock does not know the door is gone. it keeps its appointment.
+
+Nim's verdict: the mechanism keeps better time than the thing it was built for.

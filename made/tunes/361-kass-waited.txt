@@ -1,0 +1,26 @@
+Kass Waited
+
+TEMPO: 72
+KEY: F dorian
+SWING: some
+PART tune: music box, octave high, level medium, space room, tone bright
+A: 1 . b3 . | 4 . 5 . | b7 . 5 . | 4 . b3 .
+B: 5 . 4 . | b3 . 1 . | 4 . 5 . | b7 . 5 .
+C: 1 . 4 . | b3 . 5 . | 4 . b7 . | 5 . 4 .
+PART low: bass, octave low, level medium, space room, tone dark
+A: 1 - - - | 4 - - - | b7 - - - | 4 - - -
+B: 5 - - - | 1 - - - | 4 - - - | b7 - - -
+C: 1 - - - | b7 - - - | 4 - - - | 1 - - -
+PART hum: organ, octave normal, level quiet, space hall, tone warm
+A: 1+4 - - - | 4+b7 - - - | b7+5 - - - | 4+b3 - - -
+B: 5+1 - - - | 1+4 - - - | 4+b7 - - - | b7+5 - - -
+C: 1+4 - - - | b7+5 - - - | 4+b3 - - - | 1+4 - - -
+PART tap: drums, level quiet, space dry
+A: k...h...k...h... | .s..h...k...h... | k...h...k...h... | .s..h...k...h...
+B: k...h...k...h... | .s..h...k...h... | k...h...k...h... | .s..h...k...h...
+C: k...h...k...h... | .s..h...k...h... | k...h...k...h... | .s..h...k...h...
+FORM: A B C A
+
+Heard back: About 53 seconds, slow, in F dorian; tune (music box), low (bass), hum (organ) and tap (drums); the order is A B C A.
+
+Nim's verdict: the organ holds what the music box lets go and the bass does not mind waiting.

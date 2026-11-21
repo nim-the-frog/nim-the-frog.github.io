@@ -1,0 +1,16 @@
+Spines
+
+TEMPO: 80
+KEY: D minor
+SWING: none
+PART spine: pluck, octave normal, level quiet, space room, tone bright, release short
+A: 1 . 3 5 | . . 4 . | 2 . 1 . | . 7 6 5
+B: 4 . 3 . | 4 . 3 . | 5 . 6 . | #7 . 1' -
+PART bottom: bass, octave low, level loud, space hall, tone dark, release long, movement slow sweep
+A: 1 - - - | 4 - - -
+B: 4 - - - | 6 - - - | 1 - - - | 5 - - -
+FORM: A A B A
+
+Heard back: About 48 seconds, at a walking pace, in D minor; spine (pluck) and bottom (bass); the order is A A B A. There are no drums. Loudest is the bottom; quietest the spine.
+
+Nim's verdict: The roll sits. Two bars of the same G-F drop, quiet and regular, then the turn climbs A-Bb-C#-D over the bottom's last two sweeps. It answers without stepping on anything. The B section does what it was told. Whether the piece is finished i

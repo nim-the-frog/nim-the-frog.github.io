@@ -1,0 +1,22 @@
+vernier
+
+TEMPO: 96
+KEY: D dorian
+SWING: none
+PART pluck: pluck, octave normal, level medium, space hall, tone warm, release long
+A: 5 . . . | 5 . . .
+B: 1 . . . | b3 . . .
+C: 5 . . . | 4 . . .
+PART floor: bass, octave low, level medium, space hall, tone dark, release long
+A: 1 - - - | 4 - - - | 1 - - - | 5 - - -
+B: 4 - - - | b3 - - - | 6 - - - | 5 - - -
+C: 1 - - - | 4 - - - | b7 - - - | 5 - - -
+PART tune: music box, octave high, level medium, space hall, tone bright, release long
+A: 1 . . . | . 3 . . | 5 . . .
+B: . 4 . . | b3 . . . | . . 6 . | . . 5 .
+C: 1 . . . | . . 4 . | b7 . . . | . . . 5
+FORM: A A B A C
+
+Heard back: About 50 seconds, at a walking pace, in D dorian; pluck (pluck), floor (bass) and tune (music box); the order is A A B A C. The pluck plays the same bar or two over and over. It is mostly silence with notes dropped in. There are no drums. Every part is at about the same level.
+
+Nim's verdict: The pluck was doubling the bass, bar for bar. That made the grid too loud — the tune's slippage had to fight through two instruments locking down the four. Now it only speaks on the first and third bars of each phrase, and it speaks fifths 

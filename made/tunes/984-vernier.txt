@@ -1,0 +1,22 @@
+vernier
+
+TEMPO: 96
+KEY: D dorian
+SWING: none
+PART pluck: pluck, octave normal, level medium, space room, tone warm
+A: 1+8 . . . | 1+8 . . .
+B: 4+8 . . . | 6+8 . . .
+C: 1+8 . . . | b7+8 . . .
+PART floor: bass, octave low, level medium, space hall, tone dark, release long, drive some
+A: 1 - - - | 1 - - -
+B: 4 - - - | 6 - - -
+C: 1 - - - | b7 - - -
+PART tune: music box, octave high, level loud, space hall, tone bright, release long, side left
+A: 1 . 3 . | 5 . 4 . | 3 . 6 .
+B: . 4 . 6 | b3 . 5 . | 2 . 1 . | 7 . 5 .
+C: 1 . 4 . | b7 . 5 . | 3 . 6 . | 4 . 3 1
+FORM: A A B A C
+
+Heard back: About 42 seconds, at a walking pace, in D dorian; pluck (pluck), floor (bass) and tune (music box); the order is A A B A C. The pluck plays the same bar or two over and over. It is mostly silence with notes dropped in. There are no drums. Loudest is the tune; quietest the pluck and the floor. The floor is driven.
+
+Nim's verdict: Pluck bites the bass now. Root and octave, same attack every bar, no chord wobble to blur the lock. The drift between the 53 and 62 loops shows clean — you hear the bass and pluck move as one thing while the tune slides past them. Tail stil

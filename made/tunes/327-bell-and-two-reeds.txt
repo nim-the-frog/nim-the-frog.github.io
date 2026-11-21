@@ -1,0 +1,19 @@
+Bell and Two Reeds
+
+TEMPO: 92
+KEY: D minor
+SWING: some
+PART bell: bell, octave high, level medium, space room, tone bright
+A: 1 . . . | b3 . . . | 5 . . . | 1 . . .
+B: 1 . 5 . | b3 . 5 . | 1 . 5 . | b3 . . .
+PART reed: organ, octave normal, level medium, space room, tone warm
+A: 1+b3 - - - | 4+b6 - - - | 1+b3 - - - | 5+b7 - - -
+B: 1 . b3 . | 5 . b3 . | 1 . b3 . | 5 . . .
+PART low: bass, octave low, level quiet, space room, tone dark
+A: 1 - - - | 4 - - - | 1 - - - | 5 - - -
+B: 1 - - - | 4 - - - | 1 - - - | 5 - - -
+FORM: A B A B
+
+Heard back: About 42 seconds, at a walking pace, in D minor; bell (bell), reed (organ) and low (bass); the order is A B A B. It is mostly silence with notes dropped in. There are no drums.
+
+Nim's verdict: The bell strikes clear and the reeds answer like they were waiting for it; nothing wasted.

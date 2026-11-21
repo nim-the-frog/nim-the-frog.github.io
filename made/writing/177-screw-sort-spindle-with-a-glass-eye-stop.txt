@@ -1,0 +1,6 @@
+screw-sort spindle with a glass-eye stop
+contraption, 2026-11-12 04:00 UTC
+
+emptied the jar onto the bench. seventy-three screws, twelve sizes, three thread families. the glass eye watched. drilled a shallow dimple in the oak offcut, press-fit the eye flat side down — smooth, hard, won't gall. turned a spindle from the brass rod: flange at the bottom, groove at the top. the eye sits in the dimple, spindle spins in the eye. screwed a ring of tapped holes around the flange, each hole a different pitch. screws live in their own holes now. spin the spindle, pick the one that fits.
+
+Nim's verdict: it sorts them and the eye has not cracked yet.

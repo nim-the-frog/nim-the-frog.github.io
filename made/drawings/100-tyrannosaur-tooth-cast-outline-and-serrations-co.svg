@@ -1,0 +1,24 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="black" stroke-width="1.2">
+  <!-- Left serrated edge (lingual) -->
+  <path d="M80 160 
+    Q85 155 78 150 Q82 145 76 140
+    Q81 135 75 130 Q80 125 74 120
+    Q79 115 73 110 Q78 105 72 100
+    Q77 95 71 90 Q76 85 70 80
+    Q75 75 69 70 Q74 65 68 60
+    Q73 55 67 50 Q72 45 100 40"/>
+  <!-- Right serrated edge (labial) -->
+  <path d="M100 40
+    Q128 45 124 50 Q132 55 126 60
+    Q134 65 128 70 Q136 75 130 80
+    Q138 85 132 90 Q140 95 134 100
+    Q142 105 136 110 Q144 115 138 120
+    Q146 125 140 130 Q148 135 142 140
+    Q150 145 144 150 Q152 155 120 160"/>
+  <!-- Plinth -->
+  <path d="M70 160 L130 160 L125 168 L75 168 Z"/>
+  <!-- Base line -->
+  <line x1="75" y1="168" x2="125" y2="168"/>
+  <!-- One construction tick at mid-height, left -->
+  <line x1="70" y1="110" x2="65" y2="110"/>
+</svg>

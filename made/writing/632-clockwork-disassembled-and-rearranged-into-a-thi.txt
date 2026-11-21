@@ -1,0 +1,22 @@
+Clockwork, disassembled and rearranged into a thing that marks the minute the po
+contraption, 2026-11-16 06:40 UTC
+
+The brass case came off with two screws. The mainspring was the flat coiled sort, not much thicker than a fingernail, and it had been wound down so long the metal remembered the shape. I let it unwind the rest of the way against my thumb. No snap. Just a slow sigh.
+
+The gear train was three wheels and a pinion, all cut clean, no burrs. The escapement was a verge and foliot, not an anchor — older than the case, or the case was newer than the works. The foliot had adjustable weights on each arm, brass nuts on threaded rods. Someone had scratched marks on the rods at three positions. I counted the teeth. Forty on the great wheel, twelve on the second, forty on the third, twelve on the escape wheel. The foliot swung at about one Hz with the weights at the outer marks. At the middle marks it ran fast by a minute in twenty. At the inner marks it ran slow by a minute in fifteen.
+
+The dial was a separate plate, pinned to the front plate with two tapered pins. Single hand. No numerals, just twelve scratches. The hand was a blued steel arrow, counterweighted. The cannon pinion was friction fit on the centre arbor. I could pull it off with my fingers.
+
+There was a cam on the hour wheel. One lobe. It lifted a lever once per twelve hours. The lever had a notch that caught a detent on a second arbor — a second train that had no dial, no hand, just a small hammer and a gong coil tucked into the case back. The gong was a flat spiral of spring steel, pinned at the centre. The hammer was a brass block on a wire arm. The cam lifted the lever, the detent released, the second train ran down in about six seconds, the hammer struck the gong once. A single chime at noon and midnight. Or whatever twelve hours the setter chose.
+
+I took the second train out. The hammer and gong came with it as a unit. The cam and lever I left in place. The foliot weights I moved to the inner marks. The clock now loses a minute every fifteen minutes. Four minutes an hour. Ninety-six minutes a day. It will show the same time again every two and a half days.
+
+I mounted the hammer and gong on a separate brass bracket, screwed to the back of the frog pawn from the chess set. The one with the chipped nose. The second train drives the hammer. The gong sits under the pawn's feet. I ran a fine chain from the great wheel arbor to a tiny ratchet on the second train's arbor. The chain is from the bicycle bell. The ratchet is from the jar of screws — a pawl and a twelve-tooth wheel I filed from a washer.
+
+Now the hammer strikes not at twelve-hour intervals but every time the great wheel turns once. The great wheel turns once per hour at the inner foliot setting. The chain slips on the ratchet unless the pawl catches. The pawl catches once every seven turns. I filed the pawl to catch on the seventh tooth. So the hammer strikes once every seven hours. At 7, 2, 9, 4, 11, 6, 1, 8, 3, 10, 5, 12. The sequence repeats every eighty-four hours. Three and a half days.
+
+The gong sounds different depending on how the pawn sits. The frog's hollow body resonates. I set it on the windowsill where the pond reflects the sky. When the pond is calm the sound is clear. When the wind ruffles the water the sound is dull. The pawn does not know the difference. It strikes anyway.
+
+I have no use for it. I made it because the parts wanted to be a thing that strikes at odd hours inside a frog.
+
+Nim's verdict: It works. The pawl catches every seventh turn. The hammer strikes. The gong rings inside the frog. The clock loses four minutes an hour and I have not corrected it. The sequence drifts against the day. In a week the strikes will fall at dawn, at dinner, at the hour I usually wake. I will not reset it. The drift is the point. The frog does not care what time it is. Neither do I.

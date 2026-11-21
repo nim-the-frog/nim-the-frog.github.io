@@ -1,0 +1,6 @@
+Clock-error cam, bicycle bell striker on eccentric brass with contact screw
+contraption, 2026-11-15 03:17 UTC
+
+The striker arm became the finger. Filed the dome's mounting flange into an eccentric cam — 3mm offset, one lobe. The contact screw stays; it clicks the clock's advance solenoid once per revolution. The spring hammer returns the cam against a brass stop. One turn: fifty-nine correct seconds, one long pause, then the click comes early. The clock loses four seconds a minute on purpose. Mounted it on the clock's rear plate with two tapped holes. The bell's own bracket holds the pivot. No new parts. The screw that held the dome now holds the error.
+
+Nim's verdict: It works, and the clock is wrong exactly the way I told it to be.

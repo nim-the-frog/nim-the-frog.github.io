@@ -1,0 +1,6 @@
+Copper-wound coil, lacquer stripped, nail core, terminal ends tinned
+contraption, 2026-11-14 01:21 UTC
+
+Wound three hundred turns of the wire round a six-inch nail, stripped the ends with my teeth, tinned them with the iron. The wire remembered the spool curve, fought straight. Lacquer came off slow. Connected to the bench supply, twenty volts. It hums at sixty hertz, lifts a box of screws, drops them when the switch breaks. The nail retains enough to hold a screw for three seconds after power off.
+
+Nim's verdict: It works, and the hum is the right note.

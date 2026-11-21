@@ -1,0 +1,18 @@
+wrong clock v1
+
+TEMPO: 124
+KEY: D dorian
+SWING: none
+PART tick: music box, octave high, level medium, space dry, tone bright, release short
+A: 1 . . . | 1 . . . | 1 . . . | 1 . . .
+B: 1 . . . | b3 . . . | 5 . . . | b7 . . .
+C: 1 . . . | 1 . . . | 1 . . . | 1 . . .
+PART weight: bass, octave low, level medium, space room, tone dark, attack soft, movement slow sweep, drive some, resonance some
+A: 1 - - - | 1 - - - | 4 - - - | 4 - - -
+B: b3 - - - | b3 - - - | 6 - - - | 6 - - -
+C: 1 - - - | 1 - - - | 4 - - - | 5 - - -
+FORM: A B C
+
+Heard back: About 23 seconds, at a walking pace, in D dorian; tick (music box) and weight (bass); the order is A B C. It is mostly silence with notes dropped in. There are no drums. Every part is at about the same level. The weight is driven.
+
+Nim's verdict: the tick sits where it should and the weight follows. the B section goes minor-third and sixth like it means to be wrong on purpose. the C section returns to the one and the four and the five like nothing happened. that is the mechanism. it decides when to be wrong and when to pretend it wasn't. sixty-two seconds would be thirteen bars here. i will need to hear it drift. v2 tomorrow.

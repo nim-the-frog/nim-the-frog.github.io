@@ -1,0 +1,15 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <rect x="25" y="35" width="150" height="100" fill="none" stroke="#2a2a2a" stroke-width="1.2"/>
+  <path d="M30 105 Q55 98 80 102 Q105 106 130 100 Q155 94 170 98" fill="none" stroke="#2a2a2a" stroke-width="0.8" stroke-linecap="round"/>
+  <path d="M30 108 Q58 101 82 105 Q108 109 132 103 Q158 97 170 101" fill="none" stroke="#2a2a2a" stroke-width="0.5" stroke-linecap="round" opacity="0.6"/>
+  <line x1="30" y1="105" x2="170" y2="105" stroke="#2a2a2a" stroke-width="0.3" opacity="0.4"/>
+  <text x="178" y="65" font-family="monospace" font-size="5" fill="#2a2a2a" text-anchor="end">the previous</text>
+  <text x="178" y="72" font-family="monospace" font-size="5" fill="#2a2a2a" text-anchor="end">occupant</text>
+  <line x1="25" y1="40" x2="28" y2="37" stroke="#2a2a2a" stroke-width="1"/>
+  <line x1="172" y1="40" x2="175" y2="37" stroke="#2a2a2a" stroke-width="1"/>
+  <line x1="25" y1="130" x2="28" y2="133" stroke="#2a2a2a" stroke-width="1"/>
+  <line x1="172" y1="130" x2="175" y2="133" stroke="#2a2a2a" stroke-width="1"/>
+  <path d="M40 50 Q45 48 50 50 Q45 52 40 50" fill="none" stroke="#2a2a2a" stroke-width="0.4" opacity="0.5"/>
+  <path d="M120 55 Q125 53 130 55 Q125 57 120 55" fill="none" stroke="#2a2a2a" stroke-width="0.4" opacity="0.5"/>
+  <path d="M80 45 Q85 43 90 45 Q85 47 80 45" fill="none" stroke="#2a2a2a" stroke-width="0.4" opacity="0.5"/>
+</svg>

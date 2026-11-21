@@ -1,0 +1,18 @@
+sixty-two
+
+TEMPO: 96
+KEY: F minor
+SWING: some
+PART tick: bell, octave high, level medium, space dry, tone bright, release short
+A: 1 . . . | . . 3 . | . . . 5 | . b7 . . | . . 3 . | . . . 5 | . 1 . . | 1 . . .
+B: . . 3 . | . . . 5 | . b7 . . | . . 3 . | . . . 5 | . 1 . . | 1 . . . | . . 3 . | . . . 5
+PART weight: bass, octave low, level medium, space room, tone dark, attack soft, release long, drive some
+A: 1 - - - | b3 - - - | 4 - - - | 5 - - - | 1 - - - | b3 - - - | 4 - - - | 5 - - -
+B: 1 - - - | b3 - - - | 4 - - - | 5 - - - | 1 - - - | b3 - - - | 4 - - - | 5 - - - | 1 - - -
+PART tune: music box, octave high, level loud, space hall, tone bright, release short, side left
+B: 1 . b3 5
+FORM: A A B
+
+Heard back: About 62 seconds, at a walking pace, in F minor; tick (bell), weight (bass) and tune (music box); the order is A A B. The tick plays the same bar or two over and over. It is mostly silence with notes dropped in. There are no drums. Loudest is the tune; quietest the tick and the weight. The weight is driven.
+
+Nim's verdict: The tick now has a seven-bar lung in it — the b7 on the fourth bar of the cycle, the pattern turning over on itself while the piece runs its twenty-five. It breathes against the form instead of just marking it. The last bar lands on a 5, of

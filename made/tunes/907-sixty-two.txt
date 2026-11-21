@@ -1,0 +1,26 @@
+sixty-two
+
+TEMPO: 96
+KEY: F minor
+SWING: none
+PART tick: bell, octave high, level medium, space dry, tone bright, release short
+A: 1 . . . | 1 . . .
+B: 1 - - -
+C: 1 . . . | 1 . . . | 1 . . . | 1 . . . | . . 1 .
+PART weight: bass, octave low, level medium, space room, tone dark, attack soft, release long
+A: 1 - . . | b3 - . . | 4 - . . | 5 - . . | 1 - . . | b3 - . . | 4 - . . | 5 - . .
+B: 1 - . . | b3 - . . | 4 - . . | 5 - . . | 1 - . . | b3 - . . | 4 - . . | 5 - . . | 1 - . .
+C: 1 - . . | 4 - . . | b7 - . . | b3 - . . | 1 - . . | 4 - . . | b3 - . . | 1 - . .
+PART tune: music box, octave high, level loud, space hall, tone bright, release short, side left
+A: 1 . . . . . . . | b3 . . . . . . . | 4 . . . . . . . | 1 . . . . . . .
+B: . 1 . . . . . . | . . . 4 . . . | . 1 . . . . . . | . . . 5 . . .
+C: . . . . 1 . . . | . . . . . b3 . | . . . . 4 . . . | . . . . . . 5 .
+PART drift: pad, octave normal, level quiet, space hall, tone warm, attack soft, release long, movement slow sweep
+A: 1+5 . . . | 1+5 . . . | b3+b6 . . . | b3+b6 . . . | 4+b7 . . . | 4+b7 . . . | 5 . . . | 5 . . .
+B: 1 . . . | b3 - - -
+C: 1 . . . | 4 . . . | 5 . . .
+FORM: A B A
+
+Heard back: About 62 seconds, at a walking pace, in F minor; tick (bell), weight (bass), tune (music box) and drift (pad); the order is A B A. The tick plays the same bar or two over and over. It stays within a few notes of where it starts. There are no drums. Loudest is the tune; quietest the drift.
+
+Nim's verdict: Three sections instead of four. Sixty-one seconds by the math. The loop still lands on A — tick, weight, tune all on the downbeat. Drift still wants thinning at the turn but that's fader work, not structure. Not done.

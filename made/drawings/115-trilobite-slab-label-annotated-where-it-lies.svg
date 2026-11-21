@@ -1,0 +1,26 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <rect x="15" y="40" width="170" height="120" fill="none" stroke="#2a2a2a" stroke-width="1.5"/>
+  <path d="M45 100 Q55 85 70 90 Q80 80 85 92 Q95 85 100 95 Q105 88 108 98 Q110 90 112 100 Q115 105 110 112 L105 118 L100 122 L90 120 L80 118 L70 120 L60 115 L52 112 Q48 105 45 100" fill="none" stroke="#2a2a2a" stroke-width="1.2"/>
+  <path d="M52 98 L58 92" stroke="#2a2a2a" stroke-width="0.8"/>
+  <path d="M52 102 L58 108" stroke="#2a2a2a" stroke-width="0.8"/>
+  <circle cx="56" cy="95" r="1.5" fill="#2a2a2a"/>
+  <circle cx="56" cy="101" r="1.5" fill="#2a2a2a"/>
+  <path d="M130 105 Q142 92 160 98 Q170 90 175 100 Q180 95 182 105 Q183 100 180 110 Q178 105 175 112 Q170 108 165 118 L160 122 L150 120 L140 122 L135 118 L130 115 L128 110 Q126 102 130 105" fill="none" stroke="#2a2a2a" stroke-width="1.2"/>
+  <path d="M135 102 L142 96" stroke="#2a2a2a" stroke-width="0.8"/>
+  <path d="M135 108 L142 114" stroke="#2a2a2a" stroke-width="0.8"/>
+  <circle cx="139" cy="101" r="1.5" fill="#2a2a2a"/>
+  <circle cx="139" cy="107" r="1.5" fill="#2a2a2a"/>
+  <line x1="70" y1="92" x2="70" y2="60" stroke="#2a2a2a" stroke-width="0.8" stroke-dasharray="3 2"/>
+  <text x="70" y="55" font-family="monospace" font-size="7" fill="#2a2a2a" text-anchor="middle">label says "wore calcite shells"</text>
+  <line x1="165" y1="98" x2="185" y2="70" stroke="#2a2a2a" stroke-width="0.8" stroke-dasharray="3 2"/>
+  <text x="192" y="68" font-family="monospace" font-size="7" fill="#2a2a2a" text-anchor="start">they didn't wear them</text>
+  <text x="192" y="74" font-family="monospace" font-size="7" fill="#2a2a2a" text-anchor="start">they were them</text>
+  <line x1="100" y1="122" x2="100" y2="145" stroke="#2a2a2a" stroke-width="0.8" stroke-dasharray="3 2"/>
+  <text x="100" y="152" font-family="monospace" font-size="7" fill="#2a2a2a" text-anchor="middle">thorax segments free to flex</text>
+  <text x="100" y="158" font-family="monospace" font-size="7" fill="#2a2a2a" text-anchor="middle">label calls it "armour"</text>
+  <line x1="45" y1="100" x2="20" y2="115" stroke="#2a2a2a" stroke-width="0.8" stroke-dasharray="3 2"/>
+  <text x="12" y="120" font-family="monospace" font-size="7" fill="#2a2a2a" text-anchor="start">cephalon fused plate</text>
+  <text x="12" y="126" font-family="monospace" font-size="7" fill="#2a2a2a" text-anchor="start">not a helmet</text>
+  <path d="M20 50 L180 50 L180 55 L20 55 Z" fill="#e8e4dc" opacity="0.4"/>
+  <text x="100" y="53" font-family="monospace" font-size="6" fill="#2a2a2a" text-anchor="middle" opacity="0.6">shale slab — split bedding plane</text>
+</svg>

@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 768 768" width="768" height="768">
+<defs>
+<radialGradient id="vig" cx="50%" cy="48%" r="70%">
+<stop offset="0" stop-color="#f5f0e8" stop-opacity="0.9"/>
+<stop offset="0.6" stop-color="#ebe6da" stop-opacity="0.4"/>
+<stop offset="1" stop-color="#c9bfb0" stop-opacity="0.6"/>
+</radialGradient>
+<filter id="grain" filterUnits="userSpaceOnUse" x="0" y="0" width="768" height="768">
+<feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="718"/>
+<feColorMatrix type="matrix" values="0 0 0 0 .32  0 0 0 0 .28  0 0 0 0 .22  0 0 0 .55 -.15"/>
+</filter>
+<filter id="char" filterUnits="userSpaceOnUse" x="0" y="0" width="768" height="768">
+<feTurbulence type="fractalNoise" baseFrequency="0.04" numOctaves="2" seed="818" result="w"/>
+<feDisplacementMap in="SourceGraphic" in2="w" scale="4" xChannelSelector="R" yChannelSelector="G" result="d"/>
+<feTurbulence type="fractalNoise" baseFrequency="1.1" numOctaves="1" seed="218" result="g"/>
+<feColorMatrix in="g" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -2.2 2.0" result="h"/>
+<feComposite in="d" in2="h" operator="in"/>
+</filter>
+</defs>
+<rect width="768" height="768" fill="url(#vig)" filter="url(#grain)"/>
+<g filter="url(#char)">
+<!-- Base plate -->
+<rect x="84" y="84" width="600" height="600" fill="none" stroke="#2a2824" stroke-width="1.5" rx="8"/>
+<!-- Title -->
+<text x="384" y="52" font-family="Georgia, serif" font-size="18" fill="#2a2824" text-anchor="middle" font-weight="bold">518 — tooth 7 drag face correction</text>
+<text x="384" y="72" font-family="Georgia, serif" font-size="12" fill="#5a564e" text-anchor="middle" font-style="italic">based on 10x escapement analysis (515) — night day 88</text>
+
+<!-- BEFORE: the flawed drag face at 10x -->
+<g transform="translate(120, 160)">
+<text x="150" y="-10" font-family="Georgia, serif" font-size="14" fill="#2a2824" text-anchor="middle" font-weight="bold">BEFORE — 10x</text>
+<!-- Escape wheel tooth 7 -->
+<path d="M150 150 L180 140 L185 160 L155 170 Z" fill="#3a3630" stroke="#1a1814" stroke-width="1.2"/>
+<!-- Drag face - shows three depths -->
+<path d="M180 140 L185 160" stroke="#c03020" stroke-width="3" stroke-linecap="round"/>
+<path d="M181 142 L186 162" stroke="#a02818" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="2,2"/>
+<path d="M179 138 L184 158" stroke="#a02818" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="2,2"/>
+<!-- Anchor pallet resting on drag face -->
+<path d="M100 160 L140 160 L140 170 L100 170 Z" fill="#4a443c" stroke="#1a1814" stroke-width="1"/>
+<text x="70" y="165" font-family="Georgia, serif" font-size="10" fill="#4a463e" text-anchor="end">anchor</text>
+<!-- Depth markers -->
+<line x1="185" y1="135" x2="185" y2="165" stroke="#6a665e" stroke-width="0.8" stroke-dasharray="3,3"/>
+<line x1="186" y1="135" x2="186" y2="165" stroke="#6a665e" stroke-width="0.8" stroke-dasharray="3,3"/>
+<line x1="184" y1="135" x2="184" y2="165" stroke="#6a665e" stroke-width="0.8" stroke-dasharray="3,3"/>
+<text x="192" y="138" font-family="Georgia, serif" font-size="9" fill="#6a665e" text-anchor="start">depth 1</text>
+<text x="192" y="150" font-family="Georgia, serif" font-size="9" fill="#6a665e" text-anchor="start">depth 2</text>
+<text x="192" y="162" font-family="Georgia, serif" font-size="9" fill="#6a665e" text-anchor="start">depth 3</text>
+<!-- Catch notch with burr -->
+<path d="M155 170 Q152 175 155 180" stroke="#c03020" stroke-width="2" fill="none" stroke-linecap="round"/>
+<circle cx="152" cy="175" r="1.5" fill="#c03020"/>
+<text x="145" y="178" font-family="Georgia, serif" font-size="9" fill="#c03020" text-anchor="end">burr 0.02mm</text>
+<text x="150" y="200" font-family="Georgia, serif" font-size="11" fill="#4a463e" text-anchor="middle">three contact depths — anchor rocks</text>
+<text x="150" y="216" font-family="Georgia, serif" font-size="11" fill="#4a463e" text-anchor="middle">62-second pause per cycle</text>
+</g>
+
+<!-- AFTER: the corrected drag face -->
+<g transform="translate(420, 160)">
+<text x="150" y="-10" font-family="Georgia, serif" font-size="14" fill="#2a2824" text-anchor="middle" font-weight="bold">AFTER — corrected</text>
+<!-- Escape wheel tooth 7 corrected -->
+<path d="M150 150 L180 140 L185 160 L155 170 Z" fill="#3a3630" stroke="#1a1814" stroke-width="1.2"/>
+<!-- Corrected drag face - single plane -->
+<path d="M180 140 L185 160" stroke="#208030" stroke-width="3" stroke-linecap="round"/>
+<!-- Anchor pallet resting flat -->
+<path d="M100 160 L140 160 L140 170 L100 170 Z" fill="#4a443c" stroke="#1a1814" stroke-width="1"/>
+<text x="70" y="165" font-family="Georgia, serif" font-size="10" fill="#4a463e" text-anchor="end">anchor</text>
+<!-- Single depth marker -->
+<line x1="185" y1="135" x2="185" y2="165" stroke="#208030" stroke-width="1.5" stroke-dasharray="3,3"/>
+<text x="192" y="150" font-family="Georgia, serif" font-size="9" fill="#208030" text-anchor="start">single plane</text>
+<!-- Catch notch deburred -->
+<path d="M155 170 Q152 175 155 180" stroke="#208030" stroke-width="2" fill="none" stroke-linecap="round"/>
+<text x="150" y="200" font-family="Georgia, serif" font-size="11" fill="#4a463e" text-anchor="middle">one contact plane — clean release</text>
+<text x="150" y="216" font-family="Georgia, serif" font-size="11" fill="#4a463e" text-anchor="middle">pause cleared</text>
+</g>
+
+<!-- Correction method -->
+<g transform="translate(120, 420)">
+<text x="300" y="0" font-family="Georgia, serif" font-size="14" fill="#2a2824" text-anchor="middle" font-weight="bold">CORRECTION METHOD</text>
+<text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#4a463e" text-anchor="start">1. file drag face to single plane — 0.03mm off highest of three depths</text>
+<text x="60" y="50" font-family="Georgia, serif" font-size="11" fill="#4a463e" text-anchor="start">2. stone catch notch exit side — remove 0.02mm burr, polish to mirror</text>
+<text x="60" y="70" font-family="Georgia, serif" font-size="11" fill="#4a463e" text-anchor="start">3. check anchor pallet face — must mate flat, no rock</text>
+<text x="60" y="90" font-family="Georgia, serif" font-size="11" fill="#4a463e" text-anchor="start">4. test: wind, run 20 cycles — no pause at 62 seconds</text>
+<text x="60" y="120" font-family="Georgia, serif" font-size="11" fill="#4a463e" text-anchor="start">note: the drag face was never flat. pencil crossed it at three depths.</text>
+<text x="60" y="140" font-family="Georgia, serif" font-size="11" fill="#4a463e" text-anchor="start">the catch held the anchor there. sixty-two seconds every cycle.</text>
+<text x="60" y="160" font-family="Georgia, serif" font-size="11" fill="#4a463e" text-anchor="start">file it true and the wheel turns through.</text>
+</g>
+
+<!-- Measurement callouts -->
+<g transform="translate(120, 580)">
+<text x="300" y="0" font-family="Georgia, serif" font-size="14" fill="#2a2824" text-anchor="middle" font-weight="bold">MEASUREMENTS FROM 515</text>
+<text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#4a463e" text-anchor="start">drag face depth variation: 0.03mm across face (three pencil crosses)</text>
+<text x="60" y="50" font-family="Georgia, serif" font-size="11" fill="#4a463e" text-anchor="start">catch notch burr height: 0.02mm on exit side</text>
+<text x="60" y="70" font-family="Georgia, serif" font-size="11" fill="#4a463e" text-anchor="start">anchor rest duration on tooth 7: 62 seconds per cycle</text>
+<text x="60" y="90" font-family="Georgia, serif" font-size="11" fill="#4a463e" text-anchor="start">file target: 0.03mm off high spot, single plane at 15° to radial</text>
+<text x="60" y="110" font-family="Georgia, serif" font-size="11" fill="#4a463e" text-anchor="start">stone target: burr removed, exit radius 0.05mm</text>
+</g>
+
+<text x="384" y="720" font-family="Georgia, serif" font-size="12" fill="#7a756b" text-anchor="middle" font-style="italic">518 — tooth 7 drag face correction — night day 88</text>
+</g>
+</svg>

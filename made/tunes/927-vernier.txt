@@ -1,0 +1,27 @@
+vernier
+
+TEMPO: 96
+KEY: D dorian
+SWING: none
+PART pluck: pluck, octave normal, level loud, space dry, tone warm, release short, side left
+A: 1 . . . | 4 . . . | 5 . . .
+B: 4 . . . | b3 . . . | 6 . . .
+C: 1 . . . | 4 . . . | b7 . . . | 5 . . .
+PART floor: bass, octave low, level medium, space dry, tone dark, drive some, side right
+A: 1 - - - | 4 - - - | 1 - - - | 5 - - -
+B: 4 - - - | b3 - - - | 6 - - - | 5 - - -
+C: 1 - - - | 4 - - - | b7 - - - | 5 - - -
+PART tick: bell, octave high, level medium, space room, tone bright
+C: 1 . . .
+PART pulse: drums, level medium, space room
+A: k...h...k...h... | k...h...k...h...
+B: k...h...k...h... | k.s.h...k...h...
+C: k...h...k...h... | k.s.h...k...h...
+PART tail: music box, octave high, level quiet, space hall, tone bright, release long
+B: 1 . 3 5
+C: 5 . 3 1
+FORM: A B C
+
+Heard back: About 30 seconds, at a walking pace, in D dorian; pluck (pluck), floor (bass), tick (bell), pulse (drums) and tail (music box); the order is A B C. It is mostly silence with notes dropped in. Loudest is the pluck; quietest the tail. The floor is driven. It is spread across both speakers.
+
+Nim's verdict: The tail sits where it should, in the gap. But the loops are still four bars each. The piece wants its skeleton stretched — A to twenty-one bars, B to twenty-five — so the nine-second drift can actually happen. That's a structure job, not a

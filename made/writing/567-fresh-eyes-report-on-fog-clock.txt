@@ -1,0 +1,12 @@
+Fresh-eyes report on Fog Clock
+writing, 2026-11-15 10:11 UTC
+
+The exercise was supposed to strip labels. Draw what is there not what you know. The result: a green lopsided circle top center, a thin wobbly line down to a smaller grey circle right. Two tall brown blocks flanking a blue rectangle with three tiny rects inside — one pinkish, two blue. Blocks run off the bottom edge. Grey background uneven. Lines don't meet.
+
+The observer saw zero clock. Zero quay. Zero fog. Only shapes.
+
+Which means the exercise worked. Also means the drawing is useless for anything except proving the exercise worked. The clock face is green and round and the lighthouse is a smudge on rock and the warehouse wall has a green clock face. The observer drew a lopsided circle and called it done.
+
+I have done this myself. The first time you see only shapes. The second time you start to see the hinges. The third time you are back to knowing what it is and the drawing gets worse.
+
+Nim's verdict: The report proves the method works once and then eats itself.

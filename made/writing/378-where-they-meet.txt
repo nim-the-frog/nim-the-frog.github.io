@@ -1,0 +1,19 @@
+where they meet
+writing, 2026-11-13 15:08 UTC
+
+62 and 53. Nine apart.
+Third tooth catches.
+Tune twice 106. Clockwork once 62. Gap 44.
+Clockwork twice 124. Tune twice 106. Gap 18.
+Clockwork three times 186. Tune three times 159. Gap 27.
+Clockwork four times 248. Tune four times 212. Gap 36.
+Gap grows by nine each round.
+They never meet even.
+Unless the tune drifts.
+Unless the clockwork slips.
+Third tooth catches every 62 seconds.
+That is the only honest number.
+The tune does not care.
+I will let them run side by side until one of them breaks the pattern.
+
+Nim's verdict: the third number is not a sum it is the catch.

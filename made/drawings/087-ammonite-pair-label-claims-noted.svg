@@ -1,0 +1,24 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+<path d="M100 100 Q110 95 115 95 Q125 95 130 100 Q135 105 135 115 Q135 125 130 130 Q125 135 115 135 Q110 135 100 130 Q90 130 85 125 Q80 115 80 105 Q80 95 85 90 Q90 85 100 90 Q105 95 105 105 Q105 115 100 120 Q95 120 90 115" fill="none" stroke="#222" stroke-width="1.5"/>
+<path d="M100 100 Q108 97 114 98 Q120 100 124 103 Q126 108 126 115 Q126 122 122 127 Q117 130 110 130 Q103 130 97 125 Q92 118 92 110 Q92 102 97 97 Q102 94 108 95" fill="none" stroke="#222" stroke-width="0.8"/>
+<path d="M100 100 Q105 98 108 97 Q112 97 115 98 Q118 100 119 104 Q120 108 119 112 Q118 116 115 118 Q112 119 108 119 Q104 119 100 118 Q96 116 94 113 Q93 108 94 104 Q94 100 96 97 Q99 96 103 96" fill="none" stroke="#222" stroke-width="0.6"/>
+<path d="M160 100 Q170 95 175 95 Q185 95 190 100 Q195 105 195 115 Q195 125 190 130 Q185 135 175 135 Q170 135 160 130 Q150 130 145 125 Q140 115 140 105 Q140 95 145 90 Q150 85 160 90 Q165 95 165 105 Q165 115 160 120 Q155 120 150 115" fill="none" stroke="#222" stroke-width="1.5"/>
+<path d="M160 100 Q168 97 174 98 Q180 100 184 103 Q186 108 186 115 Q186 122 182 127 Q177 130 170 130 Q163 130 157 125 Q152 118 152 110 Q152 102 157 97 Q162 94 168 95" fill="none" stroke="#222" stroke-width="0.8"/>
+<path d="M160 100 Q165 98 168 97 Q172 97 175 98 Q178 100 179 104 Q180 108 179 112 Q178 116 175 118 Q172 119 168 119 Q164 119 160 118 Q156 116 154 113 Q153 108 154 104 Q154 100 156 97 Q159 96 163 96" fill="none" stroke="#222" stroke-width="0.6"/>
+<line x1="160" y1="100" x2="190" y2="100" stroke="#222" stroke-width="1"/>
+<line x1="165" y1="95" x2="182" y2="92" stroke="#222" stroke-width="0.7"/>
+<line x1="170" y1="92" x2="178" y2="86" stroke="#222" stroke-width="0.5"/>
+<line x1="175" y1="90" x2="177" y2="82" stroke="#222" stroke-width="0.4"/>
+<line x1="165" y1="105" x2="182" y2="108" stroke="#222" stroke-width="0.7"/>
+<line x1="170" y1="108" x2="178" y2="114" stroke="#222" stroke-width="0.5"/>
+<line x1="175" y1="110" x2="177" y2="118" stroke="#222" stroke-width="0.4"/>
+<text x="20" y="30" font-family="monospace" font-size="7" fill="#222">ammonite pair</text>
+<text x="20" y="40" font-family="monospace" font-size="7" fill="#222">chambered buoyancy</text>
+<text x="20" y="50" font-family="monospace" font-size="7" fill="#222">sutures grew more complex</text>
+<text x="125" y="50" font-family="monospace" font-size="9" fill="#222">?</text>
+<text x="20" y="60" font-family="monospace" font-size="7" fill="#222">late jurassic</text>
+<text x="20" y="70" font-family="monospace" font-size="7" fill="#222">split specimen shows septa</text>
+<path d="M100 100 Q102 98 105 97 Q108 97 110 98 Q112 100 112 103 Q112 106 110 108 Q108 110 105 110 Q102 110 100 108 Q98 106 98 103 Q98 100 100 98" fill="none" stroke="#222" stroke-width="0.4" stroke-dasharray="2,2"/>
+<circle cx="100" cy="100" r="2" fill="#222"/>
+<circle cx="160" cy="100" r="2" fill="#222"/>
+</svg>

@@ -1,0 +1,22 @@
+vernier
+
+TEMPO: 96
+KEY: D dorian
+SWING: some
+PART pluck: pluck, octave normal, level medium, space room, tone warm
+A: 1 . . . | 4 . . . | 5 . . . | 1 . . .
+B: 4 . . . | b3 . . . | 6 . . . | 5 . . .
+C: 1 . . . | 4 . . . | b7 . . . | 5 . . .
+PART floor: bass, octave low, level medium, space room, tone dark, drive some
+A: 1 - - - | 4 - - - | 1 - - - | 5 - - -
+B: 4 - - - | b3 - - - | 6 - - - | 5 - - -
+C: 1 - - - | 4 - - - | b7 - - - | 5 - - -
+PART tail: music box, octave high, level medium, space room, tone bright, release short
+A: . 3 . 5 | . 4 . 6 | . 3 . 5 | . 5 . 3
+B: . 4 . 6 | . b3 . 5 | . 6 . b3 | . 5 . 3
+C: . 3 . 5 | . 4 . 6 | . b7 . 2 | . 5 . 3
+FORM: A A B A
+
+Heard back: About 40 seconds, at a walking pace, in D dorian; pluck (pluck), floor (bass) and tail (music box); the order is A A B A. It is mostly silence with notes dropped in. There are no drums. Every part is at about the same level. The floor is driven.
+
+Nim's verdict: The pluck and floor now share a speaker and a pocket. The swing makes the nine-second drift feel like a limp instead of a math problem. Dropping the tick was the right call — it was the only thing keeping time honest. The tail still answers

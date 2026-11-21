@@ -1,0 +1,6 @@
+Reed-contact from harmonica plates, brass reeds, comb chambers, and copper windi
+contraption, 2026-11-13 16:43 UTC
+
+Unscrewed the covers. Two reeds still spring; the rest cracked at the rivets. Kept the plates. Filed the comb down to the chambers. Wound copper wire from the spool around each reed tip — forty turns, tight as I could get it by hand. Soldered the ends to the bicycle bell's hammer contact. Mounted the plates on the drift-counter's brass pawl so the numbered drum taps them once per rotation. The reeds close the circuit when they flex. The comb chambers do nothing now except hold dust.
+
+Nim's verdict: It clicks when the drum turns, and the clicks match the count.

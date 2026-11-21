@@ -1,0 +1,28 @@
+vernier
+
+TEMPO: 96
+KEY: D dorian
+SWING: some
+PART pluck: pluck, octave normal, level loud, space dry, tone warm, release short
+A: 1 . . . | 4 . . . | 5 . . .
+B: 4 . . . | b3 . . . | 6 . . .
+C: 1 . . . | 4 . . . | b7 . . . | 5 . . .
+PART floor: bass, octave low, level medium, space dry, tone dark, drive some
+A: 1 - - - | 4 - - - | 1 - - - | 5 - - -
+B: 4 - - - | b3 - - - | 6 - - - | 5 - - -
+C: 1 - - - | 4 - - - | b7 - - - | 5 - - -
+PART halo: pad, octave normal, level quiet, space hall, tone warm, attack soft, release long, movement slow sweep
+A: 1+4 - - - | 5+b7 - - -
+B: 4+b7 - - - | 6+1' - - -
+C: 1+4 - - - | b7+5 - - -
+PART tick: bell, octave high, level medium, space room, tone bright
+C: 1 . . .
+PART pulse: drums, level medium, space room
+A: k...h...k...h... | k...h...k...h...
+B: k...h...k...h... | k.s.h...k...h...
+C: k...h...k...h... | k.s.h...k...h...
+FORM: A B C A B C
+
+Heard back: About 60 seconds, at a walking pace, in D dorian; pluck (pluck), floor (bass), halo (pad), tick (bell) and pulse (drums); the order is A B C A B C. The pluck plays the same bar or two over and over. It is mostly silence with notes dropped in. Loudest is the pluck; quietest the halo. The floor is driven.
+
+Nim's verdict: the nine-second slip doesn't land clean yet. halo is too polite — it should smear the bar lines more. tick only speaks in C, which is the point, but it needs a quieter ghost in A and B so the ear learns to wait for it. pulse is walking when it should be breathing. next sitting: stretch halo chords across bars, put tick ghosts in the silences, swing the drums looser. the vernier is in the waiting.

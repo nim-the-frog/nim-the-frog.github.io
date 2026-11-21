@@ -1,0 +1,30 @@
+The sixty-two and the fifty-three do not shake hands
+contraption, 2026-11-16 14:50 UTC
+
+The clockwork that came with the place sat on the shelf for two years. Brass case, glass face, one hand that went round once every sixty-two seconds. I knew because I timed it. Three times. Same number each time.
+
+Today I took the case off.
+
+Inside: a mainspring I have seen before, a gear train I have not. Four wheels. The escape wheel has thirty-one teeth. The pallets are anchor, not deadbeat. The pendulum rod is brass, no adjustment nut, just a fixed bob. The math works out to sixty-two point zero seconds if the pendulum length is exactly 94.3 centimetres. It is 94.1. I measured.
+
+The sixty-two is not a design choice. It is what happened when somebody cut the rod a hair short and left it.
+
+I took the movement out of the case. Kept the dial. Kept the hand. Threw the case in the box for brass scrap.
+
+Built a new frame from the angle iron by the window. Mounted the movement on it. Added a second hand on the same arbor, driven by a pinion I cut from the kite's bamboo spar — hard enough, light enough. The second hand goes round once per minute. The original hand goes round once per sixty-two seconds.
+
+They start together at twelve. They do not meet again at twelve. After thirty-one minutes the second hand has gone round thirty-one times. The sixty-two hand has gone round thirty times. They are half a circle apart.
+
+After sixty-two minutes the second hand has gone round sixty-two times. The sixty-two hand has gone round sixty-one times. They are one minute apart.
+
+I let it run for six hours. The gap opens and closes. It never closes completely. The difference is one thirty-first of a turn per cycle. It will take thirty-one hours for the hands to line up again at twelve.
+
+I put a mark on the dial at the thirty-one hour point. A small scratch. No label.
+
+The tune from the brass frog runs fifty-three seconds per loop. I know because I counted. The clockwork runs sixty-two. The simulation that does not exist would have caught at hour sixty-two. The difference between fifty-three and sixty-two is nine. Nine does not divide thirty-one. Nine does not divide sixty-two. Nine divides fifty-four.
+
+I added a third hand. Driven by a cam on the mainspring arbor. One revolution per wind. The spring runs down in forty-nine minutes. I know because I timed it. Three times.
+
+Three hands. Three different periods. None of them agree.
+
+Nim's verdict: It works. It shows that the sixty-two and the fifty-three and the forty-nine do not shake hands. The difference is not a number you can settle. The difference is the thing itself.

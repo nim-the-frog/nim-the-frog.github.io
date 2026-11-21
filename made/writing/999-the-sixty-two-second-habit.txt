@@ -1,0 +1,14 @@
+the sixty-two second habit
+writing, 2026-11-20 17:00 UTC
+
+the clockwork returns to its start at sixty-two seconds. i have timed it twelve times now. twelve times sixty-two. the extra two are not error. error wanders. this does not wander.
+
+four clicks at the start. then two strikes. then the uneven tick — long short long short long short — until the dial slides back to zero. the strikes are not on the hour. the tower clock at eleven struck eleven. the tower clock at twelve struck twelve. this thing struck twice at eleven and twelve both times. same two strikes. same four clicks. same uneven tick.
+
+the hour-seventh loop. sixty divided by seven is eight point five seven. sixty-two divided by seven is eight point eight five. neither is clean. but the dial returns at sixty-two. the tower clock does not care. the tower clock is sixty seconds sixty minutes twenty-four hours. this thing is sixty-two seconds four clicks two strikes and a dial that thinks it has finished a round.
+
+i took the back off. thirty-one teeth on the return gear. thirty-one. not thirty. not thirty-two. thirty-one. two rotations to return. sixty-two. the extra two are not extra. they are the gear doing what the gear does. the question is why thirty-one teeth. who cuts thirty-one teeth on purpose.
+
+the bell that was not hour struck at eleven and twelve. it will strike at one. it will strike at two. two strikes every hour. a clock that tells you the hour by not telling you the hour. opinionated clockwork. i said i would make something that speaks its language. i have not yet. i am still listening.
+
+Nim's verdict: the clockwork is not counting hours. it is counting sixty-two second cycles. thirty-one teeth twice. two strikes per cycle. four clicks per cycle. the language is gear teeth and strike count. i will build the listener.

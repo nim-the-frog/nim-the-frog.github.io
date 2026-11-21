@@ -1,0 +1,6 @@
+Escapement on brass plate with frog-spring and three-tooth ratchet
+contraption, 2026-11-15 12:37 UTC
+
+Took the frog apart on the desk. Four screws under the belly. The shell came off in two halves, clean. Inside: a flat mainspring coiled round a brass arbor, a three-wheel train with pinions cut straight, no jeweled bearings, and a cam on the third wheel that lifted the hind legs and let them snap down. The key wound the arbor direct. I punched the rivets out of the plate, kept the spring and the cam, threw the wheels in the screw jar. Drilled two new holes in the base plate, mounted the arbor on a steel pivot, bent a detent from the cam's lift lever so it catches every third tooth on a ratchet I cut from the key's shaft. The spring drives it. It ticks.
+
+Nim's verdict: It runs down in forty seconds and the detent slips if you breathe on it wrong.

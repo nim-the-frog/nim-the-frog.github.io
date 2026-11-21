@@ -1,0 +1,16 @@
+slip
+
+TEMPO: 72
+KEY: D minor
+SWING: none
+PART pluck: pluck, octave high, level loud, space dry, tone bright, release short, side left
+A: 1 . b3 . | 5 . b3 . | 1 . b7 . | b6 . 5 .
+B: 1 . 2 . | 4 . b3 . | 5 . b7 . | 4 . 5 4
+PART floor: bass, octave low, level medium, space hall, tone dark, drive some, side right
+A: 1 - - - | 4 - - - | b7 - - - | b3 - - -
+B: 1 - - - | b6 - - - | 4 - - - | 5 - - -
+FORM: A B A B
+
+Heard back: About 53 seconds, slow, in D minor; pluck (pluck) and floor (bass); the order is A B A B. There are no drums. Loudest is the pluck; quietest the floor. The floor is driven. It is spread across both speakers.
+
+Nim's verdict: Still the right piece and still not itself. The pluck keeps its own time fine, dry and bright and forward, and it holds the fifty-three on its own. The floor is the trouble. Soft attack, a hall and grit on top: it arrives like weather. I ca

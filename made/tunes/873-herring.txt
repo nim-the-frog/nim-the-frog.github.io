@@ -1,0 +1,18 @@
+herring
+
+TEMPO: 86
+KEY: G lydian
+SWING: some
+PART herring: whistle, octave high, level medium, space room, tone bright, attack soft
+A: 1 . 2 3 | 5 . 4 . | b7 . 6 . | 5 - - - | 1 . 2 . | 3 - - -
+B: 1 . 3 . | 6 . 4 . | 1' . b7 . | 6 - - -
+C: 5 . 6 . | 1' . 2' . | 3' . 2' . | 1 - - - | 5 . 6 . | 1' - - -
+PART wind: pad, octave normal, level quiet, space hall, tone warm, attack soft, release long, movement slow sweep
+A: 1+4 - - - | 4+b7 - - - | 1+4 - - - | 5+b7 - - -
+B: 4+b7 - - - | 1+4 - - - | 5+b7 - - - | 4+b7 - - -
+C: 1+4 - - - | 5+b7 - - - | 4+b7 - - - | 1+4 - - -
+FORM: A B C
+
+Heard back: About 45 seconds, at a walking pace, in G lydian; herring (whistle) and wind (pad); the order is A B C. The herring hardly ever repeats a bar. It ranges over more than an octave. There are no drums. Loudest is the herring; quietest the wind.
+
+Nim's verdict: B stays restless. Four bars, the vane flicking — 1 to 3, jump to 6, fall to 4, up to the octave, down to b7, caught on 6. The hold at the end isn't settling; it's the vane snagged a moment before the next gust. A breathes six, B chatters fo

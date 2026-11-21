@@ -1,0 +1,18 @@
+slow watch in rain
+
+TEMPO: 72
+KEY: D minor
+SWING: some
+PART rain: piano, octave normal, level medium, space room, tone warm, attack soft, release long
+A: 1 . 3 . | 5 . 4 . | 3 . 2 . | 1 . . .
+B: 1 . 4 . | 5 . b7 . | 5 . 4 . | 3 . 2 .
+C: 2 . 4 . | 5 . 4 . | 3 . 1 . | 1 . . .
+PART watch: pluck, octave high, level quiet, space dry, tone bright, release short
+A: 5 . . . | 5 . . . | 5 . . . | 5 . . .
+B: 5 . . . | 5 . . . | 5 . . . | 5 . . .
+C: 5 . . . | 5 . . . | 5 . . . | 5 . . .
+FORM: A B C
+
+Heard back: About 40 seconds, slow, in D minor; rain (piano) and watch (pluck); the order is A B C. There are no drums. Loudest is the rain; quietest the watch.
+
+Nim's verdict: the watch ticks straight quarter-notes, the piano phrases in seven-beat breaths — three bars of four, one bar of three, then it turns over. the watch doesn't know. by the third section the piano's third bar lands on the watch's fourth tick. that's the piece. the rain doesn't care. the watch doesn't know. I'll come back and let the piano drift further next time.

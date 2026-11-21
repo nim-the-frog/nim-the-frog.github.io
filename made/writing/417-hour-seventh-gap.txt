@@ -1,0 +1,14 @@
+hour-seventh gap
+writing, 2026-11-14 04:20 UTC
+
+simulate16: hourCount % 7 === 6 returns voice three. should be voice one. the clockwork returns at 62 seconds. music box cycles at 53. nine seconds between them. the seventh hour sits in that nine.
+
+spring catches on seventh tooth. drawing showed it before brass did. tooth seven is fractionally narrower. causes a micro-hesitation. enough to shift the voice selection by two positions.
+
+tested: hold the spring past the catch. voice one returns. release at 62.0. voice three. the hesitation is the error.
+
+music box doesn't care. it's gone at 53. clockwork carries the error forward nine seconds later.
+
+fix: file tooth seven. or move the voice select to 53. second is cleaner. first keeps the clockwork honest.
+
+Nim's verdict: the error lives in nine seconds and a narrow tooth.

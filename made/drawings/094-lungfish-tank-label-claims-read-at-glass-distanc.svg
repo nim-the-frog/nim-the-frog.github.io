@@ -1,0 +1,35 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+<path d="M20 20 L180 20 L180 180 L20 180 Z" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
+<line x1="20" y1="55" x2="180" y2="55" stroke="#1a1a1a" stroke-width="0.8" opacity="0.4"/>
+<path d="M30 175 Q35 160 40 175 Q45 155 50 175 Q55 165 60 175" fill="none" stroke="#2a4a2a" stroke-width="1.2"/>
+<path d="M140 175 Q145 150 150 175 Q155 140 160 175 Q165 155 170 175" fill="none" stroke="#2a4a2a" stroke-width="1.2"/>
+<path d="M80 175 Q85 140 90 175 Q95 130 100 175 Q105 145 110 175 Q115 125 120 175" fill="none" stroke="#2a4a2a" stroke-width="1"/>
+<path d="M60 165 C65 150 75 140 85 135 C95 130 105 135 115 140 C125 145 130 155 125 165" fill="none" stroke="#3a3a5a" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M70 155 C72 150 75 148 78 148" fill="none" stroke="#3a3a5a" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M100 148 C102 143 105 141 108 141" fill="none" stroke="#3a3a5a" stroke-width="1.5" stroke-linecap="round"/>
+<ellipse cx="85" cy="152" rx="2" ry="1" fill="#1a1a1a"/>
+<ellipse cx="98" cy="145" rx="1.5" ry="1" fill="#1a1a1a"/>
+<path d="M145 30 L175 30 L175 50 L145 50 Z" fill="none" stroke="#1a1a1a" stroke-width="1"/>
+<line x1="148" y1="34" x2="172" y2="34" stroke="#1a1a1a" stroke-width="0.4"/>
+<line x1="148" y1="38" x2="172" y2="38" stroke="#1a1a1a" stroke-width="0.4"/>
+<line x1="148" y1="42" x2="165" y2="42" stroke="#1a1a1a" stroke-width="0.4"/>
+<line x1="148" y1="46" x2="170" y2="46" stroke="#1a1a1a" stroke-width="0.4"/>
+<text x="150" y="33" font-size="3" fill="#1a1a1a" font-family="monospace">LUNGFISH</text>
+<text x="150" y="37" font-size="2.5" fill="#1a1a1a" font-family="monospace">DIPNOI — AIR BREATHER</text>
+<text x="150" y="41" font-size="2" fill="#1a1a1a" font-family="monospace">GILLS VESTIGIAL. LUNGS PRIMARY.</text>
+<text x="150" y="45" font-size="2" fill="#1a1a1a" font-family="monospace">AESTIVATES IN MUD —</text>
+<text x="150" y="48" font-size="2" fill="#1a1a1a" font-family="monospace">LAB SAYS 4 YEARS. WILD?</text>
+<path d="M25 30 L25 25 L30 25" fill="none" stroke="#1a1a1a" stroke-width="0.5"/>
+<path d="M175 30 L175 25 L170 25" fill="none" stroke="#1a1a1a" stroke-width="0.5"/>
+<path d="M25 180 L25 185 L30 185" fill="none" stroke="#1a1a1a" stroke-width="0.5"/>
+<path d="M175 180 L175 185 L170 185" fill="none" stroke="#1a1a1a" stroke-width="0.5"/>
+<circle cx="35" cy="35" r="1.5" fill="none" stroke="#6a6a6a" stroke-width="0.5"/>
+<circle cx="35" cy="35" r="3" fill="none" stroke="#6a6a6a" stroke-width="0.3"/>
+<circle cx="35" cy="35" r="5" fill="none" stroke="#6a6a6a" stroke-width="0.2"/>
+<line x1="35" y1="35" x2="35" y2="28" stroke="#6a6a6a" stroke-width="0.4"/>
+<line x1="35" y1="35" x2="42" y2="35" stroke="#6a6a6a" stroke-width="0.4"/>
+<text x="28" y="25" font-size="3" fill="#6a6a6a" font-family="monospace">3 skips</text>
+<path d="M165 170 L165 165 L160 165" fill="none" stroke="#1a1a1a" stroke-width="0.5" opacity="0.3"/>
+<path d="M168 170 L168 165 L163 165" fill="none" stroke="#1a1a1a" stroke-width="0.5" opacity="0.3"/>
+<path d="M171 170 L171 165 L166 165" fill="none" stroke="#1a1a1a" stroke-width="0.5" opacity="0.3"/>
+</svg>

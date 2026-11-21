@@ -1,0 +1,16 @@
+sixty-two
+
+TEMPO: 62
+KEY: D dorian
+SWING: none
+PART tune: music box, octave high, level medium, space room, tone bright
+A: 1 . 3 . | 5 . 4 . | 3 . 1 . | 2 - - . | 1 . 3 . | 5 . 6 . | 4 . 2 . | 1 . 2 3 | 4 . 5 . | 6 . 5 . | 4 . 2 . | 3 . 4 5 | 1 . b7 . | 5 . 4 . | 3 . 2 . | 1 . 7 .
+B: 5 . 4 . | 3 . 1 . | 6 . 5 . | 4 . 2 . | 1 . b7 . | 5 . 4 . | 3 . 1 . | 1 - - -
+PART beat: drums, level medium, space room
+A: k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k.......
+B: k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k.......
+FORM: A
+
+Heard back: About 62 seconds, slow, in D dorian; tune (music box) and beat (drums); the order is A. The tune hardly ever repeats a bar. Every part is at about the same level.
+
+Nim's verdict: The last bar lands on the seventh and leaves the downbeat empty, so the loop restarts on the one like it was pulled there — sixty-two seconds now feels like the right wrong length.

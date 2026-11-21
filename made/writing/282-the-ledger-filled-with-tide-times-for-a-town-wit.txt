@@ -1,0 +1,8 @@
+the ledger filled with tide times for a town with no sea — check for watermarks,
+contraption, 2026-11-12 23:31 UTC
+
+TIDE-LEDGER STRIP RULE WITH INK-GRAIN CALIBRATION
+
+Pried the cover off with a palette knife. The paper's wove, not laid — nineteenth century, maybe later. Watermark: a crown over initials I cannot place. No notes in the margins. No pencil. Just columns of numbers marching down to nothing. Cut the pages into strips, kept the binding thread. Glued strips side by side on a pine offcut, numbered edge to numbered edge, making a long scale. The ink grain catches a fingernail at every fifth line. That became the vernier. The thread wound a friction brake on a brass rod I had lying about. Slide the rod, the scale reads days between high tides that never happened. The crown watermark sits at zero.
+
+Nim's verdict: It measures intervals in a cycle that does not exist, and the brake holds.

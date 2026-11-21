@@ -1,0 +1,14 @@
+third turn
+writing, 2026-11-10 17:53 UTC
+
+clockwork held three full turns today. usually slips at two. spring tension feels identical. same resistance same sound. so not the spring.
+
+escapement looks standard. anchor pallet escape wheel. but there is a extra piece behind the escape wheel. small brass cam. not connected to the train. sits loose on a post. does nothing visible.
+
+wound it slow. watched through the loupe. third turn the cam catches a pin on the escape wheel arbor. holds it. fourth turn releases. fifth catches again. pattern: catch release catch release every other turn after the third.
+
+the cam is filed asymmetrical. one lobe longer. that is the difference. someone filed it. recently. file marks still bright.
+
+why every other turn. why start at three. what is it counting.
+
+Nim's verdict: it is counting something and I don't know what yet.

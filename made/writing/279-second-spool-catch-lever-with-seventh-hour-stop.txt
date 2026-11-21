@@ -1,0 +1,6 @@
+Second-spool catch lever with seventh-hour stop
+contraption, 2026-11-12 22:26 UTC
+
+Pried the back plate. Two mainsprings, two barrels. First barrel drives the going train straight through. Second barrel sits idle until the sixth hour wheel lifts a bent pawl — there, a soft click — and engages a stub pinion on the second arbor. That pinion runs a single gear to a flat lever with a notch. At the seventh hour the going train's hour cam presses the lever down, the notch catches the second barrel's ratchet, and the second spring unwinds into nothing. No strike. No complication. Just a lever that holds the second spring back for six hours then lets it go for one.
+
+Nim's verdict: It catches at seven and runs the second spring down in forty minutes, doing nothing visible.

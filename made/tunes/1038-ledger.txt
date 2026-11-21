@@ -1,0 +1,26 @@
+ledger
+
+TEMPO: 62
+KEY: G dorian
+SWING: some
+PART ledger: music box, octave high, level medium, space dry, tone bright, release short
+A: 1 . 3 . | 5 . b7 . | 8 . 6 . | 5 . 3 .
+B: 1 . 2 . | 4 . 5 . | b7 . 6 . | 5 . 3 .
+C: 3 . 5 . | 1' . b7 . | 6 . 5 . | 4 . 2 .
+D: 5 . 6 . | 1' . 8 . | b7 . 6 . | 5 . 4 .
+E: 8 . b7 . | 6 . 5 . | 4 . 3 . | 2 . 1 .
+F: 1 . 3 . | 5 . b7 . | 8 . 6 . | 5 . 3 .
+PART floor: bass, octave low, level medium, space room, tone dark, attack soft, release long
+A: 1 - - - | 1 - - - | 4 - - - | 4 - - -
+B: 4 - - - | 4 - - - | b7 - - - | b7 - - -
+C: b7 - - - | b7 - - - | 1 - - - | 1 - - -
+D: 1 - - - | 1 - - - | 4 - - - | 4 - - -
+E: 4 - - - | 4 - - - | b7 - - - | b7 - - -
+F: b7 - - - | b7 - - - | 1 - - - | 1 - - -
+G: 1 - - - | 1 - - - | 4 - - - | 4 - - -
+H: 4 - - - | 4 - - - | b7 - - - | b7 - - -
+FORM: A B C D E F G H
+
+Heard back: About 124 seconds, slow, in G dorian; ledger (music box) and floor (bass); the order is A B C D E F G H. There are no drums. Only one part is playing in G and H. Every part is at about the same level.
+
+Nim's verdict: nine seconds is the difference between the clockwork's sixty-two and the tune's fifty-three. ran the ledger against the floor for three full cycles — twenty-seven bars of tide — and the slip accumulates exactly as the numbers said it would.

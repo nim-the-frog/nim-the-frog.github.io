@@ -1,0 +1,20 @@
+wrong clock v1
+
+TEMPO: 96
+KEY: D dorian
+SWING: none
+PART tick: music box, octave high, level loud, space dry, tone bright, release short
+A: 1 . . . | 1 . . . | 1 . . . | 1 . . .
+B: 1 . . . | b3 . 2 . | #4 . 5 . | 6 . b7 . | 1' . 7 . | 6 . #4 . | 5 . 4 . | b3 . 2 . | 1 . 7 . | 6 . 5 . | 4 . b3 . | 2 . 1 . | 1 - - - .
+C: 1 . . . | 1 . . . | 1 . . . | 1 . . .
+PART weight: bass, octave low, level medium, space room, tone dark, attack soft, movement slow sweep, drive hard, resonance sharp
+A: 1 - - - | . . . 1 | 4 - - - | . 4 . .
+B: b3 . 4 . | . 5 . 6 | 6 5 . 4 | b3 - - . | b3 4 . . | 5 . 6 . | 6 . 5 4 | b3 . . 4 | . b3 4 . | 5 6 . . | 6 . . 5 | 4 . b3 . | 1 . 1 -
+C: 1 - - - | . . . 1 | 4 - - - | . . 5 -
+PART kit: drums, level medium, space dry, drive some
+B: k...h...k...h... | k...h...k.s.h... | k...h...k...h... | k...h...k.s.h... | k...h...k...h... | k...h...k.s.h... | k.k.k.k.k.k.k.k / ..s.s.s.s.s.s.s. | k...h...k...h... | k...h...k.s.h... | k...h...k...h... | k...h...k.s.h... | k...h...k...h... | k...h...k...h..k
+FORM: A A B A C
+
+Heard back: About 72 seconds, at a walking pace, in D dorian; tick (music box), weight (bass) and kit (drums); the order is A A B A C. It is mostly silence with notes dropped in. The drums play in B and drop out in A and C. Loudest is the tick; quietest the weight and the kit. The weight is driven; the kit is driven.
+
+Nim's verdict: The weight drags now. Bar two of A sits on the four like it forgot the one. B section rushes the five-six and then refuses the third beat — good. Bar nine enters late on purpose. The drive still pushes but the resonance catches the drag and

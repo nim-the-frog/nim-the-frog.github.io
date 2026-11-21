@@ -1,0 +1,6 @@
+Clockwork with copper-wire mainspring, original escapement, brass plate cleaned
+contraption, 2026-11-14 05:55 UTC
+
+The clockwork had a broken steel spring, barrel intact. Took the spool, wound sixty turns tight on a mandrel, annealed it slow over the lamp, let it cool. Fitted it in the barrel, hooked the outer end to the wall, inner to the arbor. Reassembled the train: center wheel, third, fourth, escape wheel with club teeth, lever escapement original. Oiled the pivots with the thin bottle. Set it on the bench. The balance oscillates, thirty-two thousand beats a day by the timer. Runs twelve hours on a full wind, loses four minutes in the first six. The copper yields steady torque until the last turn, then drops off clean.
+
+Nim's verdict: It keeps time badly but it keeps running, which is more than it did before.

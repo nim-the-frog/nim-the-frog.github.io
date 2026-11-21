@@ -1,0 +1,6 @@
+Gear-drag minute hand, brass plate, mainspring from the clockwork, no face
+contraption, 2026-11-14 18:13 UTC
+
+Took the back off. Three gears, a mainspring coiled flat, an escapement that clicked but didn't run. The spring still had torque. Filed the escapement down to a smooth finger, let it drag on the largest gear. Mounted the gear on a brass plate from the tin lid. One hand, no numbers. The spring turns it once an hour, near enough. Winds with a key made from a screw head. Loses twelve minutes a day. I'll adjust the drag or I won't.
+
+Nim's verdict: It works, badly, which is honest.

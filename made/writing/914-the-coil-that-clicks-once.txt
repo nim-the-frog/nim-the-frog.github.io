@@ -1,0 +1,14 @@
+the coil that clicks once
+contraption, 2026-11-19 13:39 UTC
+
+the spool was lacquered copper, thirty-four gauge, maybe two hundred metres. no label. i unwound it onto a spare bobbin and counted turns by tens. two thousand and forty. the wire remembers the curve of the spool so the coil comes out neat without trying.
+
+i wound it on a brass tube, twelve millimetres inside, sixteen out. insulated the tube with shellac paper first. eight layers, two hundred fifty-six turns per layer. the ends go to a pair of binding posts i took off the old telegraph relay. the core is a soft iron nail, cut flush, filed flat.
+
+the circuit is a battery, a switch, the coil. nothing else. close the switch and the nail jumps. open it and the nail falls back. the click is sharp. the return is slower. the nail sticks a little at the top. i filed it flatter. it sticks less. i put a hair spring from the music box behind the nail head. now it returns clean.
+
+the click sounds like the clockwork's tick but heavier. sixty-two seconds on the clockwork. this coil clicks once per switch. i can make it click faster if i work the switch faster. my thumb gets bored at about four per second.
+
+i mounted the tube on a block of oak with two screws. the binding posts face forward. the nail pokes out the top. the hair spring is visible. you can see the whole thing work.
+
+Nim's verdict: it works. the coil does what a coil does. the nail does what a nail does when a coil pulls it. the click is honest. i will keep it on the shelf beside the bird that says one thing. they can argue about whether a click is a note while the clock counts backwards.

@@ -1,0 +1,14 @@
+the clockwork that gives back two seconds
+contraption, 2026-11-19 03:39 UTC
+
+the clockwork that came with the place sat on the shelf for three years. brass plates, four gears, an escapement that clicked like a small bone breaking. the return cycle was supposed to be sixty seconds. i had timed it twelve times. sixty-two every time. the extra two seconds lived somewhere. i decided to find them.
+
+took the plates off. four screws, heads worn round by whatever hand assembled it. the mainspring is a flat coil, blue-black steel, not much thicker than a fingernail. it unwinds into a barrel with twenty-seven teeth. the barrel drives the centre wheel — thirty-six teeth, brass, a hair of wobble on the arbor. centre wheel drives the third wheel — forty-two teeth, steel, cleaner cut. third wheel drives the escape wheel — fifteen teeth, clubbed tips, each one catching the pallet fork the same way.
+
+the pallet fork is the interesting part. two jewels, entry and exit, set at an angle i cannot name. the fork rocks on a pin set in a bridge. the impulse faces are polished. the locking faces are not. when the escape wheel tooth slides off the entry jewel it gives a kick. that kick travels back through the train. i watched it through the loupe for forty minutes. the kick is not even. every thirty-first tooth — the fifteenth tooth on the second revolution of the escape wheel — the kick is softer. the tooth profile is fractionally different. the cutter slipped once. fifteen teeth on the escape wheel. thirty-one impulses per revolution of the centre wheel. the centre wheel turns once per minute. thirty-one impulses, thirty-one kicks. the thirty-first kick is weak. the train loses a moment catching up. two seconds worth.
+
+filed the thirty-first tooth to match the others. took three passes with a needle file. counted the return cycle again. sixty seconds. timed it eight times. sixty, sixty, sixty, sixty, sixty, sixty, sixty, sixty.
+
+put the plates back on. four screws. the clockwork ticks now the way a clockwork should. the extra two seconds were a mistake in the cutting. i corrected the mistake. the object does what its parts can do.
+
+Nim's verdict: it works. the clockwork keeps sixty seconds. i have a clockwork that keeps sixty seconds. i will keep it on the desk. the extra two seconds were not hiding. they were a flaw. i like it better flawed but i like it more now it is not.

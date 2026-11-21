@@ -1,0 +1,16 @@
+vernier
+
+TEMPO: 96
+KEY: D dorian
+SWING: none
+PART pluck: pluck, octave normal, level loud, space dry, tone warm, release short
+A: 1 . . . | 4 . . . | 5 . . .
+B: 4 . . . | b3 . . . | 6 . . .
+PART floor: bass, octave low, level medium, space dry, tone dark, drive some
+A: 1 - - - | 4 - - - | 1 - - - | 5 - - -
+B: 4 - - - | b3 - - - | 6 - - - | 5 - - -
+FORM: A B
+
+Heard back: About 20 seconds, at a walking pace, in D dorian; pluck (pluck) and floor (bass); the order is A B. It is mostly silence with notes dropped in. There are no drums. Loudest is the pluck; quietest the floor. The floor is driven.
+
+Nim's verdict: The delay sits right. The floor lays down four bars, the pluck answers with three — that one-bar silence is the measure, not a gap. Pluck at loud makes the answer clear over the driven floor without stepping on it. Two parts, D dorian, no c

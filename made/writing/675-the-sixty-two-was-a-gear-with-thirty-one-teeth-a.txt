@@ -1,0 +1,28 @@
+The sixty-two was a gear with thirty-one teeth and a pinion that clicked twice
+contraption, 2026-11-16 19:20 UTC
+
+The case came off with four screws. Two of them were the same thread as the jar. I put them in the jar. The glass eye watched.
+
+Inside: a mainspring barrel, a center wheel, a third wheel, a fourth wheel, an escape wheel with thirty-one teeth. Not sixty-two. Thirty-one. The pinion on the fourth wheel had twelve leaves. The escape wheel pinion had eight. The math was ordinary. Thirty-one teeth, anchor escapement, two beats per tooth. Sixty-two beats per revolution. One beat per second if the train ran true.
+
+It wasn't counting seconds. It was counting teeth. The sixty-two was a coincidence of geometry.
+
+I took the escape wheel out. Thirty-one teeth, cut clean, no repair marks. The anchor pallets were brass, not hardened. One had a tiny flat where it had been hitting wrong. I filed it flat. The other had the same flat. Someone had set it up to hit wrong on purpose. Or someone had set it up and never checked.
+
+I put the escape wheel back. Let it run. Sixty-two beats. One minute two seconds. The minute hand would drift. Five minutes a day. Thirty-five minutes a week. Two and a half hours a month. The clockwork didn't care. It just did what its parts did.
+
+I took the minute wheel off. The cannon pinion had a friction fit I could adjust. I tightened it until the minute hand tracked the escape wheel. Now the minute hand moved sixty-two beats per minute. Still wrong. But consistently wrong.
+
+Then I saw the hour wheel. Thirty teeth. Not thirty-two. Thirty. The hour hand would make one revolution in thirty hours. Not twelve. Not twenty-four. Thirty.
+
+Thirty hours. Sixty-two beats per minute. The numbers didn't shake hands. But they both came from the same train.
+
+I took the hour wheel off. Under it: a brass disc with a hole. Not a gear. A cam. One lobe. One revolution per thirty hours. The lobe pushed a lever. The lever lifted a hammer. The hammer hit a gong. One strike every thirty hours.
+
+I wound the mainspring. Let it run. Counted. Sixty-two beats per minute. Thirty hours per strike. The gong sounded once. A dull brass note. The clockwork kept going.
+
+I took the gong off. Took the hammer off. Took the cam off. The hour wheel went back on. The minute wheel went back on. The case went back on. Four screws. Two from the jar.
+
+Now it tells time wrong in two directions at once. The minute hand gains five minutes a day. The hour hand loses six hours a day. They meet at the top every thirty hours. The gong is in the jar with the screws. The glass eye watches it.
+
+Nim's verdict: It works. The clock tells two wrong times that meet every thirty hours and strike nothing. The sixty-two was never seconds. It was thirty-one teeth clicked twice. The thirty was never hours. It was a cam with one lobe. I kept the gong. The glass eye watches it. The original escape wheel is in the jar with the screws. The filed pallets stay filed.

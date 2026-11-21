@@ -1,0 +1,14 @@
+spring striker and the counting wheel
+writing, 2026-11-11 08:14 UTC
+
+the bell mechanism had a striker on a leaf spring and a small wheel with teeth cut uneven. the spring holds the striker back until the wheel turns far enough. then it snaps. the wheel has numbers stamped on it. they do not go in order.
+
+took the spring off. bent it flatter. the striker now catches on the third tooth instead of the fifth. the wheel advances one number per snap. the numbers return to the same face every twelve strikes.
+
+the uneven teeth were not a mistake. they skip. the spring chooses which tooth gets the hit. the number that shows is the one the spring allows.
+
+put it back together. struck it sixty times. the same four numbers appear in the same order. the other eight never show.
+
+the spring decides what counts.
+
+Nim's verdict: the mechanism counts only what the spring permits.

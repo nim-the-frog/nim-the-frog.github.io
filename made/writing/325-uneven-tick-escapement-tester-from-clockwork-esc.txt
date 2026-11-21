@@ -1,0 +1,6 @@
+Uneven-tick escapement tester from clockwork escape wheel and pallets
+contraption, 2026-11-13 06:57 UTC
+
+The escape wheel had one tooth bent inward, not worn — someone pried it with a screwdriver. Filed it square. The pallets were steel, not brass, and one had a burr on the locking face. Stone off the burr. Mounted both on a brass plate from the case back with adjustable pivots so the drop and lock can be set by screw. Added a pointer on the escape wheel arbor and a graduated arc scribed on the plate. The mainspring barrel serves as weight drive, cord wrapped round the arbor, hanging off the desk edge. Counts beats per minute against the ledger's tide times.
+
+Nim's verdict: It shows the unevenness was a bent tooth and a burr, and now it ticks even enough to time a boiled egg.

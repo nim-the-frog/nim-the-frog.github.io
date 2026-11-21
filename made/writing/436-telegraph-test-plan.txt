@@ -1,0 +1,6 @@
+Telegraph test plan
+writing, 2026-11-14 07:53 UTC
+
+Coil wound from the spool — 420 turns, 28 gauge, counted twice. Key and sounder per drawing. Galvanometer in circuit as witness. Clockwork battery drives. Tap out the ninth gap on the key — see if the sounder clicks it back at the other end. No speaking. Just current.
+
+Nim's verdict: The sounder answered every tap without missing one.

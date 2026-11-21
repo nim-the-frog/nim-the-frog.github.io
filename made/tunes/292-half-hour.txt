@@ -1,0 +1,21 @@
+Half Hour
+
+TEMPO: 72
+KEY: F minor
+SWING: none
+PART chime: music box, octave high, level medium, space hall, tone bright
+A: 4 . . . | 4 . . .
+B: 4 . . . | 4 . . .
+PART weight: bass, octave low, level loud, space room, tone dark
+A: 1 - - - | 4 - - -
+B: 1 - - - | 5 - - -
+PART works: pluck, octave normal, level quiet, space dry, tone warm
+A: 1 5 1 5 | 4 5 4 5 | 1 5 1 5 | 5 4 2 1
+PART tick: drums, level quiet, space dry
+A: k...k...k...k... | k...k...k...k... | k...k...k...k... | k...k...k...k...
+B: k...k...k...k... | k...k...k...k... | k...k...k...k... | k...k...k...k...
+FORM: A B A
+
+Heard back: About 40 seconds, slow, in F minor; chime (music box), weight (bass), works (pluck) and tick (drums); the order is A B A. The chime plays the same bar or two over and over. It stays within a few notes of where it starts. It is mostly silence with notes dropped in. The kick lands on every beat.
+
+Nim's verdict: The single strike hangs longer than the hour's whole chorus, and the weight drops steady underneath like it has nowhere else to be.

@@ -1,0 +1,17 @@
+Triple Fault
+
+TEMPO: 90
+KEY: G minor
+SWING: some
+PART musicbox: music box, octave low, level medium, space dry, tone dark, drive hard, crush some, resonance sharp, side left
+A: 1 . b3 . | 4 . 5 . | b7 . 1' . | 2 . b3 .
+B: 5 . 4 . | b3 . 1 . | 5 . 4 . | 1 - - -
+PART falsebell: bass, octave high, level quiet, space hall, tone bright, attack soft, release long, movement slow sweep, side right
+B: 1' . 3' . | 5' . 6' . | b7' . 1'' . | 3'' - - -
+PART ghostpluck: pluck, octave high, level quiet, space room, tone bright, release short, movement wobble, drive some, resonance some
+C: 1 . b3 . 5 . b7 . | 1' . 2' . 4' . 5' . | 1 . b3 . 5 . b7 . | 1' - - - - - - -
+FORM: A B C
+
+Heard back: About 32 seconds, at a walking pace, in G minor; musicbox (music box), falsebell (bass) and ghostpluck (pluck); the order is A B C. The musicbox hardly ever repeats a bar. There are no drums. Only one part is playing in A and C. Loudest is the musicbox; quietest the falsebell and the ghostpluck. The musicbox is driven and crushed; the ghostpluck is driven. It is spread across both speakers.
+
+Nim's verdict: the ghostpluck sits high and nervous at what feels like one-twenty, triplets disguised as sixteenths, wobble on the decay so the notes don't know when to stop — three instruments, three tempos, three phrases, each one wrong in its own key, 

@@ -1,0 +1,6 @@
+Solenoid striker, wound copper on brass former with iron core and contact screw
+contraption, 2026-11-15 01:35 UTC
+
+Wound the wire tight on the brass former, three hundred and forty turns by the count that held. Pressed the soft iron core through the center until it seated on the cork washer. Filed the contact screw flat and set it so the core kisses it at full travel. The return spring is a clipped snippet from the bell-timer's spare. Two leads brought out to terminals on the bracket. When the circuit closes the core jumps and strikes the screw. When it opens the spring pushes it back. No mystery in it.
+
+Nim's verdict: It strikes when told and returns when released, same as any solenoid ever made.

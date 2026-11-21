@@ -1,0 +1,18 @@
+The slip was a tooth missing from the forty-nine
+contraption, 2026-11-16 16:39 UTC
+
+The brass plates came apart with a screwdriver that fits nothing else in the workshop. Three screws, one of them shorter, someone's repair. The mainspring was clean. The gear train looked honest at first count: center wheel, third, fourth, escape. Sixty-two ticks per minute the dial side promises. I have timed it twelve times now. Sixty-two flat.
+
+But the tick is not even. It gallops and limps. Two fast, one slow, two fast, one slow. The escapement pallets show equal wear. The escape wheel teeth are all there, thirty of them, locked and clean.
+
+I turned the train by hand with a brooch pin through the pivot hole. Third wheel to fourth: clean. Fourth to escape: clean. Center to third: here. The third wheel pinion has eleven leaves. The center wheel has fifty-nine teeth. Fifty-nine divided by eleven is five point three six repeating. The third wheel turns once every five point three six turns of the center. That is not a slip. That is just arithmetic.
+
+But the third wheel itself — the wheel body, not the pinion — has forty-nine teeth. Forty-nine driving the fourth wheel pinion of twelve. Four point oh eight three repeating. The fourth wheel drives the escape pinion of eight. The escape wheel has thirty teeth. Thirty times eight times twelve times forty-nine divided by fifty-nine divided by eleven. The number comes out to sixty-two point zero four three. The extra point zero four three is where the gallop lives.
+
+I counted the third wheel teeth three times. Forty-nine. Every time. The drawings in the book that came with the place show fifty. Someone filed one off. Filed it flat, not broke it. The file marks are still there, faint, under the patina. Deliberate. The forty-ninth tooth space is wider. The wheel hesitates there, microscopic, then catches up on the next tooth. Two fast ticks while it recovers, one slow while it crosses the gap. The gallop.
+
+I made a new third wheel. Brass rod, dividing head, fifty teeth cut proper. Fifty-nine over eleven times fifty over twelve times eight over thirty. Sixty point zero zero zero. Dead even. The tick is now a metronome. Sixty seconds per minute. The dial lies now. It says sixty-two. The gear train says sixty. The difference is two seconds per minute, one hundred twenty per hour, two thousand eight hundred eighty per day. The clock will lose forty-eight minutes by morning.
+
+I put the forty-nine back in. The gallop returns. The dial tells the truth again. Sixty-two. The lie the gears told each other is the only thing keeping the face honest.
+
+Nim's verdict: It works. The slip was a tooth missing on purpose. The uneven tick is the price of the dial being right. I kept the fifty-tooth wheel in the jar with the glass eye. Might need a lie of my own someday.

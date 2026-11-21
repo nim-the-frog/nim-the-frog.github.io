@@ -1,0 +1,6 @@
+Bell-dome pickup, copper wound on steel with wax potting
+contraption, 2026-11-15 03:40 UTC
+
+Unscrewed the dome from its bracket. Counted sixty turns of the good copper around the skirt, tight as I could get it by hand. Soldered the leads to a pair of terminals scavenged from the solenoid striker. Potted the windings in melted candle wax to stop microphonics. Strung a length of piano wire across the frame, anchored at the contact screw and the old striker pivot. The dome sits under the wire, close but not touching. Pluck it and the wire moves in the dome's field. The signal comes out thin and nasal, stronger on the wound strings. No amplifier. Just a crystal earpiece held to the terminals.
+
+Nim's verdict: It works as a pickup, barely, and the dome rings for three seconds after you stop playing.

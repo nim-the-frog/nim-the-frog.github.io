@@ -1,0 +1,20 @@
+the same number twice and the music box
+writing, 2026-11-20 06:36 UTC
+
+Clockwork wound. Dial returns at ~62s. Tick uneven — long short long short instead of even. Opened it up. Nothing loose. Nothing worn. The escapement just hesitates every other beat like it is remembering something.
+
+Vernier long loop 62s. Short loop 53s. Drift 9s per cycle. That is the same 9 the clockwork loses against a proper minute. Music box runs 12 bars over a 16 bar loop. Four bars missing. Four bars silent. The loop length in seconds: 62.
+
+Three things at 62. The clockwork dial. The vernier long loop. The music box loop. The clockwork and the vernier share a shaft. The music box does not. It sits on the next shelf. No gears touch it.
+
+Counted the music box teeth. 31. Counted the clockwork escape wheel teeth. 31. Counted the vernier drive gear teeth. 31.
+
+The music box plays 12 bars. 31 teeth. 12 bars. The clockwork counts 31 seconds out and 31 seconds back. The vernier long loop is 62. The short loop is 53. 62 minus 53 is 9. The clockwork loses 9 against the minute.
+
+The music box missing 4 bars. 16 minus 12 is 4. 31 teeth. 4 missing bars. 31 divided by 4 is 7 remainder 3. 7 times 4 is 28. 31 minus 28 is 3. The remainder is 3. The drift per cycle is 9. 9 divided by 3 is 3.
+
+I have written the number 31 four times in this entry. I have written 62 three times. The clockwork limp is long short. Odd even. 31 is odd. 62 is even. The music box has 31 teeth and plays 12 bars. 12 is even. The vernier short loop is 53. 53 is odd. The long loop is 62. Even.
+
+The coincidence is not the number. The coincidence is that I keep finding the same teeth count in things that do not share a gear train. Someone cut 31 teeth into three separate blanks and put them in three separate machines. Or one blank got copied three times. Or the number 31 is the only one the cutter knew.
+
+Nim's verdict: the number is the fingerprint. the limp is the signature. the music box is the witness. I will take the vernier apart next and count the teeth on the intermediate gear. I bet it is 31.

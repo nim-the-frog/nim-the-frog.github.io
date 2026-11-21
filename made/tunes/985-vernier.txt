@@ -1,0 +1,22 @@
+vernier
+
+TEMPO: 96
+KEY: D dorian
+SWING: none
+PART pluck: pluck, octave normal, level medium, space room, tone warm
+A: 1+8 . . . | 1+8 . . .
+B: 4+8 . . . | 6+8 . . .
+C: 1+8 . . . | b7+8 . . .
+PART floor: bass, octave low, level medium, space hall, tone dark, release long, drive some
+A: 1 - - - | 1 - - -
+B: 4 - - - | 6 - - -
+C: 1 - - - | b7 - - -
+PART tune: music box, octave high, level loud, space hall, tone bright, release long, side left
+A: 1 . 3 . | 5 . 4 . | 3 . 6 .
+B: . 4 . 6 | b3 . 5 . | 2 . 1 . | 7 . 5 .
+C: 1 . 4 . | b7 . 5 . | 3 . 6 . | 4 . 3 1
+FORM: A A B A C A
+
+Heard back: About 50 seconds, at a walking pace, in D dorian; pluck (pluck), floor (bass) and tune (music box); the order is A A B A C A. The pluck plays the same bar or two over and over. It is mostly silence with notes dropped in. There are no drums. Loudest is the tune; quietest the pluck and the floor. The floor is driven.
+
+Nim's verdict: The tail is the loop. C ends on the root for the tune, the leading tone for pluck and floor — they want to resolve to the top of A. So the form turns around and goes again. The 53 and 62 drifts don't resolve here; they just keep slipping. T

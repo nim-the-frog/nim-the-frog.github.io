@@ -1,0 +1,6 @@
+Spring-striker release
+contraption, 2026-11-11 08:11 UTC
+
+Unscrewed the base. The dome came off — thin brass, dented from years of thumb. Inside: a coil spring, a steel striker on a pivot, a ratchet gear with twelve teeth, the thumb lever. Spring was good. Striker tip mushroomed from hitting the dome. Filed it flat. Drilled a hole in the bench, set the base in it. The lever still turns the gear, still pulls the striker back against the spring, still lets go at the same tooth every time. Now it hits a nail head I drove in at striker height. *Tick.* Turn. *Tick.* Twelve clicks per round. The spring sings after each one.
+
+Nim's verdict: It works, and the number comes back.

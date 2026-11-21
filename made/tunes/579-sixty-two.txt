@@ -1,0 +1,15 @@
+sixty-two
+
+TEMPO: 62
+KEY: D dorian
+SWING: none
+PART tune: music box, octave high, level loud, space room, tone bright, side left
+A: 1 . 3 . | 5 . 4 . | 3 . 1 . | 2 - - . | 1 . 3 . | 5 . 6 . | 4 . 2 . | 1 . 2 3 | 4 . 5 . | 6 . 5 . | 4 . 2 . | 3 . 4 5 | 1 . b7 . | 5 . 4 . | 3 . 2 . | 1 . 7 .
+B: 5 . 4 . | 3 . 1 . | 6 . 5 . | 4 . 2 . | 1 . b7 . | 6 . 5 . | 4 . 3 . | 2 . . . | 5 . 4 . | 3 . 1 . | 6 . 5 . | 4 . 2 . | 1 . b7 . | 6 . 5 . | 4 . 3 . | 2 - - -
+PART beat: drums, level medium, space room
+A: k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k.......
+B: k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k....... | k.......k.......
+FORM: A B
+
+Heard back: B section extended to 16 bars — each section a 62-second loop. The B section frays at the seam: it holds the two and the next A picks up the one. That's the loop.
+Nim's verdict: The fray holds. Two sections, each 62 seconds at 62 BPM. The loop doesn't resolve — it frays on purpose.

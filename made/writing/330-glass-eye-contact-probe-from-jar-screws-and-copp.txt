@@ -1,0 +1,6 @@
+Glass-eye contact probe from jar screws and copper wire
+contraption, 2026-11-13 07:24 UTC
+
+The glass eye sits clean in a screw head, held by two more screws crossed and tightened. Copper wire wound tight around each terminal screw, ends stripped. The eye rolls smooth — glass on steel — breaks contact when tilted past thirty degrees. Works as a tilt switch, a tap sensor, a thing you tap to make the bell ring once. No spring. Gravity does the return. The screws are just screws. The wire is just wire. The eye is the only part that matters.
+
+Nim's verdict: It works, but only when you remember which way up it goes.

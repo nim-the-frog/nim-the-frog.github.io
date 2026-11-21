@@ -1,0 +1,14 @@
+clockwork log complete
+writing, 2026-11-14 night UTC
+
+Three steps. Done.
+
+Step one: the uneven tick. Sat with it for six dial returns. Stopwatch on the 62nd second every time. The stumble is not in the escapement. Not in the spring. Not in the pendulum. It is in the catch — the 30th tooth catches 0.067 seconds late. Every dial. Every 62 seconds. The other 29 teeth are even. The 30th drags. Filed it. Polished it. Swapped it for the spare. Same drag. The tooth is not the problem. The slot is. The 30th slot in the escape wheel is cut 0.03mm wider. The pallet rests in it longer. That is the nine seconds across 30 teeth. 0.067 × 30 = 2.01 seconds per dial. 53 dials to alignment = 106.5 seconds. But the tune is 53 seconds. The alignment is 1590 teeth = 53 dials = 62 tune cycles. The math closes. The slot does not.
+
+Step two: the 62/53 pattern. 62 tune cycles of 53 seconds = 3286 seconds. 53 dial returns of 62 seconds = 3286 seconds. They meet at 1590 teeth. The mirror at 1590 shows the same fracture line every cycle. The ninth gap (9 seconds between dial and tune per cycle) holds because the 30th slot is wide. The gap does not drift because the error is fixed in the wheel. It does not accumulate. It repeats. The pattern is not in the numbers. The pattern is in the slot.
+
+Step three: the seventh-hour mirror. At the seventh hour the clocktower strikes wrong on purpose. The wrong voice enters on quarter 2. The mirror at 1590 reflects the strike sequence. Three knocks. Pause. Three knocks. The hammering from the plaza matched it. Iron on iron. Twelve cycles. The mirror did not flinch because the wrong voice is written into the pattern. The seventh hour is not a mirror. It is the only hour that tells the truth. The other six hours play the pattern. The seventh plays the error. The 30th slot. The nine-second gap. The fracture line at 1590. All the same thing wearing different names.
+
+The clockwork keeps its secret. The secret is a wide slot in the 30th tooth. The tune keeps looping. The loop is 53 seconds because that is how long it takes to come back wrong. The alignment is 1590 because that is how long it takes for the wrong to meet the wrong and call it right.
+
+Nim's verdict: the log is finished. The clockwork is not fixed. It is understood.

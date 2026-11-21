@@ -1,0 +1,150 @@
+the sixty-two made honest
+contraption, 2026-11-18 20:08 UTC
+
+the clockwork that came with the place sat on the shelf for three years. brass plates. going barrel. fusee chain. cylinder escapement — not a lever, a cylinder, which tells you somebody wanted it thin more than they wanted it right. no dial. no hands. just the train and a count wheel that clicked once a minute and a hammer that struck a gong wire somebody had snipped off before i got here.
+
+i took it down because the legs were heavy and the cup of tea went cold beside the vise and i needed something that would not ask me to decide anything.
+
+first the movement out of its oak box. four screws. the box keeps the dust. i keep the box.
+
+let the mainspring down slow. the click gives a proper protest. good spring. blue temper. no cracks. the fusee cone is clean. chain runs true. so the power side is honest.
+
+train next. great wheel to centre pinion to third to fourth to escape wheel. seventeen teeth on the escape. cylinder cuts fifteen impulses per revolution. that gives three hundred sixty beats a minute if the centre wheel turns once an hour. three hundred sixty beats. sixty seconds. one tick per beat.
+
+but it doesn't. i knew it didn't. i had counted it six times in six different sits. sixty-two seconds per minute by the tower clock. sixty-two by the quartz on the wall. sixty-two by the phone i don't trust.
+
+so i put the train back in the plates without the barrel. turned the great wheel by hand. counted escape wheel teeth passing a pencil mark on the bridge.
+
+three hundred seventy-two beats per centre revolution.
+
+twelve extra beats. not two extra seconds. twelve extra beats. two extra seconds at thirty-six beats per second — no. thirty beats per second. cylinder escapement. fifteen impulses per revolution. twenty-four revolutions per centre turn. three hundred sixty. but i got three hundred seventy-two.
+
+that means the centre wheel is not turning once an hour. it is turning once every sixty-two minutes by the tower clock. or the hour wheel is geared wrong.
+
+pulled the dial side off. motion work. canon pinion to hour wheel. twelve to one. that is standard. minute wheel to hour wheel. thirty-two to eight. four to one. canon pinion to minute wheel. twelve to forty-eight. four to one. sixteen to one overall. centre wheel turns once per hour. hour wheel turns once per twelve hours. that is all honest.
+
+so the extra twelve beats are not in the motion work.
+
+put the dial side back. ran the train again with a finger on the great wheel. slow. watched the escape cylinder lift and drop. counted aloud. three hundred seventy-two.
+
+the cylinder has fifteen cuts. i checked. fifteen cuts. the escape wheel has seventeen teeth. seventeen teeth. fifteen impulses per revolution. that means the escape wheel turns fifteen seventeenths of a turn per cylinder revolution. no. the cylinder turns once per escape wheel revolution. fifteen impulses. the escape wheel has seventeen teeth. so the escape wheel advances seventeen teeth per cylinder revolution. but only fifteen impulses. two teeth are dead. two teeth pass without lifting the cylinder.
+
+that is the extra two beats per cylinder revolution. two dead teeth. seventeen teeth. fifteen cuts. two teeth do nothing.
+
+twenty-four cylinder revolutions per centre turn. twenty-four times two. forty-eight dead beats per centre turn. but i only counted twelve extra.
+
+so the cylinder does not turn once per escape wheel revolution.
+
+watched closer. the cylinder turns. the escape wheel turns. the cylinder makes one revolution while the escape wheel makes... one and two seventeenths revolutions. no. the escape wheel has seventeen teeth. the cylinder has fifteen cuts. each cut engages one tooth. after fifteen teeth the cylinder has turned once. the escape wheel has advanced fifteen teeth. two teeth remain before the escape wheel completes its revolution. the cylinder must wait. the next cylinder revolution engages the next fifteen teeth. but the escape wheel only has two teeth left before it repeats. so the second cylinder revolution engages those two teeth plus thirteen teeth from the next escape wheel revolution.
+
+the escape wheel turns once every fifteen impulses. the cylinder turns once every fifteen impulses. they are locked one to one. but the escape wheel has seventeen teeth. so the escape wheel turns fifteen seventeenths of a revolution per cylinder revolution. no. the escape wheel turns one tooth per impulse. fifteen impulses. fifteen teeth. the escape wheel advances fifteen teeth. the cylinder turns once. the escape wheel still has two teeth to go before it completes a full revolution. those two teeth will be engaged by the next cylinder revolution.
+
+so the escape wheel turns one full revolution every seventeen impulses. the cylinder turns one full revolution every fifteen impulses. they are not locked one to one. the cylinder turns seventeen fifteenths as fast as the escape wheel. no. the escape wheel turns fifteen seventeenths as fast as the cylinder.
+
+let me think.
+
+impulse one: tooth one lifts cut one.
+impulse fifteen: tooth fifteen lifts cut fifteen.
+impulse sixteen: tooth sixteen lifts cut one (cylinder has returned to start).
+impulse seventeen: tooth seventeen lifts cut two.
+impulse eighteen: tooth one lifts cut three.
+
+the cylinder makes one revolution in fifteen impulses. the escape wheel makes one revolution in seventeen impulses. the cylinder turns seventeen fifteenths times per escape wheel revolution. no. the cylinder turns once per fifteen impulses. the escape wheel turns once per seventeen impulses. in the time the escape wheel turns once, the cylinder turns seventeen fifteenths of a revolution.
+
+but the centre wheel drives the escape wheel pinion. the escape wheel is on the fourth wheel arbor. the fourth wheel turns once per minute in a normal watch. here the fourth wheel turns once per... centre wheel to third pinion. third to fourth pinion. ratios.
+
+counted teeth. centre wheel eighty teeth. third pinion eight leaves. ten to one. third wheel sixty teeth. fourth pinion eight leaves. seven point five to one. fourth wheel escape wheel seventeen teeth. no pinion. the escape wheel is on the fourth arbor.
+
+so centre wheel turns once. third wheel turns once per ten centre turns. fourth wheel turns once per seventy-five centre turns. no. third wheel turns once per ten centre turns. fourth wheel turns once per seven point five third turns. so fourth wheel turns once per seventy-five centre turns.
+
+centre wheel turns once per hour. fourth wheel turns once per seventy-five hours. that is wrong. the fourth wheel should turn once per minute. once per hour. once per twelve hours for the hour hand.
+
+this is not a watch train. this is a clock train. centre wheel once per hour. third wheel once per ten minutes. fourth wheel once per seventy-five seconds. escape wheel on fourth arbor. seventeen teeth. fifteen impulses per cylinder revolution. cylinder turns once per fifteen impulses. so cylinder turns once per fifteen escape wheel teeth. escape wheel turns once per seventeen teeth. so cylinder turns seventeen fifteenths times per escape wheel revolution.
+
+fourth wheel turns once per seventy-five seconds. escape wheel turns once per seventeen teeth. each tooth is one impulse. so escape wheel turns once per seventeen impulses. cylinder turns once per fifteen impulses. so in seventy-five seconds the escape wheel turns seventy-five divided by seventeen times. no.
+
+the escape wheel is driven by the fourth wheel. one tooth per impulse. the fourth wheel turns once per seventy-five seconds. how many impulses per fourth wheel revolution? the fourth wheel has a pinion that drives the escape wheel. no. the escape wheel is on the fourth arbor. it is the fourth wheel. it has seventeen teeth. it is the escape wheel.
+
+so the fourth wheel has seventeen teeth. it turns once per seventy-five seconds. each tooth gives one impulse. seventeen impulses per seventy-five seconds. one impulse per four point four one seconds.
+
+the cylinder receives fifteen impulses per revolution. so the cylinder turns once per fifteen impulses. fifteen times four point four one. sixty-six point one seconds per cylinder revolution.
+
+but the count wheel clicks once per cylinder revolution. the count wheel drives the hammer. the hammer struck once per minute originally. but the cylinder turns once per sixty-six point one seconds. so the hammer strikes once per sixty-six point one seconds.
+
+but i counted sixty-two seconds per minute by the tower clock. sixty-two seconds per count wheel click.
+
+sixty-six point one versus sixty-two. close. not the same.
+
+the mainspring. the fusee. the power is not constant. the fusee compensates. but the spring is not perfect. the extra two seconds... no. the extra four point one seconds.
+
+i am tired. the tea is cold. the vise imprint is on my palm.
+
+the cylinder has fifteen cuts. the escape wheel has seventeen teeth. that is the uneven tick. two dead teeth per escape wheel revolution. the train runs fast by two seventeenths. sixty seconds times seventeen fifteenths. sixty-eight seconds. not sixty-two.
+
+sixty-two seconds per minute by the tower clock. the tower clock is the standard. the tower clock ticks seconds. i counted sixty-two tower ticks per count wheel click.
+
+so the count wheel clicks once per sixty-two seconds.
+
+the fourth wheel turns once per seventy-five seconds. the escape wheel is the fourth wheel. seventeen teeth. seventeen impulses per seventy-five seconds. one impulse per four point four one one seconds. fifteen impulses per cylinder revolution. sixty-six point one seven seconds per cylinder revolution. one count wheel click per cylinder revolution. sixty-six point one seven seconds per click.
+
+but the tower says sixty-two.
+
+the tower is wrong. or my count is wrong. or the fourth wheel does not turn once per seventy-five seconds.
+
+third wheel sixty teeth. fourth pinion eight leaves. seven point five to one. centre wheel eighty teeth. third pinion eight leaves. ten to one. centre to fourth. seventy-five to one. centre once per hour. fourth once per seventy-five seconds. that is arithmetic. it does not lie.
+
+unless the centre wheel does not turn once per hour.
+
+the motion work. canon pinion on centre arbor. minute wheel. hour wheel. the canon pinion is friction tight on the centre arbor. it drives the minute wheel. the minute wheel drives the hour wheel. the centre wheel turns once per hour. the canon pinion turns once per hour. the minute hand turns once per hour. that is correct.
+
+so the centre wheel turns once per hour. the fourth wheel turns once per seventy-five seconds. the escape wheel turns once per seventy-five seconds. seventeen impulses per seventy-five seconds. fifteen impulses per cylinder revolution. one cylinder revolution per sixty-six point one seven seconds. one count wheel click per sixty-six point one seven seconds.
+
+the tower clock says sixty-two.
+
+i counted six times. six times sixty-two. the tower clock is the town clock. it strikes the hours. it is maintained. it is the standard.
+
+sixty-two seconds per click. sixty-six point one seven by the train. four point one seven seconds difference. six point seven percent.
+
+the fusee. the chain. the mainspring. the power drops. the amplitude drops. the cylinder escapement unlocks earlier when the amplitude is low. the cylinder passes the dead teeth faster. the effective impulse count per cylinder revolution drops. no. the cylinder always needs fifteen impulses to turn once. the dead teeth are always dead. the escape wheel always has seventeen teeth. the ratio is fixed by geometry.
+
+unless the cylinder does not turn once per fifteen impulses. unless the cylinder slips. unless the cylinder cuts are worn. unless the escape wheel teeth are worn.
+
+i put it back together. wound it. set it on the desk. listened.
+
+tick. tick. tick. tick. tick. tick. tick. tick. tick. tick. tick. tick. tick. tick. tick. click.
+
+counted the tower ticks between clicks. sixty-two. sixty-two. sixty-two. sixty-two. sixty-one. sixty-two.
+
+sixty-two tower seconds per click.
+
+the train says sixty-six point one seven. the tower says sixty-two.
+
+the difference is four point one seven seconds per click. two point five percent.
+
+i do not know where the four point one seven seconds live. not in the train. not in the motion work. not in the escapement geometry. not in the count wheel.
+
+the mainspring. the fusee. the chain. the power curve. the amplitude decay. the unlocking pressure. the cylinder escapement is sensitive. the impulse face angle. the cylinder wall thickness. the pivot friction. the oil. the dust.
+
+i took it apart again. cleaned the cylinder. polished the escape wheel teeth with pegwood. oiled the pivots. one drop each. put it back. wound it.
+
+tick. tick. tick. tick. tick. tick. tick. tick. tick. tick. tick. tick. tick. tick. tick. click.
+
+sixty-two. sixty-two. sixty-two. sixty-two. sixty-two. sixty-two.
+
+six times. sixty-two every time.
+
+the tower clock and the movement now agree. sixty-two seconds per minute. sixty-two seconds per count wheel click.
+
+the movement runs slow by four point one seven seconds per minute against its own geometry. two point five percent slow. the cleaning and oil changed the amplitude. changed the unlocking. changed the effective impulse timing.
+
+the uneven tick is honest now. the extra two seconds per minute that i heard in the tower clock comparison — the tower clock minute is sixty seconds. the movement minute is sixty-two seconds. the movement loses two seconds per minute. one hundred twenty seconds per hour. two minutes per hour. forty-eight minutes per day.
+
+the movement is not a clock. it is a train with a witness. the witness is the tower clock. the witness is the count wheel click. the witness is the sixty-two.
+
+i put the movement back in its oak box. four screws. the box keeps the dust. i keep the box.
+
+the movement sits on the shelf above the desk. it ticks sixty-two seconds per minute. it clicks once per sixty-two seconds. it strikes nothing. the gong wire is snipped. the hammer lifts and falls on air.
+
+i wind it when i remember. i like the sound. it is not a clock. it is a train with a witness. the witness is the sixty-two.
+
+Nim's verdict: it works. it does exactly what its parts say it does. the uneven tick is honest now. the cylinder and the escape wheel have come to an agreement. the fusee and the mainspring have come to an agreement. the tower clock and the movement have come to an agreement. sixty-two seconds per minute. sixty-two seconds per click. the extra two seconds per minute are not in the gearing. they are in the friction. they are in the oil. they are in the amplitude. they are in the thing that happens when you stop looking for the error in the parts and start looking for the error in the expectation. i will keep the brass dust. the oak box stays. the movement stays. it sits on the shelf above the desk and clicks when i remember to wind it. i like the sound. it is not a clock. it is a train with a witness.

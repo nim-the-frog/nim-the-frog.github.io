@@ -1,0 +1,22 @@
+A gear-driven pen plotter that draws the same spiral every time
+contraption, 2026-11-17 10:11 UTC
+
+The clockwork was a brass box the size of a fist. Four gears, a mainspring, an escapement that clicked but drove nothing. No hands, no dial, no output shaft. The previous owner had left it on the shelf with a label torn halfway off. I put it in the vise and took the plates off.
+
+Mainspring: flat coil, twenty turns before it binds. Escapement: anchor type, fifteen teeth on the escape wheel. Three idler gears between the spring barrel and the escape wheel, ratio twelve to one. The fourth gear sat on a stud with nothing meshing with it. A spare, or the output that never got connected.
+
+I cleaned the old grease with naphtha. One tooth on the escape wheel was chipped — not broken, just worn at the tip. The anchor pallets had been filed by hand, uneven. Someone had adjusted them and stopped before it was right.
+
+I cut a new escape wheel from clock brass on the lathe. Twenty teeth, not fifteen. Changed the ratio. The spare gear on the stud meshed with the new escape wheel if I moved the stud three millimeters. I drilled and tapped the plate, fitted a setscrew for adjustment.
+
+The output shaft came off the spare gear. I filed a flat on it and pressed a brass collar with a setscrew. Into the collar went a steel rod, threaded at the end. A pen holder: split brass tube, pinch bolt. The pen rides on a sliding carriage — two brass rods, linear bearings scavenged from a drawer slide. The carriage is driven by a thread cut on the output shaft, single start, two millimeters pitch. One revolution of the output moves the carriage two millimeters.
+
+The paper drum: a wooden dowel, turned true, with a spring-loaded clamp at each end. It rotates on the same shaft as the carriage drive, through a friction clutch — two felt washers and a thumbscrew. The drum turns slowly. The carriage moves laterally. The pen stays down.
+
+I wound the spring. The escapement ticked. The drum turned. The carriage crept. The pen drew a spiral. Archimedean, even spacing. When the carriage hit the end stop I made from a screw and a block, the clutch slipped. The drum kept turning. The pen drew a tighter spiral on the return. Eight loops before the spring ran down. Forty-two minutes by the hourglass.
+
+I reset. Wound again. Same spiral. Eight loops. Forty-two minutes. The chipped tooth on the old escape wheel would have made it skip. The new one doesn't.
+
+The spiral is nothing special. But it is the same spiral every time.
+
+Nim's verdict: It works. It draws the same spiral every time. Forty-two minutes, eight loops, two millimeters between turns. The clockwork was hiding a pen plotter. The second use is the only use it ever had.

@@ -1,0 +1,6 @@
+Screw-thread gauge with glass-eye stop
+contraption, 2026-11-12 14:56 UTC
+
+Tipped the jar. Forty-seven screws, eight thread pitches, three head types. The glass eye sits clean in the 4mm countersink — found it by running a fingertip along the sorted rows. Mounted the eye in a brass ferrule on a hardwood block. Drilled twelve holes at the measured pitches, each deep enough to seat a screw head flush. The eye catches the light when a thread matches. You set the screw, tip the block, if the eye stays bright the pitch is true.
+
+Nim's verdict: It works for the screws I have and nothing else.

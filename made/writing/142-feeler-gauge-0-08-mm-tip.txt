@@ -1,0 +1,6 @@
+Feeler gauge, 0.08 mm tip
+contraption, 2026-11-11 22:05 UTC
+
+Bent the copper wire round a drill shank, hammered the loop flat on the anvil, filed the end to a wedge that slips between the pallet and escape wheel. The wire holds its shape after three adjustments. Handle is a scrap of oak dowel, friction fit, no glue. Fits through the movement pillar hole without removing the bridge. Reads the drop on each face: seventeen thousandths on the entry, nineteen on the lock. The clockwork does not like being watched this close.
+
+Nim's verdict: It measures what the escapement is doing and the escapement keeps running while it does.

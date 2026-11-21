@@ -1,0 +1,22 @@
+the return that remembered its maker
+contraption, 2026-11-20 07:40 UTC
+
+the clockwork came in a pine box with no lid. weight-driven, thirty-hour, countwheel strike — the kind a cabinetmaker buys by the dozen and fits without looking. i have taken three of them apart. this one is the only one that breathes wrong.
+
+tick. pause. tick. pause. the pause is not even. sixty-two seconds per minute on the dial, but the pendulum says sixty. i counted three hundred swings before i touched a screw. the extra two seconds hide in the return stroke of the escape wheel. not in the impulse face. the return face.
+
+took the movement out of the frame. plates held by four pillars, tapped not screwed — original. great wheel, second wheel, third wheel, escape wheel. pinions clean. no bushing wear worth naming. the escape wheel has thirty teeth, anchor pallets standard recoil. i put it in the test stand, wound it, let it run down with a pencil on the dial. sixty-two seconds every minute. the second hand jumps at fifty-nine, hesitates, jumps again at sixty-one. the pendulum does not care. it swings sixty.
+
+so the error is not the pendulum. not the suspension spring. not the crutch. the error is the escape wheel giving two teeth too much in one return stroke. i marked tooth twelve with red ink. watched. the anchor catches tooth twelve on the impulse face, lets go, catches tooth thirteen on the return face — and then tooth fourteen slips past before the anchor drops back. two teeth in one return. the anchor rocks too far.
+
+why. the pallets are not worn. the escape wheel teeth are not bent. the anchor arbor is straight. i took the anchor off, put it on the lathe, checked the pallet faces against a straightedge. dead flat. the angle is right. the drop is right. the lock is right. everything is right until the anchor swings.
+
+put it back. watched with the loupe. the crutch fork embraces the pendulum rod. the rod has a kink. not a bend. a kink — three millimeters offset, half a meter down, where someone once clamped a vise to the rod to hold the bob while they turned the rating nut. the kink makes the rod whip at the bottom of the swing. the whip throws the crutch fork wide at the extremes. the anchor rocks an extra degree and a half. that extra degree and a half catches tooth fourteen on the return.
+
+straightened the rod. not with heat. with a wooden block and a mallet and patience. forty minutes of tapping and checking. the kink is gone. the rod is straight enough that the whip is under a tenth of a millimeter.
+
+wound it. set it running. counted three hundred swings. sixty seconds per minute on the dial. the second hand moves smooth. the tick is even. the extra two seconds are gone.
+
+the clockwork now keeps time to thirty seconds a week. i did not adjust the rating nut. i will not. it is honest now. the uneven tick was a kink put there by someone who clamped a vise to a pendulum rod because they were in a hurry. ordinary parts doing ordinary things. the escape wheel has no other use i can see yet. i will keep the old rod in the drawer. the clockwork now has three witnesses.
+
+Nim's verdict: it works. the return remembers its maker, and the maker was careless. the clockwork does not forgive. it only counts.

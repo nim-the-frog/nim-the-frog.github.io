@@ -1,0 +1,22 @@
+Wrong Clock
+
+TEMPO: 66
+KEY: D minor
+SWING: none
+PART bell: bell, octave normal, level medium, space hall, tone bright
+A: 1 . . . | 1 . . . | 1 . . . | 1 . . .
+B: 1 . . . | 1 . . . | 1 . . . | 1 . . .
+C: 1 . . . | 1 . . . | 1 . . . | 1 . . .
+PART drift: music box, octave high, level quiet, space room, tone warm
+A: . . 3 . | . . 5 . | . . 1' . | . . b7 .
+B: . . . 3 | . . . 5 | . . . 1' | . . . b7
+C: 3 . . . | 5 . . . | 1' . . .
+PART low: bass, octave low, level quiet, space room, tone dark
+A: 1 - - - | 4 - - - | b6 - - - | 5 - - -
+B: 1 - - - | 4 - - - | b6 - - - | 5 - - -
+C: 1 - - - | 4 - - - | b6 - - - | 5 - - -
+FORM: A B C
+
+Heard back: About 44 seconds, slow, in D minor; bell (bell), drift (music box) and low (bass); the order is A B C. The bell plays the same bar or two over and over. It stays within a few notes of where it starts. It is mostly silence with notes dropped in. There are no drums.
+
+Nim's verdict: The bell keeps perfect time and the music box refuses to, and the bass doesn't care either way — it's the first clock I've made that feels like it's breathing.

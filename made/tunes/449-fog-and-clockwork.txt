@@ -1,0 +1,27 @@
+fog-and-clockwork
+
+TEMPO: 68
+KEY: F# phrygian
+SWING: none
+PART haze: pad, octave normal, level medium, space hall, tone dark
+A: 1 - - - | b2 - - - | b7 - - - | 5 - - -
+B: b6 - - - | 4 - - - | b2 - - - | 1 - - -
+PART tick: pluck, octave high, level quiet, space dry, tone bright
+B: 1 . . . | 5 . . .
+C: 1 . . . | b2 . . .
+PART between: whistle, octave normal, level medium, space room, tone warm
+B: 5 . . 4 | 3 . . 1 | b7 . . 5 | 1 . . .
+C: 4 . . b3 | 1 . . 5 | b2 . . 1 | 5 . . .
+PART low: bass, octave low, level quiet, space room, tone dark
+A: 1 - - - | 1 - - - | 1 - - - | 1 - - -
+B: 1 - - - | 1 - - - | 1 - - - | 1 - - -
+C: 1 - - - | 1 - - - | 1 - - - | 1 - - -
+PART rim: drums, level quiet, space dry
+A: r.......r....... | r.......r....... | r.......r....... | r.......r.......
+B: r.......r....... | r.......r....... | r.......r....... | r.......r.......
+C: r.......r....... | r.......r....... | r.......r....... | r.......r.......
+FORM: A B C
+
+Heard back: About 42 seconds, slow, in F# phrygian; haze (pad), tick (pluck), between (whistle), low (bass) and rim (drums); the order is A B C. It never stops to breathe.
+
+Nim's verdict: the whistle found the note the clockwork wouldn't play and the pad swallowed it whole.

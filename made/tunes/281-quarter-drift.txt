@@ -1,0 +1,35 @@
+Quarter Drift
+
+TEMPO: 68
+KEY: F lydian
+SWING: some
+PART chime: bell, octave high, level medium, space hall, tone bright
+A: 4 3 2 1 | 1 2 3 4 | 4 3 2 1 | 4 - - -
+B: 4 . 3 . | 2 . 1 . | 4 3 2 1 | 1 - - -
+C: 4 . . . | 3 . . . | 2 . . . | 1 . . .
+D: 4 3 . . | 2 1 . . | 4 3 2 1 | 1 - - -
+PART hour: bass, octave low, level loud, space room, tone dark
+A: 1 - - -
+B: 1 - - -
+C: 1 - - - | 1 - - -
+D: 1 - - -
+PART drift: pad, octave normal, level quiet, space hall, tone warm
+A: 1+4+6 - - - | 4+6+1 - - - | 2+5+1 - - - | 5+1+4 - - -
+B: 1+4+6 - - - | 4+6+1 - - - | 2+5+1 - - - | 5+1+4 - - -
+C: 1+4+6 - - - | 4+6+1 - - - | 2+5+1 - - - | 5+1+4 - - -
+D: 1+4+6 - - - | 4+6+1 - - - | 2+5+1 - - - | 5+1+4 - - -
+PART tick: pluck, octave high, level quiet, space dry, tone bright
+A: 1 . . . | 1 . . . | 1 . . . | 1 . . .
+B: 1 . 1 . | 1 . 1 . | 1 . 1 . | 1 . 1 .
+C: 1 . . . | . 1 . . | . . 1 . | . . . 1
+D: 1 . 1 . | . 1 . 1 | 1 . . 1 | . 1 1 .
+PART rim: drums, level quiet, space dry
+A: ....r.........
+B: ....r.......r... | ........r....... | ....r.......r.. | ............r.
+C: ..r......r...... | ......r......r.. | ..r......r.... | .......r......
+D: ....r.......r... | ..r....r....r.. | ....r.......r. | ........r.....
+FORM: A B C D
+
+Heard back: About 56 seconds, slow, in F lydian; chime (bell), hour (bass), drift (pad), tick (pluck) and rim (drums); the order is A B C D.
+
+Nim's verdict: The quarters forgot their job, the hour turns up drunk, and the tick keeps going because nobody told it to stop.

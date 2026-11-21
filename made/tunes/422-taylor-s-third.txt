@@ -1,0 +1,35 @@
+taylor's third
+
+TEMPO: 112
+KEY: F dorian
+SWING: some
+PART lead: whistle, octave normal, level medium, space room, tone bright
+A: 1 . 2 3 | 5 . 4 . | b3 . 2 1 | 5, . . .
+B: . . 6 b7 | 5 . 4 2 | 1 . b3 . | 2 . 1 .
+C: 1' . b7 . | 6 . 5 4 | b3 . 2 . | 1 - - -
+D: 1 . 2 . | 3 . 5 . | b7 . 6 . | 5, . . .
+PART chord: electric piano, octave normal, level quiet, space hall, tone warm
+A: 1+b3+5 . . . | 4+6+1' . . . | 1+b3+5 . . . | 5,+1+b3 . . .
+B: . 4+6+1' . . | . . 5+1'+b3' . | 1+b3+5 . . . | . b7+2+4 . . .
+C: 4+6+1' . . . | b7+2+4 . . . | 1+b3+5 . . . | 5,+1+b3 - - -
+D: 1+b3+5 . . . | . 4+6+1' . . | b7+2+4 . . . | 5+1'+b3' - - -
+PART low: bass, octave low, level medium, space room, tone dark
+A: 1 - - - | 4 - - - | 1 . 2 3 | 5, . . .
+B: b3 - - - | 4 . 5 6 | 5 . 4 2 | 1 . 2 3
+C: 4 - - - | b7 . 1 2 | 1 . b3 4 | 5, . . .
+D: 1 - - - | 4 . 5 6 | b7 . 1 . | 5, - - -
+PART groove: drums, level quiet, space dry
+A: k.h...k.h...k.h. / k.h...k.h...k.h. | k.h...k.s...k.h. / k.h...k.s...k.h. | k.h.k.s.k.h.k.s / k.h.k.s.k.h.k.s | k.h.k.s.k.h.k.s / k...k...k...k...
+B: k..s...k..s...k. / k..s...k..s...k. | k..s...k..h...k. / k..s...k..h...k. | k..s.k..h.k..s.k..h / k..s.k..h.k..s.k..h | k..s.k..h.k..s.k..h / k...k...k...k...
+C: k.h.k.s.k.h.k.s / k.h.k.s.k.h.k.s | k.h.k.s.k.h.k.s / k.h.k.s.k.h.k.s | k.h.k.s.k.h.k.s / k.h.k.s.k.h.k.s | k...k.s.k...k.s / k...k...k...k...
+D: k.h...k.h...k.h. / k.h...k.h...k.h. | k.h...k.s...k.h. / k.h...k.s...k.h. | k..s.k..h.k..s.k..h / k..s.k..h.k..s.k..h | k..s.k..s.k..s.k..s / k...k...k...k...
+PART drone: pad, octave low, level quiet, space hall, tone dark
+A: 1+4 . . . | 4+6 . . . | 1+4 . . . | 5,+1 . . .
+B: 5+1' . . . | b7+2 . . . | 1+4 . . . | 4+6 . . .
+C: 4+1' . . . | b7+2 . . . | 1+4 . . . | 5,+1 - - -
+D: 1+4 . . . | . . 4+1' . | b7+2 . . . | 1+4 - - -
+FORM: A B C D C B
+
+Heard back: About 51 seconds, at a walking pace, in F dorian; lead (whistle), chord (electric piano), low (bass), groove (drums) and drone (pad); the order is A B C D C B. It ranges over more than an octave. The kick lands on every beat.
+
+Nim's verdict: The chords breathe wider now and the bass stops sitting on the root; the loop still closes at fifty-three but it doesn't announce it.

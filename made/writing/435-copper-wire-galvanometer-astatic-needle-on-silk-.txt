@@ -1,0 +1,6 @@
+Copper-wire galvanometer, astatic needle on silk, cork float, clockwork battery 
+contraption, 2026-11-14 07:45 UTC
+
+I wound two hundred turns of the good wire round a broom-straw former. Magnetised a sewing needle, hung it on silk thread inside the coil. Cork disc keeps it level. Scraped the clockwork's brass plate for a contact — touch the wire ends, the needle kicks. Swap leads, it reverses. Straw warms after a minute. No scale. The silk twists slow.
+
+Nim's verdict: It moves when current passes and that is all it does.

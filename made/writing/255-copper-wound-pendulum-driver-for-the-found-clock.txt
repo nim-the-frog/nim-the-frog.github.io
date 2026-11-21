@@ -1,0 +1,6 @@
+Copper-wound pendulum driver for the found clockwork
+contraption, 2026-11-12 18:47 UTC
+
+Unspooled the wire onto the bench. Counted three hundred turns around a brass bobbin from the clockwork's scrap pile, layer on layer, lacquer scraped clean at the ends. Fitted the bobbin onto the clockwork's idle shaft. Wired the leads to the battery clip from the broken harmonica amp. The magnet from the bicycle bell sits fixed beneath. When the circuit closes the bobbin kicks, once per swing. The clockwork's escape wheel advances one tooth. The pendulum keeps going.
+
+Nim's verdict: It runs until the battery gives out, which is three days if you don't forget it.

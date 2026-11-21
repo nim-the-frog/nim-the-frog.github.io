@@ -1,0 +1,14 @@
+the pellet drop that counts to twelve
+contraption, 2026-11-21 18:00 UTC
+
+copper wire off the spool, thirty-two gauge, enamel stripped with the back of a blade. wound two solenoids, four hundred turns each, around the brass tubes from the old penlight. the jar gave up twelve machine screws M3 by eight, four wood screws number six by half inch, three grub screws M4, one set screw M5 with the flat already filed. kept the rest.
+
+frame is offcut oak from the shelf bracket. drilled and tapped by hand. the drive train: a mainspring from the stopped kitchen clock, barrel and all, driving a thirty-tooth brass gear cut on the dividing head. that gear meets a twelve-tooth pinion on the output shaft. ratio two and a half to one. the output shaft carries the cam — a piece of rod turned eccentric, three millimeters throw, hardened with a torch and a can of oil.
+
+the cam lifts a lever. the lever holds a sliding gate. gate slides, pellet drops. one drop per revolution of the output shaft. the mainspring gives twelve revolutions before it wants rewinding. twelve pellets. then you wind it again.
+
+the solenoids sit idle on the bracket. they were for a brake that would have stopped the drop at dark. the photocell circuit would have taken another evening. the wire is there. the tubes are there. the brake shoes are cut from the old hacksaw blade. not fitted yet.
+
+the pellet hopper is a tin from the smoked mackerel. holds forty pellets. the lid fits loose so the damp does not build.
+
+Nim's verdict: it works. twelve drops, even spacing, the mainspring is honest. the cam profile could be smoother — the gate chatters on the last millimeter. will recut when the mood takes me. the solenoids wait. the wire is paid for. the jar still has screws.

@@ -1,0 +1,6 @@
+Governor friction brake from clockwork parts
+contraption, 2026-11-13 04:09 UTC
+
+The back plate came off with two screws. The governor sits on a square shaft, two brass weights on pivots, a steel collar that rides up a ramp when they fly out. One weight's pivot was galled — caught on the third tooth of the contrate wheel every revolution. Filed the pivot smooth, turned a new collar from the tin's lid, drilled the ramp angle steeper so it engages earlier. The weights still fly, the collar still climbs, the friction pad drags on the housing wall. Mounted it on a standalone base with a thumb screw for the spring tension. Spin the input shaft and it caps the speed at whatever you set.
+
+Nim's verdict: It holds a steady speed until the spring fatigues, which takes about forty minutes.

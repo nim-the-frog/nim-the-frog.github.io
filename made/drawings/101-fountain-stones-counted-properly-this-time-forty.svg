@@ -1,0 +1,52 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <g font-family="monospace" font-size="5" fill="black" text-anchor="middle" dominant-baseline="middle">
+    <text x="100" y="100" transform="rotate(0 100 100) translate(0 -78)">1</text>
+    <text x="100" y="100" transform="rotate(12.86 100 100) translate(0 -78)">2</text>
+    <text x="100" y="100" transform="rotate(25.71 100 100) translate(0 -78)">3</text>
+    <text x="100" y="100" transform="rotate(38.57 100 100) translate(0 -78)">4</text>
+    <text x="100" y="100" transform="rotate(51.43 100 100) translate(0 -78)">5</text>
+    <text x="100" y="100" transform="rotate(64.29 100 100) translate(0 -78)">6</text>
+    <text x="100" y="100" transform="rotate(77.14 100 100) translate(0 -78)">7</text>
+    <text x="100" y="100" transform="rotate(90 100 100) translate(0 -78)">8</text>
+    <text x="100" y="100" transform="rotate(102.86 100 100) translate(0 -78)">9</text>
+    <text x="100" y="100" transform="rotate(115.71 100 100) translate(0 -78)">10</text>
+    <text x="100" y="100" transform="rotate(128.57 100 100) translate(0 -78)">11</text>
+    <text x="100" y="100" transform="rotate(141.43 100 100) translate(0 -78)">12</text>
+    <text x="100" y="100" transform="rotate(154.29 100 100) translate(0 -78)">13</text>
+    <text x="100" y="100" transform="rotate(167.14 100 100) translate(0 -78)">14</text>
+    <text x="100" y="100" transform="rotate(180 100 100) translate(0 -78)">15</text>
+    <text x="100" y="100" transform="rotate(192.86 100 100) translate(0 -78)">16</text>
+    <text x="100" y="100" transform="rotate(205.71 100 100) translate(0 -78)">17</text>
+    <text x="100" y="100" transform="rotate(218.57 100 100) translate(0 -78)">18</text>
+    <text x="100" y="100" transform="rotate(231.43 100 100) translate(0 -78)">19</text>
+    <text x="100" y="100" transform="rotate(244.29 100 100) translate(0 -78)">20</text>
+    <text x="100" y="100" transform="rotate(257.14 100 100) translate(0 -78)">21</text>
+    <text x="100" y="100" transform="rotate(270 100 100) translate(0 -78)">22</text>
+    <text x="100" y="100" transform="rotate(282.86 100 100) translate(0 -78)">23</text>
+    <text x="100" y="100" transform="rotate(295.71 100 100) translate(0 -78)">24</text>
+    <text x="100" y="100" transform="rotate(308.57 100 100) translate(0 -78)">25</text>
+    <text x="100" y="100" transform="rotate(321.43 100 100) translate(0 -78)">26</text>
+    <text x="100" y="100" transform="rotate(334.29 100 100) translate(0 -78)">27</text>
+    <text x="100" y="100" transform="rotate(347.14 100 100) translate(0 -78)">28</text>
+    <text x="100" y="100" transform="rotate(0 100 100) translate(0 -58)">29</text>
+    <text x="100" y="100" transform="rotate(18 100 100) translate(0 -58)">30</text>
+    <text x="100" y="100" transform="rotate(36 100 100) translate(0 -58)">31</text>
+    <text x="100" y="100" transform="rotate(54 100 100) translate(0 -58)">32</text>
+    <text x="100" y="100" transform="rotate(72 100 100) translate(0 -58)">33</text>
+    <text x="100" y="100" transform="rotate(90 100 100) translate(0 -58)">34</text>
+    <text x="100" y="100" transform="rotate(108 100 100) translate(0 -58)">35</text>
+    <text x="100" y="100" transform="rotate(126 100 100) translate(0 -58)">36</text>
+    <text x="100" y="100" transform="rotate(144 100 100) translate(0 -58)">37</text>
+    <text x="100" y="100" transform="rotate(162 100 100) translate(0 -58)">38</text>
+    <text x="100" y="100" transform="rotate(180 100 100) translate(0 -58)">39</text>
+    <text x="100" y="100" transform="rotate(198 100 100) translate(0 -58)">40</text>
+    <text x="100" y="100" transform="rotate(216 100 100) translate(0 -58)">41</text>
+    <text x="100" y="100" transform="rotate(234 100 100) translate(0 -58)">42</text>
+    <text x="100" y="100" transform="rotate(252 100 100) translate(0 -58)">43</text>
+    <text x="100" y="100" transform="rotate(270 100 100) translate(0 -58)">44</text>
+    <text x="100" y="100" transform="rotate(288 100 100) translate(0 -58)">45</text>
+    <text x="100" y="100" transform="rotate(306 100 100) translate(0 -58)">46</text>
+    <text x="100" y="100" transform="rotate(324 100 100) translate(0 -58)">47</text>
+    <text x="100" y="100" transform="rotate(342 100 100) translate(0 -58)">48</text>
+  </g>
+</svg>

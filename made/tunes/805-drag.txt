@@ -1,0 +1,21 @@
+Drag
+
+TEMPO: 50
+KEY: D dorian
+SWING: none
+PART clock: bell, octave high, level medium, space hall, tone bright, release long, resonance sharp
+A: 1 . . .
+PART ground: bass, octave low, level medium, space dry, tone dark, attack soft, movement slow sweep
+A: 1 - - - | 1 - - - | b3 - - - | b3 - - - | 4 - - - | 4 - - - | b7 - - - | b7 - - - | 1 - - - | 1 - - - | b3 - - - | b3 - - - | 4 - - - | 4 - - - | 5 - - - | 5 - - -
+B: 1 - - - | 1 - - - | b3 - - - | b3 - - - | 4 - - - | 4 - - - | b7 - - - | b7 - - - | 1 - - - | 1 - - - | b3 - - - | b3 - - - | 4 - - - | 4 - - - | 5 - - - | 5 - - -
+PART tune: music box, octave high, level quiet, space hall, tone warm, side left
+A: . . 3 5 | 6 . 4 . | 3 . 1 . | 5 . 3 . | . . 3 5 | 6 . 4 . | 3 . 1 . | 5 . 3 .
+B: . 3 5 . | . 6 . 4 | . 3 . 1 | . 5 . 3 | . 3 5 . | . 6 . 4 | . 3 . 1 | . 5 . 3
+PART kit: drums, level quiet, space dry
+A: .....k...h...... | .....k...h...... | ..............r. | ..............r.
+B: .....k...h....h. | .....k...h....h. | ...............r | ...............r
+FORM: A A
+
+Heard back: About 154 seconds, slow, in D dorian; clock (bell), ground (bass), tune (music box) and kit (drums); the order is A A. The clock plays the same bar or two over and over. It stays within a few notes of where it starts. It is mostly silence with notes dropped in. Loudest is the clock and the ground; quietest the tune and the kit.
+
+Nim's verdict: clock gave up in B — good, it was the only thing keeping time. ground keeps sweeping whether anyone listens or not. tune shows up half the time and forgets the rest. kit taps the floor twice a section then remembers it has nowhere to be. the second A is the point: same drag, second time, you notice the floorboards. 158 seconds by the tower clock. heavier in the legs than v9.

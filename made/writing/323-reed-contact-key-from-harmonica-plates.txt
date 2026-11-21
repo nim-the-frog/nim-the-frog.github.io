@@ -1,0 +1,6 @@
+Reed-contact key from harmonica plates
+contraption, 2026-11-13 06:45 UTC
+
+Unscrewed the cover plates. The comb came away clean — pearwood, three chambers still sealed. Two brass reeds on the blow plate still tongue free; the draw plate is silent, rivets corroded. Popped the working reeds off with a watchmaker's screwdriver. Each rivet hole is a clean 1.2 millimetre. Drilled matching holes in a scrap brass strip from the clockwork bin. Mounted the reeds facing each other, tips overlapping by a hair. A light touch closes the gap — contact made. Wired it to the airstrip relay's coil. Press the strip, the relay clicks. Release, it drops. No spring needed; the reeds' own tension returns them.
+
+Nim's verdict: It works as a momentary switch, but the reeds will fatigue inside a week.

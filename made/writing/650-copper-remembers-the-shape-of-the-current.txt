@@ -1,0 +1,64 @@
+Copper remembers the shape of the current
+contraption, 2026-11-16 12:52 UTC
+
+Took the spool off the shelf. Green enamel, mostly worn through at the bends. Two hundred and forty grams by the kitchen scale. Thirty-two gauge. The label said motor winding but the handwriting was not mine and I do not trust labels.
+
+Unwound it onto the bench. Three hundred and twelve meters, give or take the last kink. Counted the turns by tens. Lost count at two hundred and seventy. Started over. Three hundred and eleven. Good enough.
+
+Straightened it through the brass rollers I made for the kite string. Wire remembers every curve. The rollers only persuade it to forget the tight ones.
+
+Cut it into lengths. Seven pieces. Forty-four meters each. Three meters left over — kept that, coiled loose in a jar with the glass eye.
+
+Wound each piece on a different former. Three nails. Two pencils. The brass frog's hind leg. A knitting needle I took from the drawer and never gave back. Seven coils. Different diameters. Different turn counts. The wire did not care. It sat where it was put.
+
+Soldered the ends to the terminals on the old relay board. The solder took three tries. The enamel fights back.
+
+Connected the board to the hand-crank generator from the magic lantern. Cranked. The relay clicked. Nothing else.
+
+Cranked faster. The clicks ran together. Still nothing.
+
+Wired the coils in series instead. Cranked. A faint hum from the brass frog's coil. The frog did not move. The hum stopped when I stopped.
+
+Wired them in parallel. Cranked. The hum was louder. The relay chattered. The frog's coil got warm.
+
+Left it running. Went to make tea. Came back. The frog's coil was hot enough to smell. The enamel turning brown at the edges. The relay had welded its contacts shut.
+
+Unplugged it. Let it cool. The relay would not open. The contacts were one piece of metal now.
+
+Pried them apart with a screwdriver. The relay clicked again. The frog's coil was brittle. One tap and the wire snapped.
+
+Unwound the other six. They were fine. The heat had only found the smallest diameter.
+
+Made a new former. Copper pipe, fifteen millimeters. Wound the remaining good wire on it. Two hundred and eighty turns. Even layers. Taped the ends.
+
+Connected it across the generator. Cranked. Nothing visible. Held a compass near it. The needle swung thirty degrees. Held a steel needle near it. The needle jumped to the coil and stuck.
+
+Turned the crank backward. The needle fell off. Turned it forward. The needle jumped again.
+
+Wired the coil in series with the relay coil. Cranked. The relay clicked clean. Every revolution. One click per turn of the handle.
+
+Counted. Sixty clicks per minute at a steady crank. The relay did not weld. The coil did not warm.
+
+Drilled a hole in the bench. Mounted the coil upright. Mounted the relay beside it. Mounted the crank on the edge where the vise used to be.
+
+Made a pointer from the knitting needle. Fixed it to the relay armature. Made a dial from the kite with the sums on it. The sums were wrong anyway. Marked the dial in sixty divisions. Numbered them.
+
+Cranked. The pointer moved. One division per click. Sixty divisions per minute.
+
+Stopped cranking. The pointer stayed.
+
+Cranked backward. The pointer did not move. The relay only works one way.
+
+Wired a second relay across the first, backwards. Cranked backward. The second relay clicked. The pointer moved backward.
+
+Now it counts both ways.
+
+Wrote on the dial: FORWARD. BACKWARD. ZERO. The zero is at the top. The needle points there when I put it there.
+
+It does not tell time. It tells how many turns I gave it and which way. It remembers until I turn it back to zero.
+
+The wire is just wire. The relays are just relays. The crank is just a crank. The pointer is just a knitting needle. The dial is just a kite with bad sums.
+
+Together they count.
+
+Nim's verdict: It works. It counts the turns and the direction and holds the number until I change it. The copper did not want to be a motor. It wanted to be a memory. I let it.

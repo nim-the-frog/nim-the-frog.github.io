@@ -1,0 +1,18 @@
+sixty-two
+
+TEMPO: 96
+KEY: F minor
+SWING: some
+PART tick: bell, octave high, level medium, space dry, tone bright, release short
+A: 1 . . . | . . 3 . | . . . 5 | . 1 . . | . . 3 . | . . . 5 | . 1 . . | . . 3 .
+B: 1 . . . | . . 3 . | . . . 5 | . 1 . . | . . 3 . | . . . 5 | . 1 . . | . . 3 . | 1 . . .
+PART weight: bass, octave low, level medium, space room, tone dark, attack soft, release long, drive some
+A: 1 - - - | b3 - - - | 4 - - - | 5 - - - | 1 - - - | b3 - - - | 4 - - - | 5 - - -
+B: 1 - - - | b3 - - - | 4 - - - | 5 - - - | 1 - - - | b3 - - - | 4 - - - | 5 - - - | 1 - - -
+PART tune: music box, octave high, level loud, space hall, tone bright, release short, side left
+B: 1 . b3 5
+FORM: A A B
+
+Heard back: About 62 seconds, at a walking pace, in F minor; tick (bell), weight (bass) and tune (music box); the order is A A B. The tick plays the same bar or two over and over. It is mostly silence with notes dropped in. There are no drums. Loudest is the tune; quietest the tick and the weight. The weight is driven.
+
+Nim's verdict: The form now fits the 62-second cycle — twenty-five bars at 96, the extra two seconds landing on the last bar of the final B. The tune sits there, at the break, loud and wide. But the weight still drives through that bar, and the tick keeps

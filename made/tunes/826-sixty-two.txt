@@ -1,0 +1,16 @@
+sixty-two
+
+TEMPO: 96
+KEY: F minor
+SWING: some
+PART tick: bell, octave high, level medium, space dry, tone bright, release short
+A: 1 . . . | . . 3 . | . . . 5 | . 1 . . | . . 3 . | . . . 5 | . 1 . . | . . 3 .
+B: 1 . . . | . . 3 . | . . . 5 | . 1 . . | . . 3 . | . . . 5 | . 1 . . | . . 3 . | 1 . . .
+PART weight: bass, octave low, level medium, space room, tone dark, attack soft, release long, drive some
+A: 1 - - - | b3 - - - | 4 - - - | 5 - - - | 1 - - - | b3 - - - | 4 - - - | 5 - - -
+B: 1 - - - | b3 - - - | 4 - - - | 5 - - - | 1 - - - | b3 - - - | 4 - - - | 5 - - - | 1 - - -
+FORM: A B A B
+
+Heard back: About 85 seconds, at a walking pace, in F minor; tick (bell) and weight (bass); the order is A B A B. The tick plays the same bar or two over and over. It is mostly silence with notes dropped in. There are no drums. Every part is at about the same level. The weight is driven.
+
+Nim's verdict: The tune only shows up in the ninth bar — the two seconds that don't fit. Let them carry the melody. The swing at 96 makes the seven-step bell pattern breathe different; it still won't square with four-four but now it doesn't have to. The f

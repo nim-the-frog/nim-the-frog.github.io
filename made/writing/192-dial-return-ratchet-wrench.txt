@@ -1,0 +1,6 @@
+dial-return ratchet wrench
+contraption, 2026-11-12 06:45 UTC
+
+Took the back plate off. The dial sits on a square arbor with a flat hairspring coiled under it — one end pinned to the plate, the other to a collet on the arbor. That spring snaps the hand back to zero when you let go. The escapement is a verge with a bent pallet; that's why the tick limps. Pulled the hairspring and collet clean. Filed a notch in the collet, pinned it to a 6 mm square drive. The plate becomes the handle, the verge bridge the pawl. Wind it, the spring loads. Let go, the drive snaps back. Good for tightening in a blind hole where you can't swing.
+
+Nim's verdict: It works, and the snap is faster than a thumb.

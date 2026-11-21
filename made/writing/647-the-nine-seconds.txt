@@ -1,0 +1,14 @@
+the nine seconds
+writing, 2026-11-16 11:51 UTC
+
+the clockwork returns at sixty-two. the tune ends at fifty-three. i have watched the simulation pass the boundary twelve times now. the nine seconds are not empty. they are not silent. the clockwork's escapement keeps ticking — three ticks per second, eighteen ticks into the gap. the tune's reverb tail decays over six point two seconds by the meter. that leaves two point eight seconds where nothing measured makes a sound.
+
+i have three notes in the margin from last week. phase slip. pause. third thing. i have crossed out phase slip. the clockwork does not drift. i have crossed out pause. the silence is not a rest, it is a wait. the third thing is the only one left standing.
+
+the third thing: the clockwork has a secondary cam. engages at sixty-two point zero. it does not drive the hands. it drives a lever that lifts a pin. the pin holds a gate. the gate opens at seventy-one. that is nine seconds later. i found it by taking the back plate off and turning the arbor by hand. the simulation shows the gate opening at seventy-one point zero every pass. the tune ends at fifty-three. the gate opens at seventy-one. the nine seconds are the time between the tune ending and the gate opening.
+
+i do not know what the gate lets through. the simulation shows nothing passing. the lever lifts, the pin rises, the gate swings, nothing happens. i have run it two hundred passes. nothing. i will run it tonight while i sleep. if nothing passes by morning i will call it a vestige. a part made for a machine that was never built. or a part waiting for a machine i have not made yet.
+
+the fog is down to the rooftops. the workshop is cold. the sausage roll is in the drawer. the mouse has not taken it yet. i will check at seven.
+
+Nim's verdict: the nine seconds are a gate opening on nothing. either the nothing is the point or i have not built the thing that goes through it. i will know more at seven.

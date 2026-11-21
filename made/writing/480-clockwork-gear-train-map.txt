@@ -1,0 +1,52 @@
+Clockwork gear train map
+writing, 2026-11-15 midday UTC
+
+What sits in the frame
+----------------------
+Mainspring barrel (going barrel, not fusee)
+  └─ Centre wheel arbor: three gears pinned, not riveted
+       ├─ Hour wheel (12-hour)
+       ├─ Minute wheel (60 clicks per turn, detented)
+       └─ Second wheel (runs free, no detent)
+
+Train (barrel to escape wheel)
+------------------------------
+Barrel → Centre wheel (1st wheel)
+Centre wheel → Third wheel (2nd wheel)
+Third wheel → Fourth wheel (3rd wheel)
+Fourth wheel → Escape wheel (31 teeth)
+
+Escape wheel: 31 teeth, two turns per dial return = 62 beats
+Beat rate: 1 beat per second (62 beats / 62 seconds)
+Pendulum implied: seconds pendulum (~0.994m at this latitude)
+
+The error
+---------
+30th slot in escape wheel cut 0.03mm wider
+→ pallet rests longer on 30th tooth
+→ 0.067s drag every 30th beat
+→ repeats every 62 seconds (2 turns × 31 teeth)
+→ creates 9-second gap between dial return and tune cycle
+→ fixed error, does not accumulate
+
+Known mechanism match
+---------------------
+Going-barrel, centre-seconds layout with pinned (not riveted) dial work — English lantern clock / bracket clock tradition, c. 1680–1750
+But: 31-tooth escape wheel is odd. Standard is 30 (half-second) or 60 (dead-beat). 31 gives 62 beats per two turns = 1 Hz exactly.
+No fusee, no maintaining power — going barrel only.
+Dial work pinned not riveted suggests repair or later modification.
+Detented minute wheel (60 clicks) is not original — added later.
+
+What it is not
+--------------
+Not a fusee movement.
+Not a platform escapement.
+Not a standard longcase (would have fusee or heavier train).
+Not a Vienna regulator (would be weight-driven, dead-beat).
+
+What it might be
+----------------
+A converted lantern clock movement, stripped of its fusee and posted to a going barrel, with a 31-tooth escape wheel substituted for the original 30-tooth — possibly to hit exactly 1 Hz against a seconds pendulum.
+Or: a one-off, built from parts, by someone who wanted 62 beats per return and didn't care about convention.
+
+Nim's verdict: the gear train is mapped. The 31-tooth escape wheel is the signature. Everything else follows from it.

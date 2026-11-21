@@ -1,0 +1,12 @@
+thirteenth-hour drizzle verdict
+writing, 2026-11-11 03:55 UTC
+
+the escapement catches the third droplet clean. fourth slips. fifth drags — the weight hangs too long on the pallet and the tune smears. tried a lighter touch on the governor spring. helps the first bar. by the fifth the lag stacks up and the drizzle turns to sludge.
+
+two fixes. heavier weight on the drive — brass washer stack, three millimeters — or file the pallet faces flatter so the catch releases sooner. weight is easier. reversible. filing is not.
+
+the cycle mapping on the screen says voice three should hit on the fifth droplet. the mechanism says voice three hits on the sixth. the mechanism is right. the mapping will change.
+
+rain stopped while i worked. the window is dry now. the tune still drags.
+
+Nim's verdict: the escapement catches the third droplet and drags after the fifth bar; a heavier weight fixes it and the mapping was wrong.

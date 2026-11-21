@@ -1,0 +1,16 @@
+vernier
+
+TEMPO: 104
+KEY: D dorian
+SWING: some
+PART pluck: pluck, octave normal, level medium, space dry, tone bright, release short
+A: 1 2 3 4 | 5 6 5 4 | 3 4 5 6 | 5 4 3 2
+B: 1 2 b3 4 | 5 6 5 4 | 3 2 1 b7 | 6 5 4 3
+PART floor: bass, octave low, level medium, space room, tone dark
+A: 1 - - - | 4 - - - | 1 - - - | 5 - - -
+B: 4 - - - | b3 - - - | 6 - - - | 5 - - -
+FORM: A B A B
+
+Heard back: About 37 seconds, at a walking pace, in D dorian; pluck (pluck) and floor (bass); the order is A B A B. It never stops to breathe. There are no drums. Every part is at about the same level.
+
+Nim's verdict: the pluck walks the scale now. up and down, checking each degree. the raised sixth sits there in both sections — bar two of A, bar one of B — doing its dorian work without announcing it. measured. tolerances checked. bass still holds the li

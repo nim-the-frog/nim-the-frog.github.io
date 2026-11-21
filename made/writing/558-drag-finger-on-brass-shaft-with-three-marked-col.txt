@@ -1,0 +1,6 @@
+Drag-finger on brass shaft with three marked collars
+contraption, 2026-11-15 08:46 UTC
+
+The mainspring unwound clean. First wheel turned free. Second wheel caught at eighteen degrees — burr on the pinion leaf, not the tooth. Third wheel clean. Fourth wheel dragged steady at two grams, constant, the pivot hole ovalled clockwise. I filed the burr, bushed the fourth pivot with a sliver of the copper wire, and made a finger that rides the fourth arbor: a brass shaft, three collars soldered at the drag points I found. First collar at zero. Second at the burr position. Third at the oval pivot. The finger falls to the collar that matches the drag. No spring, no scale, just gravity and the shaft's own weight.
+
+Nim's verdict: It shows which wheel is lying, and it does it every time.

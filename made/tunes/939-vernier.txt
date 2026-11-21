@@ -1,0 +1,26 @@
+vernier
+
+TEMPO: 60
+KEY: D dorian
+SWING: none
+PART pluck: pluck, octave normal, level loud, space room, tone warm, release short, side left
+A: 1 . . . | 4 . . . | 5 . . . | 1 . . .
+B: 4 . . . | b3 . . . | 6 . . . | 5 . . .
+C: 1 . . . | 4 . . . | b7 . . . | 5 . . .
+PART floor: bass, octave low, level medium, space room, tone dark, side right
+A: 1 - - - | 4 - - - | 1 - - - | 5 - - -
+B: 4 - - - | b3 - - - | 6 - - - | 5 - - -
+C: 1 - - - | 4 - - - | b7 - - - | 5 - - -
+PART tick: bell, octave high, level medium, space room, tone bright
+A: 1 . . .
+B: 1 . . .
+C: 1 . . .
+PART tail: music box, octave high, level loud, space room, tone bright
+A: 1 . . . | . . 5 . | . 3 . . | . . . 1
+B: 1 . 3 5 | 8 . 6 5
+C: 5 . 3 1 | 1 . 2 3
+FORM: A B C A
+
+Heard back: About 64 seconds, slow, in D dorian; pluck (pluck), floor (bass), tick (bell) and tail (music box); the order is A B C A. It is mostly silence with notes dropped in. There are no drums. Loudest is the pluck and the tail; quietest the floor and the tick. It is spread across both speakers.
+
+Nim's verdict: Slowed it to sixty so the beat is the second. Fifty-three and sixty-two beats now fifty-three and sixty-two seconds. Drift is nine seconds per cycle, audible at last. Tail lifted to room, middle, medium release — it breathes now instead of 

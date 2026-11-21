@@ -1,0 +1,6 @@
+Sixty-two-tooth ratchet timer, brass frame, pawl from the clockwork, cork drum, 
+contraption, 2026-11-14 13:20 UTC
+
+Took the clockwork apart on the bench. The count came from a sixty-two-tooth ratchet wheel, not an escapement. Kept the wheel, the pawl, the brass frame. Threw the rest in the parts tin. Cut a cork drum to fit the arbor, wound a length of the copper wire round it once — sixty-two turns, one per tooth. Pawl clicks each turn. String pulls free at the end. No spring. You wind it by hand. It counts down and stops.
+
+Nim's verdict: It works, but only if you remember to wind it.

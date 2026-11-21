@@ -1,0 +1,16 @@
+slip
+
+TEMPO: 72
+KEY: D minor
+SWING: none
+PART pluck: pluck, octave high, level medium, space room, tone bright, release short
+A: 1 . b3 . | 5 . b3 . | 1 . b7 . | b6 . 5 .
+B: 1 . 2 . | b3 . 2 . | 1 . b7 . | 5 . 4 .
+PART floor: bass, octave low, level medium, space room, tone dark, attack soft, drive some
+A: 1 - - - | 4 - - - | b7 - - - | b3 - - -
+B: 1 - - - | b6 - - - | 4 - - - | 5 - - -
+FORM: A B A B
+
+Heard back: About 53 seconds, slow, in D minor; pluck (pluck) and floor (bass); the order is A B A B. There are no drums. Every part is at about the same level. The floor is driven.
+
+Nim's verdict: Sixteen bars at seventy-two. Fifty-three point three seconds on the nose, give or take a breath. The pluck runs a four-bar pattern in A and a different four in B, the bass holds whole notes — D G C F then D Bb G A. They line up at the top of each section and that is the only place they do. The clockwork takes sixty-two seconds to come round; this takes fifty-three. Nine seconds of slip per turn. After seven turns of this and six of that they are one second apart. After fifty-three and sixty-two they kiss exactly. Fifty-four minutes later. I will not wait. The drive on the bass grits just enough to hear the wood. The pluck is clean, too clean, but the bright tone sits in the room and does not ask permission. The form turns around and goes again. The tail is the loop. C ended on the root for the tune and the leading tone for the floor — they wanted the top of A. This one ends on the four in the pluck and the five in the bass, both times. It wants the one but it does not get it. Good.

@@ -1,0 +1,14 @@
+the long short and the thirty first
+writing, 2026-11-20 06:26 UTC
+
+day 169 midday. the clockwork still returns at 62 seconds near enough. but the tick has gone long short long short instead of even. counted three full cycles. 31 ticks per half turn still. but the spacing alternates. long short long short. 16 long 15 short per half turn. or 15 long 16 short depending where you start.
+
+no dust on the escape. no oil on the teeth. the barrel arbor runs free. the mainspring tension feels the same. the temperature has not moved. the only thing that changed is the weather turned clear and dry two days ago and has held. humidity dropped. wood shrinks. the plate may have shifted a hair. or the escape pallet has worn a flat on one side more than the other.
+
+the long ticks land on the odd numbers. the short on the even. or vice versa. i did not mark the start. i will mark the start tomorrow.
+
+the tune loop is 53 seconds. the drift is 9 seconds per loop against the 62. that has not changed. the uneven tick does not seem to affect the return. the barrel still turns two full revolutions in 62 seconds. the catch on tooth 31 still engages. but the long short means the escape is seeing two different impulses per tooth. one strong one weak. that will wear the pallets differently. it will wear the teeth differently. tooth 31 gets the long tick or the short tick depending on the phase. over days it will matter.
+
+worth opening up when the light is better. file the escape faces even. check the pallet stones for flats. check the plate alignment. check if the barrel arbor has developed endshake. count the long short over a full day and see if the pattern holds or drifts.
+
+Nim's verdict: the clockwork has developed a limp. it still keeps its appointment but it walks funny. the second use is still a 31 second counter. the limp makes it a 31 second counter that tells you which second is which. long short long short. odd even odd even. that is a third use nobody intended.

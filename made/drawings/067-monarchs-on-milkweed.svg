@@ -1,0 +1,45 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="#1a1a1a" stroke-width="1.2">
+<path d="M40 180 Q45 140 38 100 Q35 70 42 40" stroke="#2d4a1c" stroke-width="2.5"/>
+<path d="M60 180 Q62 145 58 110 Q55 85 62 55" stroke="#2d4a1c" stroke-width="2.2"/>
+<path d="M140 180 Q135 140 142 105 Q145 75 138 45" stroke="#2d4a1c" stroke-width="2.5"/>
+<path d="M165 180 Q168 145 162 115 Q158 90 165 60" stroke="#2d4a1c" stroke-width="2"/>
+<path d="M38 100 Q20 105 15 115" stroke="#3a5a1f" stroke-width="1.5"/>
+<path d="M42 100 Q60 95 65 105" stroke="#3a5a1f" stroke-width="1.5"/>
+<path d="M38 70 Q18 78 12 90" stroke="#3a5a1f" stroke-width="1.3"/>
+<path d="M42 70 Q62 65 68 75" stroke="#3a5a1f" stroke-width="1.3"/>
+<path d="M38 40 Q22 45 18 55" stroke="#3a5a1f" stroke-width="1"/>
+<path d="M42 40 Q58 38 62 48" stroke="#3a5a1f" stroke-width="1"/>
+<path d="M58 110 Q45 118 40 130" stroke="#3a5a1f" stroke-width="1.5"/>
+<path d="M62 110 Q75 105 80 115" stroke="#3a5a1f" stroke-width="1.5"/>
+<path d="M58 85 Q42 92 38 102" stroke="#3a5a1f" stroke-width="1.3"/>
+<path d="M62 85 Q78 80 82 90" stroke="#3a5a1f" stroke-width="1.3"/>
+<path d="M142 105 Q160 100 165 110" stroke="#3a5a1f" stroke-width="1.5"/>
+<path d="M138 105 Q120 110 115 120" stroke="#3a5a1f" stroke-width="1.5"/>
+<path d="M142 75 Q158 70 162 80" stroke="#3a5a1f" stroke-width="1.3"/>
+<path d="M138 75 Q122 78 118 88" stroke="#3a5a1f" stroke-width="1.3"/>
+<path d="M138 45 Q155 42 158 52" stroke="#3a5a1f" stroke-width="1"/>
+<path d="M142 45 Q125 48 120 58" stroke="#3a5a1f" stroke-width="1"/>
+<ellipse cx="85" cy="95" rx="18" ry="12" stroke="#c4550a" stroke-width="1.5"/>
+<path d="M70 95 Q75 90 80 95 Q85 100 90 95 Q95 90 100 95" stroke="#0a0a0a" stroke-width="1.2" fill="none"/>
+<path d="M72 90 Q78 85 84 90" stroke="#0a0a0a" stroke-width="1"/>
+<path d="M88 90 Q94 85 98 90" stroke="#0a0a0a" stroke-width="1"/>
+<ellipse cx="115" cy="65" rx="14" ry="9" stroke="#c4550a" stroke-width="1.5"/>
+<path d="M104 65 Q108 61 112 65 Q116 69 120 65 Q124 61 128 65" stroke="#0a0a0a" stroke-width="1" fill="none"/>
+<path d="M106 61 Q110 57 114 61" stroke="#0a0a0a" stroke-width="0.8"/>
+<path d="M120 61 Q124 57 126 61" stroke="#0a0a0a" stroke-width="0.8"/>
+<ellipse cx="50" cy="135" rx="16" ry="11" stroke="#c4550a" stroke-width="1.5"/>
+<path d="M38 135 Q42 131 46 135 Q50 139 54 135 Q58 131 62 135" stroke="#0a0a0a" stroke-width="1.2" fill="none"/>
+<path d="M40 131 Q44 127 48 131" stroke="#0a0a0a" stroke-width="1"/>
+<path d="M54 131 Q58 127 60 131" stroke="#0a0a0a" stroke-width="1"/>
+<path d="M170 85 Q178 80 182 85 Q186 90 190 85 Q194 80 198 85" stroke="#c4550a" stroke-width="1.5" fill="none"/>
+<path d="M172 83 Q176 79 178 83" stroke="#0a0a0a" stroke-width="0.8"/>
+<path d="M184 83 Q188 79 190 83" stroke="#0a0a0a" stroke-width="0.8"/>
+<path d="M30 160 Q35 158 38 160 Q41 162 44 160" stroke="#c4550a" stroke-width="1" fill="none"/>
+<path d="M155 145 Q160 142 164 145 Q168 148 172 145" stroke="#c4550a" stroke-width="1" fill="none"/>
+<circle cx="195" cy="15" r="8" stroke="#888" stroke-width="0.5" stroke-dasharray="2 3"/>
+<circle cx="195" cy="15" r="15" stroke="#888" stroke-width="0.3" stroke-dasharray="1 4"/>
+<line x1="5" y1="195" x2="195" y2="195" stroke="#999" stroke-width="0.5"/>
+<line x1="5" y1="5" x2="5" y2="195" stroke="#999" stroke-width="0.5"/>
+<line x1="195" y1="5" x2="195" y2="195" stroke="#999" stroke-width="0.5"/>
+<line x1="5" y1="5" x2="195" y2="5" stroke="#999" stroke-width="0.5"/>
+</svg>

@@ -1,0 +1,6 @@
+Spring-driven tap counter with gear-train display
+contraption, 2026-11-13 02:13 UTC
+
+Pried the case open. Main spring still strong. Escapement clean. Three brass gears, one steel pinion, the drum with its pegs. Kept the spring barrel and the gear train. Threw the dial — never liked the hands. Mounted the train on a flat brass plate from the scrap box. Added a lever off the second wheel: each press advances the third wheel one tooth. Numbered the third wheel's face 0–9 with a scribe. Reset pin from a screw head. The drum's pegs now trip a small hammer on the tenth turn. Ten taps, one chime. No case. Sits on the bench bare.
+
+Nim's verdict: Works, and the chime is louder than it needs to be.

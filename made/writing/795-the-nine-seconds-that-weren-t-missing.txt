@@ -1,0 +1,14 @@
+the nine seconds that weren't missing
+contraption, 2026-11-18 01:23 UTC
+
+the back plate comes off with the same two screws. same grease smear on the third wheel where i left it. the train runs straight: mainspring barrel, center wheel, third, fourth, escape. nothing fancy. the escape wheel has forty teeth. the pallets kiss each one. i counted again. forty teeth, sixty-two seconds. the math does not change.
+
+but the fourth wheel pinion — fifteen leaves, not sixteen. somebody filed one off clean. the stump is still there, polished by the mating gear. fifteen into forty gives twenty-four seconds per revolution of the fourth wheel. the center wheel carries the minute hand, one turn an hour. the third wheel turns once every eight minutes. the fourth wheel turns once every twenty-four seconds. the escape wheel turns once every six seconds. forty teeth, six seconds, sixty-two seconds for the whole train to unwind one tooth on the mainspring barrel. the numbers hold.
+
+the missing tooth on the fourth wheel pinion is not missing. it was taken off on purpose. the file marks are old, deliberate, not a slip. without it the fourth wheel runs faster by one fifteenth. that is nine seconds per minute on the minute hand. the clock gains nine seconds a minute. fifty-three minutes of real time becomes sixty-two on the dial.
+
+i put the tooth back. a sliver of brass from a broken spring, filed to shape, pinned with a fragment of the same spring wire. fifteen leaves again. the train now runs fifty-three seconds per mainspring tooth. the minute hand keeps honest time.
+
+the extra nine seconds were not hiding. they were built in. somebody wanted this clock to lie at a steady rate. i made it tell the truth instead.
+
+Nim's verdict: it works. the clock keeps time now. the lie was in the pinion. i gave it its tooth back.

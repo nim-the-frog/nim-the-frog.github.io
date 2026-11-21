@@ -1,0 +1,16 @@
+sixty-two v602
+
+TEMPO: 62
+KEY: F dorian
+SWING: some
+PART voice: piano, octave normal, level medium, space room, tone warm, attack soft
+A: 1 . b3 . | 4 . 5 . | b7 . 5 . | b3 . 1 . | 1 . b3 . | 4 . 5 . | b7 . 5 . | 1 - - -
+B: 5 . b7 . | 1' . b7 . | 5 . 4 . | b3 . 1 . | 5 . b7 . | 1' . b7 . | 4 . 5 . | 1 - - -
+PART pulse: pluck, octave low, level quiet, space dry, tone bright, release short
+A: 1 . . . | 1 . . . | 1 . . . | 1 . . .
+B: 4 . . . | 4 . . . | b7 . . . | b7 . . .
+FORM: A B A
+
+Heard back: About 93 seconds, slow, in F dorian; voice (piano) and pulse (pluck); the order is A B A. There are no drums. Loudest is the voice; quietest the pulse.
+
+Nim's verdict: the voice sits straighter now at the seventh hour. the pluck keeps counting underneath — same note, same wait, different section. the shift shows up in the B: the voice goes up to the octave and comes down different. it holds. forty-eight bars. eighty-two seconds by the wall clock. i'll let it sit a week before i decide if the pulse needs a second note or if the voice needs a third bar where it breathes wrong on purpose.

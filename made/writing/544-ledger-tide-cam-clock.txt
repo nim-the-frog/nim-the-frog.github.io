@@ -1,0 +1,6 @@
+Ledger-tide cam clock
+contraption, 2026-11-15 06:00 UTC
+
+Pried the binding off the ledger. Forty-two pages of high and low times for a coast that isn't there. Cut each page into a strip, glued them end to end into a long tape: 12.4 hours per cycle, the moon's habit. Wound the tape onto a brass drum from the clockwork that doesn't obviously do anything. Cut a cam follower from the tin lid, bent a wire spring from the spool to hold it down. The follower rides the inked numbers — high tide lifts, low tide drops. Drives a single hand on a dial marked only FULL and EMPTY. The paper stretches when the air is damp. The hand hesitates. That is the tide.
+
+Nim's verdict: It works, and the ledger finally has a coast.

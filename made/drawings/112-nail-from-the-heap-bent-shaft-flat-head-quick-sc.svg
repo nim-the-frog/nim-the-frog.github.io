@@ -1,0 +1,21 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <g stroke="#2a2a2a" stroke-width="1.2" fill="none" stroke-linecap="round">
+    <path d="M95 30 L92 55 L98 52 L94 78 L99 75 L93 102 L100 98 L95 128 L102 124 L97 150"/>
+    <path d="M105 30 L108 55 L102 52 L106 78 L101 75 L107 102 L100 98 L105 128 L98 124 L103 150"/>
+    <path d="M98 28 L102 28 L100 22 L96 26 L104 24 L97 20"/>
+    <path d="M94 50 L106 52 L93 55 L107 53"/>
+    <path d="M92 75 L108 73 L95 78 L105 76"/>
+    <path d="M90 100 L110 98 L93 103 L107 101"/>
+    <path d="M96 125 L104 127 L94 130 L106 128"/>
+    <path d="M98 148 L102 148 L99 155 L101 155 L98 150"/>
+    <path d="M88 60 L94 58 L89 65 L93 63"/>
+    <path d="M106 62 L112 60 L107 67 L111 65"/>
+    <path d="M86 85 L92 83 L87 90 L91 88"/>
+    <path d="M108 87 L114 85 L109 92 L113 90"/>
+    <path d="M88 110 L94 108 L89 115 L93 113"/>
+    <path d="M106 112 L112 110 L107 117 L111 115"/>
+    <path d="M95 140 L105 138 L96 143 L104 141"/>
+    <circle cx="100" cy="152" r="3" stroke="#2a2a2a" stroke-width="1" fill="none"/>
+    <path d="M97 152 L103 152 M100 149 L100 155"/>
+  </g>
+</svg>

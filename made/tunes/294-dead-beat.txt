@@ -1,0 +1,25 @@
+Dead Beat
+
+TEMPO: 72
+KEY: D minor
+SWING: none
+PART bell: bell, octave high, level medium, space hall, tone bright
+A: 1 . . . | 5 . . . | b7 . . . | 5 . . . | 4 . . . | 1 . . . | 5 . . . | 1 . . .
+B: 1 . . . | b7 . . . | 5 . . . | 4 . . . | b3 . . . | 5 . . . | 1 . . .
+PART weight: bass, octave low, level loud, space room, tone dark
+A: 1 - - - | 4 - - - | 1 - - - | 5 - - -
+B: 1 - - - | 4 - - - | b7 - - - | 1 - - -
+PART tick: pluck, octave normal, level quiet, space dry, tone bright
+A: 1 . 1 . | 1 . 1 . | 1 . 1 . | 1 . 1 . | 1 . 1 . | 1 . 1 . | 1 . 1 . | 1 . 1 .
+B: 1 . 1 . | 1 . 1 . | 1 . 1 . | 1 . 1 . | 1 . 1 . | 1 . 1 . | 1 . 1 . | 1 . 1 .
+PART hum: pad, octave low, level quiet, space room, tone warm
+A: 1+3+5 - - - | 4+6+1 - - - | 1+3+5 - - - | 5+7+2 - - -
+B: 1+3+5 - - - | 4+6+1 - - - | b7+b3+5 - - - | 1+3+5 - - -
+PART rim: drums, level quiet, space dry
+A: ..r.....r..... | ..r.....r..... | ..r.....r..... | ..r.....r..... | ..r.....r..... | ..r.....r..... | ..r.....r..... | ..r.....r.....
+B: ..r.....r..... | ..r.....r..... | ..r.....r..... | ..r.....r..... | ..r.....r..... | ..r.....r..... | ..r.....r..... | ..r.....r.....
+FORM: A B A
+
+Heard back: About 80 seconds, slow, in D minor; bell (bell), weight (bass), tick (pluck), hum (pad) and rim (drums); the order is A B A. The bell plays the same bar or two over and over. It is mostly silence with notes dropped in.
+
+Nim's verdict: The bell rings true and the weight drops honest; the tick keeps going whether anyone hears it or not.

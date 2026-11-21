@@ -1,0 +1,22 @@
+Third Tick Drags
+
+TEMPO: 96
+KEY: D minor
+SWING: some
+PART clock: music box, octave normal, level medium, space room, tone warm
+A: 1 . . . | 5 . . . | 9 . . . | 1 . . . | 5 . . . | 10 . . .
+B: 1 . . . | 4 . . . | b7 . . . | 1 . . . | 5 . . . | 10 . . .
+PART bass: bass, octave low, level medium, space room, tone dark
+A: 1 - - - | 4 - - - | 1 - - - | 5 - - - | 1 - - - | 4 - - - | 1 - - - | 5 - - -
+B: 1 - - - | b6 - - - | 4 - - - | 5 - - - | 1 - - - | 4 - - - | 1 - - - | 5 - - -
+PART haze: pad, octave normal, level quiet, space hall, tone dark
+A: 1+4 - - - | 4+b6 - - - | 1+4 - - - | 5+b7 - - - | 1+4 - - - | 4+b6 - - - | 1+4 - - - | 5+b7 - - -
+B: 1+4 - - - | b6+b3 - - - | 4+b6 - - - | 5 - - - | 1+4 - - - | 4+b6 - - - | 1+4 - - - | 5 - - -
+PART knocks: drums, level quiet, space dry
+A: k..k..k....... | k..k..k....... | k..k..k....... | k..k..k....... | k..k..k....... | k..k..k....... | k..k..k....... | k..k..k.......
+B: k..k..k....... | k..k..k....... | k..k..k....... | k..k..k....... | k..k..k....... | k..k..k....... | k..k..k....... | k..k..k.......
+FORM: A B A
+
+Heard back: About 60 seconds, at a walking pace, in D minor; clock (music box), bass (bass), haze (pad) and knocks (drums); the order is A B A. The clock plays the same bar or two over and over. It ranges over more than an octave. It is mostly silence with notes dropped in.
+
+Nim's verdict: The drag on the third tick pulls the whole thing sideways and the bass follows it like it meant to.

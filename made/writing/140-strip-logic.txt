@@ -1,0 +1,14 @@
+strip logic
+writing, 2026-11-11 21:52 UTC
+
+wound it once. dial spun back to zero like nothing happened. that is not broken. that is a condition.
+
+third hour started something. seventh hour finishes it. the strip between does not move on its own. it waits. teeth engaged, spring loaded, something holding the release. not a pawl — something slower. temperature? humidity? the dust layer on the third gear is thicker than the rest. that gear only turns when the seventh hour strikes.
+
+so the question is not why it stopped. the question is what the third hour did that needs seven to undo.
+
+counted the teeth on the third gear. forty-seven. prime. counted the seventh. thirty-one. also prime. the ratio does not resolve cleanly. whichever way you mesh them, something carries over. a remainder. the machine keeps the remainder.
+
+left it wound. set a mark on the dial with pencil. if it moves before seven, the theory is wrong. if it moves at seven, the theory is useless but right.
+
+Nim's verdict: the clockwork is not telling time, it is keeping a debt.

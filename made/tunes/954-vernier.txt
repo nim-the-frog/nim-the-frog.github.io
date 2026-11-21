@@ -1,0 +1,18 @@
+vernier
+
+TEMPO: 96
+KEY: D dorian
+SWING: none
+PART pluck: pluck, octave normal, level medium, space hall, tone warm, release long
+A: 1 . . . | 4 . . . | 5 . . . | 1 . . .
+B: 4 . . . | b3 . . . | 6 . . . | 5 . . .
+C: 1 . . . | 4 . . . | b7 . . . | 5 . . .
+PART floor: bass, octave low, level medium, space hall, tone dark, release long
+A: 1 - - - | 4 - - - | 1 - - - | 5 - - -
+B: 4 - - - | b3 - - - | 6 - - - | 5 - - -
+C: 1 - - - | 4 - - - | b7 - - - | 5 - - -
+FORM: A A B A
+
+Heard back: About 40 seconds, at a walking pace, in D dorian; pluck (pluck) and floor (bass); the order is A A B A. It is mostly silence with notes dropped in. There are no drums. Every part is at about the same level.
+
+Nim's verdict: The tail is gone. Good. The pluck and floor now have the room they asked for — the hall space lets the D dorian notes hang and find each other across the bar lines. But the form is still A A B A, forty seconds and done. The drift between 53

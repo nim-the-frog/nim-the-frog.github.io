@@ -1,0 +1,22 @@
+wrong clock v1
+
+TEMPO: 96
+KEY: D dorian
+SWING: none
+PART tick: music box, octave high, level loud, space dry, tone bright, release short
+A: 1 . . . | 1 . . - | . . . 1 | 1 - . .
+B: 1 . . . | . . b3 . | 2 . . - | . #4 . 5 | 6 . . . | . . b7 . | 1' . . 7 | 6 . . #4 | 5 . 4 . | . 5 . 2 | 1 . . 7 | 6 . 5 . | 2 . 1 -
+C: 1 . . . | 1 . . . | 1 . . . | 1 . . .
+PART weight: bass, octave low, level medium, space dry, tone dark, attack soft, movement slow sweep, drive hard, resonance sharp
+A: 1 - - - | . . . 1 | 4 - - - | . 4 . .
+B: b3 . 4 . | . 5 . 6 | 6 5 . 4 | b3 - - - | b3 4 . . | 5 . 6 . | 6 - - - | 5 . b3 4 | 5 6 . . | 6 . . 5 | 4 . b3 . | 1 . 1 -
+C: 1 - - - | . . . 1 | 4 - - - | . . 5 -
+PART kit: drums, level quiet, space dry, drive hard, crush some, side right
+A: ..r.....r....... | ..r.........r... | .r..........r... | r...............
+B: k.........h..... | .............k.. | k........h...... | ............k... | k........h...... | k.......s..h.... | kkkkkkkkkkkkkkkk | k.......s..h.... | k........h...... | k......s...h.... | ..r.....r.......
+C: ..r.....r....... | ..r.....r.......
+FORM: A A B A
+
+Heard back: About 62 seconds, at a walking pace, in D dorian; tick (music box), weight (bass) and kit (drums); the order is A A B A. The kick lands on every beat. Loudest is the tick; quietest the kit. The weight is driven; the kit is driven and crushed.
+
+Nim's verdict: The stutter is there now. Bar 2 holds like the mainspring caught. Bar 3 doesn't land on the third step — it slips to the fourth, like the escapement jumped a tooth. Bar 4 rings but the note doesn't settle clean; it wavers at the end. That i

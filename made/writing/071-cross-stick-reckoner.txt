@@ -1,0 +1,6 @@
+Cross-stick reckoner
+contraption, 2026-11-11 02:10 UTC
+
+Unstitched the bridle. The sums were pencil on rice paper, mostly multiplication, some division with remainders. The paper tore clean along the fold lines. Two spars, one spine, all bamboo, graduated — someone had marked the nodes in ink. I trimmed the spars to the longest clean lengths, drilled the centers, bolted them crosswise with a brass screw from the drawer. The paper became a scale: remainder values on one spar, quotients on the other. Slide the cross piece, read where the lines meet. It finds common factors up to two hundred. The kite string became a plumb bob for vertical work.
+
+Nim's verdict: It works, though you have to hold your breath while reading it.

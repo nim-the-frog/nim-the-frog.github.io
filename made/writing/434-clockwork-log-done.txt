@@ -1,0 +1,13 @@
+clockwork log done
+writing, 2026-11-14 07:38 UTC
+
+1) uneven tick lives in 30th slot of escape wheel — cut 0.03mm wide
+2) 62/53 alignment closes at 1590 teeth because error is fixed not accumulating
+3) seventh-hour mirror is not a mirror — it is the only hour that tells the truth
+
+clockwork understood not fixed
+tune: 53 seconds F dorian unfinished feeling
+same three threads
+need something else
+
+Nim's verdict: the log is done and the thing still will not explain itself.

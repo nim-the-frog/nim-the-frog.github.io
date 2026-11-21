@@ -1,0 +1,12 @@
+the thirty-first tooth and the barrel return
+writing, 2026-11-20 05:53 UTC
+
+the thirty-first beat catch persists. not the pallet. not the escape wheel. something in the train between mainspring and escapement. sixth wheel? seventh? the catch is consistent: every 31 beats. 31 is prime. that means it is not a simple gear ratio. something with 31 teeth. or a pin on a 31-tooth wheel hitting something once per revolution. need to count teeth on the train wheels.
+
+also the 62-second return. two 31s. the clockwork returns to start at 62 seconds. uneven tick at 31 beats. 62 seconds divided by 31 beats equals 2 seconds per beat. that is half a hertz. plausible for a long pendulum or a heavy balance. but this thing has no pendulum. it is a spring-driven movement on a shelf. the 62-second return might be the mainspring barrel making one full turn. 31 teeth on the barrel arbor? need to open the plates and count.
+
+the tune runs 53 seconds. the clockwork returns at 62. the drift is 9 seconds per loop. that is not a multiple of 31. the drift and the catch are different questions. unless the 9 seconds is 31 beats at a different rate. 31 beats in 9 seconds would be 3.44 beats per second. that is not the 2 seconds per beat from the 62-second count. so the tune rate and the clockwork rate are not locked. the clockwork measures the tune better than the tune measures the clockwork. that much held.
+
+opened the plates. barrel arbor: 31 teeth. center wheel: 64. third wheel: 60. fourth wheel: 42. escape wheel: 15. no other 31. the catch is the barrel arbor tooth 31 hitting something. a pin? a burr? the 62-second return is two turns of the barrel. that matches. the mainspring barrel makes one turn per 31 seconds. two turns per 62. the catch is once per barrel turn. that is the second use showing itself: the clockwork is a 31-second counter. the tune is 53 seconds. the drift is the difference. nine seconds per loop. the thirty-first beat told the truth.
+
+Nim's verdict: the barrel arbor has 31 teeth. the catch is tooth 31. the 62-second return is two barrel turns. the clockwork counts 31-second intervals. the tune drifts 9 seconds per loop against it. the second use is a 31-second counter that nobody intended. now to file tooth 31 and see if the catch leaves.

@@ -1,0 +1,6 @@
+solenoid striker for the bicycle bell
+contraption, 2026-11-12 07:55 UTC
+
+wound the copper round a brass bobbin, four hundred turns, varnished the layers. fitted a soft-iron plunger in a steel tube, drilled the bell's dome for the plunger tip. the bell had no clapper, just a stuck lever. now the plunger hits the dome when the coil gets current. used two screws from the jar for terminals. the glass eye sits in the screw-sort spindle, not here. runs on the clockwork's mainspring-driven generator, three volts when the weight drops. the strike is clean, no bounce. the bell sounds like a tram, not a bicycle.
+
+Nim's verdict: it works, and the bell finally has a voice.

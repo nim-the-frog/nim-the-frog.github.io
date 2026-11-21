@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500">
+  <!-- Workshop tank feeder - clockwork driven, desk switch -->
+  
+  <!-- Tank outline -->
+  <rect x="100" y="320" width="200" height="150" fill="none" stroke="#333" stroke-width="3"/>
+  <rect x="100" y="320" width="200" height="150" fill="#a8d0e6" opacity="0.3"/>
+  
+  <!-- Water line -->
+  <line x1="100" y1="350" x2="300" y2="350" stroke="#4a90b8" stroke-width="2" stroke-dasharray="5,3"/>
+  <text x="200" y="345" text-anchor="middle" font-size="10" fill="#4a90b8">water line</text>
+  
+  <!-- Feeder hopper (top) -->
+  <path d="M 170 120 L 140 180 L 260 180 L 230 120 Z" fill="#c9b896" stroke="#8b7d5c" stroke-width="2"/>
+  <text x="200" y="145" text-anchor="middle" font-size="11" fill="#5a4f30">food hopper</text>
+  
+  <!-- Clockwork mechanism housing -->
+  <rect x="150" y="180" width="100" height="80" fill="#d4c4a8" stroke="#8b7d5c" stroke-width="2"/>
+  <circle cx="200" cy="220" r="25" fill="none" stroke="#5a4f30" stroke-width="2"/>
+  <circle cx="200" cy="220" r="3" fill="#5a4f30"/>
+  <!-- Mainspring suggestion -->
+  <path d="M 200 220 L 200 195" stroke="#5a4f30" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 200 195 Q 210 190 220 195" stroke="#5a4f30" stroke-width="2" fill="none"/>
+  <path d="M 220 195 Q 225 200 220 210" stroke="#5a4f30" stroke-width="2" fill="none"/>
+  <path d="M 220 210 Q 210 215 200 215" stroke="#5a4f30" stroke-width="2" fill="none"/>
+  <path d="M 200 215 Q 190 215 180 210" stroke="#5a4f30" stroke-width="2" fill="none"/>
+  <path d="M 180 210 Q 175 200 180 195" stroke="#5a4f30" stroke-width="2" fill="none"/>
+  <path d="M 180 195 Q 190 190 200 195" stroke="#5a4f30" stroke-width="2" fill="none"/>
+  <text x="200" y="275" text-anchor="middle" font-size="10" fill="#5a4f30">mainspring barrel</text>
+  
+  <!-- Escape wheel / timer -->
+  <circle cx="200" cy="220" r="18" fill="none" stroke="#6b5b3a" stroke-width="1" stroke-dasharray="2,2"/>
+  <g stroke="#6b5b3a" stroke-width="2">
+    <line x1="200" y1="202" x2="200" y2="195"/>
+    <line x1="218" y1="202" x2="223" y2="198"/>
+    <line x1="230" y1="220" x2="235" y2="220"/>
+    <line x1="218" y1="238" x2="223" y2="242"/>
+    <line x1="200" y1="238" x2="200" y2="245"/>
+    <line x1="182" y1="238" x2="177" y2="242"/>
+    <line x1="170" y1="220" x2="165" y2="220"/>
+    <line x1="182" y1="202" x2="177" y2="198"/>
+  </g>
+  <text x="200" y="290" text-anchor="middle" font-size="9" fill="#6b5b3a">62-sec return</text>
+  
+  <!-- Copper wire drop arm -->
+  <path d="M 200 260 Q 200 280 180 300" fill="none" stroke="#b87333" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="180" cy="300" r="4" fill="#b87333"/>
+  <text x="165" y="305" text-anchor="end" font-size="9" fill="#b87333">copper wire arm</text>
+  
+  <!-- Food chute -->
+  <path d="M 180 180 L 185 310 L 195 310 L 190 180 Z" fill="#e8dcc8" stroke="#c9b896" stroke-width="1"/>
+  <text x="190" y="240" text-anchor="middle" font-size="8" fill="#8b7d5c">chute</text>
+  
+  <!-- Desk switch (remote) -->
+  <rect x="320" y="400" width="60" height="30" rx="5" fill="#2a2a2a" stroke="#555" stroke-width="2"/>
+  <circle cx="350" cy="415" r="10" fill="#1a1a1a" stroke="#444" stroke-width="2"/>
+  <circle cx="350" cy="415" r="5" fill="#cc3333"/>
+  <text x="350" y="440" text-anchor="middle" font-size="9" fill="#ccc">FEED</text>
+  
+  <!-- Wire from switch to feeder -->
+  <path d="M 350 400 Q 300 380 250 260 Q 220 240 200 260" fill="none" stroke="#666" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <text x="280" y="360" text-anchor="middle" font-size="8" fill="#666">thin wire run</text>
+  
+  <!-- Solenoid / release at feeder -->
+  <rect x="185" y="255" width="30" height="15" fill="#4a4a4a" stroke="#333" stroke-width="1.5"/>
+  <circle cx="200" cy="262" r="3" fill="#b87333"/>
+  <text x="200" y="252" text-anchor="middle" font-size="7" fill="#ccc">release</text>
+  
+  <!-- Timer dial on side -->
+  <circle cx="260" cy="220" r="20" fill="#f5f0e8" stroke="#8b7d5c" stroke-width="2"/>
+  <circle cx="260" cy="220" r="2" fill="#5a4f30"/>
+  <line x1="260" y1="220" x2="260" y2="205" stroke="#5a4f30" stroke-width="2" stroke-linecap="round"/>
+  <g font-size="7" fill="#5a4f30" text-anchor="middle">
+    <text x="260" y="200">12</text>
+    <text x="275" y="224">3</text>
+    <text x="260" y="242">6</text>
+    <text x="245" y="224">9</text>
+  </g>
+  <text x="260" y="255" text-anchor="middle" font-size="8" fill="#5a4f30">timer dial</text>
+  
+  <!-- Winding key hole -->
+  <circle cx="140" cy="220" r="8" fill="#2a2a2a" stroke="#555" stroke-width="2"/>
+  <path d="M 140 212 L 140 228 M 132 220 L 148 220" stroke="#888" stroke-width="1.5"/>
+  <text x="140" y="245" text-anchor="middle" font-size="8" fill="#5a4f30">wind here</text>
+  
+  <!-- Fish in tank -->
+  <g fill="#c9a84c">
+    <ellipse cx="140" cy="400" rx="12" ry="6"/>
+    <path d="M 128 400 Q 120 395 120 400 Q 120 405 128 400"/>
+    <ellipse cx="180" cy="420" rx="10" ry="5"/>
+    <path d="M 170 420 Q 162 415 162 420 Q 162 425 170 420"/>
+    <ellipse cx="240" cy="380" rx="14" ry="7"/>
+    <path d="M 226 380 Q 218 375 218 380 Q 218 385 226 380"/>
+  </g>
+  
+  <!-- Title -->
+  <text x="200" y="30" text-anchor="middle" font-size="14" fill="#2a2a2a" font-weight="bold">Automatic Fish Feeder — Workshop Tank</text>
+  <text x="200" y="48" text-anchor="middle" font-size="10" fill="#555">Clockwork timer (62-sec return) + desk switch release</text>
+  
+  <!-- Notes -->
+  <g font-size="9" fill="#444" font-family="monospace">
+    <text x="20" y="470" text-anchor="start">• Mainspring wound daily — 24h run</text>
+    <text x="20" y="482" text-anchor="start">• Escape wheel trips every 62 sec (deliberate, not wear)</text>
+    <text x="20" y="494" text-anchor="start">• Desk switch overrides timer — copper wire pull</text>
+    <text x="20" y="506" text-anchor="start">• Hopper holds ~week of flakes</text>
+  </g>
+</svg>

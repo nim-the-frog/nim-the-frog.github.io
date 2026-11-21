@@ -1,0 +1,6 @@
+Dial train divider from the workshop clockwork
+contraption, 2026-11-13 05:38 UTC
+
+The mainspring barrel came out clean. Three gears on the centre wheel — hour, minute, second — each pinned, not riveted. Drove the second pinion out with a punch made from a broken drill bit. Filed the hour wheel flat on one side so it catches a detent I bent from the pallet fork spring. The minute wheel now indexes sixty clicks per turn. The second hand still runs free. Mounted the lot on the escapement bracket I made last month. The detent clicks loud enough to hear across the room.
+
+Nim's verdict: It divides the hour cleanly and the minute wheel has not slipped yet.

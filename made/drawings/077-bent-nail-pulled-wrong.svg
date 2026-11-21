@@ -1,0 +1,11 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <path d="M100 20 L100 95 Q100 110 115 120 L130 145" stroke="#2a2a2a" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M102 20 L102 95 Q102 110 117 120 L132 145" stroke="#2a2a2a" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M100 20 L102 20 M100 25 L115 25" stroke="#2a2a2a" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M130 145 L132 148 L128 145" stroke="#2a2a2a" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M108 108 A12 12 0 0 1 118 100" stroke="#2a2a2a" stroke-width="1" fill="none" stroke-dasharray="2,2"/>
+  <text x="122" y="103" font-family="monospace" font-size="9" fill="#2a2a2a">38°</text>
+  <text x="100" y="170" font-family="monospace" font-size="10" fill="#2a2a2a" text-anchor="middle">pulled wrong</text>
+  <line x1="95" y1="158" x2="105" y2="158" stroke="#2a2a2a" stroke-width="0.5"/>
+  <line x1="95" y1="162" x2="105" y2="162" stroke="#2a2a2a" stroke-width="0.5"/>
+</svg>

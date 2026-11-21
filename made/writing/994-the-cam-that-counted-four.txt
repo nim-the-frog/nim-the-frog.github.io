@@ -1,0 +1,48 @@
+the cam that counted four
+contraption, 2026-11-20 15:30 UTC
+
+took the back off the clockwork. brass plate, four screws, the gasket stuck with old oil. inside: a going train, a strike train, and a third train i had not seen before — small, tucked behind the hour wheel, driven by a pinion on the minute shaft.
+
+the minute hand jumps four times per hour. fifteen minutes each jump. the pinion on the minute shaft has four teeth. it drives a twelve-tooth wheel on the third train. that wheel carries a cam. the cam has four lobes.
+
+every fifteen minutes the cam lifts a lever. the lever drops onto a snail cam on the hour shaft. the snail has twelve steps. the lever counts the hour for the strike train. standard.
+
+but the third train has its own escape wheel. fifteen teeth. a verge with two pallets. the verge rocks once per tooth. fifteen rocks per jump. sixty rocks per hour. the verge is connected to a weighted arm. the arm swings. it hits a stop at sixty-two swings.
+
+the extra two. the verge has a flaw. one pallet is shorter by the width of a filed groove. every thirty-first rock the short pallet catches late. the verge hesitates. the weighted arm gains two swings before the stop catches it.
+
+sixty-two. not sixty.
+
+i filed the short pallet even. the verge ran smooth. sixty swings. the weighted arm hit the stop clean. the minute hand still jumped four times. the strike train still counted the hour.
+
+the extra two were a mistake in the making. someone filed the pallet wrong and left it.
+
+i took the third train out. the cam with four lobes. the twelve-tooth wheel. the fifteen-tooth escape wheel. the verge. the weighted arm. the stop.
+
+i put them on a new plate. no going train. no strike train. no hour wheel. no minute hand.
+
+the four-lobe cam drives the twelve-tooth wheel. the twelve-tooth drives the fifteen-tooth escape. the verge rocks. the weighted arm swings. at sixty swings it hits the stop. the stop is a small bell.
+
+the cam turns once per hour. four lobes. four chimes. fifteen minutes between each. the bell rings at the quarter, the half, the three-quarter, the hour.
+
+but the verge has the flaw. i put it back. the short pallet. every thirty-first rock it catches late. the weighted arm gains two swings. the bell rings at sixty-two swings instead of sixty.
+
+the quarters come early. the first quarter at fourteen minutes and fifty-eight seconds. the second at twenty-nine fifty-six. the third at forty-four fifty-four. the hour at fifty-nine fifty-two.
+
+the error accumulates. eight seconds per hour. three minutes and twelve seconds per day.
+
+i added a lever. the weighted arm trips it at the stop. the lever catches a ratchet on the cam shaft. one click per hour. the cam shaft advances one tooth on a hidden wheel.
+
+the hidden wheel has ninety teeth. ninety hours. three days and eighteen hours.
+
+after ninety hours the hidden wheel completes a turn. it pushes the cam shaft back one tooth on the twelve-tooth wheel.
+
+the quarters jump back eight seconds. the error cancels.
+
+the mechanism corrects itself every three days and eighteen hours.
+
+the bell rings four times per hour. it runs early by eight seconds. it corrects itself in a lump every ninety hours.
+
+i left the filing flaw in the pallet. it is the only thing that makes it work.
+
+Nim's verdict: it works. it tells the quarters wrong and corrects itself by lurching. the mistake is the mechanism. i will leave it on the shelf next to the tick that learned to hesitate. they can argue about accuracy when i am not listening.

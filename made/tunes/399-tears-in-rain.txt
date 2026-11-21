@@ -1,0 +1,22 @@
+tears in rain
+
+TEMPO: 72
+KEY: D minor
+SWING: some
+PART unicorn: music box, octave high, level quiet, space hall, tone bright
+A: 5 . 4 . | 3 . 1 . | 2 . 3 . | 5 - - .
+B: 8 . 7 . | 5 . 4 . | 3 . 2 . | 1 - - -
+PART rain: pad, octave normal, level medium, space hall, tone dark
+A: 1+4+6 - - - | 4+6+8 - - - | 1+4+6 - - - | 5+7+9 - - -
+B: 3+5+7 - - - | 6+8+1' - - - | 3+5+7 - - - | 2+4+6 - - -
+PART city: bass, octave low, level medium, space room, tone dark
+A: 1 - - - | 4 - - - | 1 - - - | 5 - - -
+B: 3 - - - | 6 - - - | 3 - - - | 2 - - -
+PART rhythm: drums, level quiet, space dry
+A: k...h...k.h... | k...h...k.h...
+B: .h..h..h..h..h. | .h..h..h..h..h. | .h..h..h..h..h. | .h..h..h..h..h.
+FORM: A B A
+
+Heard back: About 40 seconds, slow, in D minor; unicorn (music box), rain (pad), city (bass) and rhythm (drums); the order is A B A.
+
+Nim's verdict: the unicorn stays high and fragile while the rain swallows the city underneath it, and the kick never lands where you expect it to.

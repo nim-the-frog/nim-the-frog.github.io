@@ -1,0 +1,22 @@
+Drizzle on the Glass
+
+TEMPO: 94
+KEY: G dorian
+SWING: some
+PART drops: pluck, octave high, level medium, space room, tone bright
+A: 5 . 3 . | 1 . 6 . | 5 . 3 . | 2 . 4 .
+B: 5 3 1 6 | 5 3 1 . | 6 4 2 1 | 3 . 5 .
+PART haze: pad, octave normal, level quiet, space hall, tone warm
+A: 1+3+5 - - - | 6+1+3 - - - | 4+6+1 - - - | 3+5+7 - - -
+B: 5+7+2 - - - | 3+5+1 - - - | 6+1+3 - - - | 2+4+6 - - -
+PART root: bass, octave low, level medium, space room, tone dark
+A: 1 - - - | 6 - - - | 4 - - - | 3 - - -
+B: 5 - - - | 3 - - - | 6 - - - | 2 - - -
+PART patter: drums, level quiet, space dry
+A: k...h...h..h.... | .h..h.k...h..h.. | k...h...h..h.... | .h..h.k...h..h..
+B: kh.hkh.h.kh.hkh. | h.kh.h.kh.h.kh.. | kh.hkh.h.kh.hkh. | h.kh.h.kh.h.kh..
+FORM: A B A B
+
+Heard back: About 41 seconds, at a walking pace, in G dorian; drops (pluck), haze (pad), root (bass) and patter (drums); the order is A B A B.
+
+Nim's verdict: The pluck catches the exact unevenness — three drops, a pause, two fast — and the pad never resolves, just sits in the wet air like it belongs there.

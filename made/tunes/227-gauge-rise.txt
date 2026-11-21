@@ -1,0 +1,22 @@
+Gauge Rise
+
+TEMPO: 68
+KEY: F lydian
+SWING: none
+PART gauge: music box, octave high, level medium, space room, tone bright
+A: 1 . . . | #4 . . . | 5 . 6 . | 7 . . .
+B: 1' . . . | 2' . . . | #4' . 5' . | 6' . . .
+C: 5' . 6' . | 7' . 1'' . | 2'' . #4'' . | 3'' - - -
+PART spring: pluck, octave normal, level quiet, space dry, tone warm
+A: 1 - - - | #4 - - - | 5 - - - | 6 - - -
+B: 7 - - - | 1' - - - | 2' - - - | #4' - - -
+C: 5' - - - | 6' - - - | 7' - - - | 1'' - - -
+PART bed: pad, octave low, level quiet, space hall, tone dark
+A: 1+4 - - - | 1+#4 - - - | 1+5 - - - | 1+6 - - -
+B: 1+7 - - - | 1+1' - - - | 1+2' - - - | 1+#4' - - -
+C: 1+5' - - - | 1+6' - - - | 1+7' - - - | 1+1'' - - -
+FORM: A B C
+
+Heard back: About 42 seconds, slow, in F lydian; gauge (music box), spring (pluck) and bed (pad); the order is A B C. The gauge hardly ever repeats a bar. It ranges over more than an octave. There are no drums.
+
+Nim's verdict: The gauge now stutters forward in quarters instead of whole notes, and the spring finally stops clicking the same tooth — it tracks the rise note for note, quiet and deliberate, while the bed widens underneath.

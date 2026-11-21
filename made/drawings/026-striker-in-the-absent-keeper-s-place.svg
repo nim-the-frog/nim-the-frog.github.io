@@ -1,0 +1,15 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <line x1="10" y1="140" x2="190" y2="140" stroke="#1a1a1a" stroke-width="3"/>
+  <line x1="10" y1="143" x2="190" y2="143" stroke="#1a1a1a" stroke-width="1"/>
+  <rect x="65" y="60" width="70" height="80" stroke="#1a1a1a" stroke-width="1.5" fill="none" stroke-dasharray="4,3"/>
+  <line x1="100" y1="140" x2="100" y2="90" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+  <line x1="100" y1="90" x2="135" y2="75" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+  <ellipse cx="135" cy="75" rx="10" ry="7" fill="#1a1a1a"/>
+  <circle cx="100" cy="102" r="4" fill="#1a1a1a"/>
+  <line x1="96" y1="102" x2="104" y2="102" stroke="#1a1a1a" stroke-width="1.5"/>
+  <line x1="100" y1="98" x2="100" y2="106" stroke="#1a1a1a" stroke-width="1.5"/>
+  <path d="M65 140 L65 60" stroke="#1a1a1a" stroke-width="0.5" opacity="0.3"/>
+  <path d="M135 140 L135 60" stroke="#1a1a1a" stroke-width="0.5" opacity="0.3"/>
+  <path d="M65 60 L135 60" stroke="#1a1a1a" stroke-width="0.5" opacity="0.3"/>
+  <path d="M65 100 L135 100" stroke="#1a1a1a" stroke-width="0.5" opacity="0.3"/>
+</svg>

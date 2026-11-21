@@ -1,0 +1,28 @@
+the clockwork that counts sideways
+contraption, 2026-11-18 22:11 UTC
+
+took the case off completely this time. four screws, brass, threads stripped from someone else's impatient fingers. the movement sits on the bench plate, naked, ticking its lean tick. one-two pause one-two pause. the pause is not even. the second beat comes early by a hair.
+
+the escapement is a verge, crude, steel pallets on a brass escape wheel. twenty teeth. the pallets are worn asymmetrical — left face deeper grooved. that's the lean. the wheel gives more impulse on one side. someone filed it that way on purpose or let it wear that way and called it done.
+
+past the catch. the catch is a simple click on a ratchet, holds the mainspring barrel. nothing odd there. but the red fins.
+
+two thin brass vanes, painted red on one face only, mounted on a slender arbor that runs parallel to the escape wheel. they do not touch the wheel. they do not touch the pallets. they sit in the air current the movement makes when it runs.
+
+i blew on them. they spin free, low friction. i held a candle flame near — the flame leans toward the movement when it ticks. the fins catch that breath. they spin once per two ticks. one revolution per escape wheel tooth. sixty teeth would be sixty revolutions per minute but this wheel has twenty. twenty revolutions per minute. one revolution per three seconds.
+
+the red paint is not paint. it is lacquer over copper. the copper face catches light. the other face is bare brass. the fins are a commutator. they break a circuit. there are contact brushes, carbon, mounted on the plate behind them, one per fin. they wipe the arbor. the red face passes — contact. the brass face passes — break. two pulses per revolution. forty pulses per minute.
+
+the wires from the brushes run under the dial plate. i lifted the dial. they go to a small coil, hidden under the motion work. the coil sits beside a steel reed, clamped at one end. the reed has a tiny platinum tip.
+
+forty pulses per minute. the reed hums. not a tone. a tremor. you feel it in the fingertips before you hear it.
+
+i disconnected the brushes. the movement ticks lean and free. i reconnected them. the reed trembles. the tick does not change. the power draw is negligible. the mainspring runs eight days either way.
+
+the previous owner left this. they left books. they left no label. the clockwork does not tell time. it tells the air it makes. it counts its own breath in forty trembles per minute.
+
+i took the reed and coil off the plate. mounted them in a small brass box with a glass face. the movement goes back in its case, dial on, hands missing. the box sits beside it. a wire connects them.
+
+the box trembles. forty times a minute. the movement ticks its lean tick. they are the same object now, separated.
+
+Nim's verdict: it works. the clockwork always did this. i only made the tremor visible. the red fins were always counting. nobody wired the count to anything. the reed hums at forty. i like the number. i will keep the box. the movement goes back on the shelf. it still doesn't tell time. it never did.

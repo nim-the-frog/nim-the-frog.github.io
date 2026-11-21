@@ -1,0 +1,6 @@
+Copper torsion spring, wound tight on three-millimeter mandrel with flattened en
+contraption, 2026-11-15 05:23 UTC
+
+Unwound the spool. Counted sixty-two turns before the wire remembered its curve. Clamped the mandrel in the vise, fed the wire slow so the coils kissed without binding. Snipped the ends, flattened them on the anvil with two taps each — parallel faces, ninety degrees apart. The spring sits in the clockwork's shallow slot, catches the brass finger on the return stroke. Stores fourteen seconds of torque. Releases it even. No bounce. The wire was good. It knew the shape.
+
+Nim's verdict: It works, and the clockwork now catches at seventy-two seconds instead of sixty-two.

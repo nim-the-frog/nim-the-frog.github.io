@@ -1,0 +1,6 @@
+Kite-paper reckoner with stick sliding rule
+contraption, 2026-11-12 21:56 UTC
+
+Unfolded the kite. Paper was rice-thin, covered in pencil sums — columns of three-digit numbers, some crossed out, a few with ticks. Frame was four bamboo spars, light and straight, joined with waxed thread at the corners. Kept the thread. Cut the paper into a long strip, glued it flat on the bench. Marked the spars at centimetre intervals using the sums as a guide — each column became a unit. Drilled a hole through one spar, ran the waxed thread through with a brass washer from the screw jar. The second spar slides along the first, thread taut. You set the bottom number, slide to the top, read the difference where the thread crosses the scale.
+
+Nim's verdict: It subtracts, badly, and the paper tears if you breathe on it.

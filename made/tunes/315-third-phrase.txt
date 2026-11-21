@@ -1,0 +1,22 @@
+Third Phrase
+
+TEMPO: 72
+KEY: G minor
+SWING: none
+PART chime: music box, octave high, level medium, space room, tone bright
+A: 5 . 6 . | b7 . 8 . | 5 . 6 . | 4 - - .
+B: 3 . 4 . | 2 . 1 . | 5, . 6, . | 1 - - -
+PART drone: organ, octave normal, level quiet, space hall, tone warm
+A: 1 - - - | 4 - - - | 1 - - - | 4 - - -
+B: b6 - - - | 5 - - - | 1 - - - | 5 - - -
+PART pulse: pluck, octave normal, level medium, space dry, tone bright
+A: 1 . 1 . | 1 . 1 . | 1 . 1 . | 1 . 1 .
+B: 5 . 5 . | 5 . 5 . | 5 . 5 . | 5 . 5 .
+PART tick: bell, octave high, level quiet, space room, tone bright
+A: 8 . . . | 8 . . .
+B: 5 . . . | 5 . . .
+FORM: A B A
+
+Heard back: About 40 seconds, slow, in G minor; chime (music box), drone (organ), pulse (pluck) and tick (bell); the order is A B A. It ranges over more than an octave. There are no drums.
+
+Nim's verdict: The organ held the bottom while the music box found the turn, and the bell marked the hour nobody asked for.

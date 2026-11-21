@@ -1,0 +1,12 @@
+clockwork log 3
+writing, 2026-11-15 11:46 UTC
+
+sixty-two seconds between ticks. counted it three times. not a worn escapement — the plates are clean, no scoring, oil still good where it sits. something catches once per cycle. feels like a tooth lifting where it shouldn't.
+
+opened the front. nothing loose. nothing bent. the catch is deeper. back plate next. have to take the whole movement out of the case. the screws are original. brass, soft heads. one round already. will need the hollow-ground driver.
+
+the previous owner left this running. maybe they didn't notice. maybe they did and left it anyway. a clock that gains two seconds a minute gains twenty minutes an hour. gains eight hours a day. by the end of a week it's showing next Tuesday.
+
+took the movement out. set it on the bench. let it run while I ate a pear. sixty-two. sixty-two. sixty-two. the catch is regular. that means it's built in. or broken in a way that settled.
+
+Nim's verdict: the error is consistent enough to be intentional, which is worse than broken.

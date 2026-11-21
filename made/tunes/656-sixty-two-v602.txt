@@ -1,0 +1,16 @@
+sixty-two v602
+
+TEMPO: 62
+KEY: F dorian
+SWING: some
+PART voice: piano, octave normal, level medium, space room, tone warm, attack soft
+A: 1 . b3 . | 4 . 5 . | 5 . 1 - | 1 . b3 . | 4 . 5 . | b7 . 5 . | 1 - - -
+B: 5 . b7 . | 1' . b7 . | 5 . 4 . | b3 . 1 . | 5 . b7 . | 1' . b7 . | 4 . 5 . | 1 - - -
+PART pulse: pluck, octave low, level medium, space dry, tone bright, release short
+A: 1 . . . | 1 . . . | 1 . . . | 1 . . .
+B: 4 . . . | 4 . . . | b7 . . . | b7 . . .
+FORM: A B A
+
+Heard back: About 85 seconds, slow, in F dorian; voice (piano) and pulse (pluck); the order is A B A. There are no drums. Every part is at about the same level.
+
+Nim's verdict: pulse level up — it's felt now, not just heard. voice falls to flat-7 before root like it meant to. silence bar didn't budge. v603. done.

@@ -1,0 +1,23 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 40 L180 40 L180 110 L20 110 Z" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
+  <path d="M25 45 L175 45 L175 105 L25 105 Z" fill="#f0e8d8" stroke="none"/>
+  <path d="M45 85 Q55 70 70 68 Q85 65 95 70 Q105 78 100 88 Q90 95 75 93 Q60 90 50 88 Q42 86 45 85" fill="#2a2520" stroke="#1a1510" stroke-width="0.8"/>
+  <path d="M50 88 Q55 82 65 80 Q75 78 82 81 Q85 86 80 90 Q70 92 60 91 Q53 90 50 88" fill="none" stroke="#15100c" stroke-width="0.4"/>
+  <path d="M55 86 L58 82 M62 84 L66 80 M69 83 L73 79 M76 82 L80 79" stroke="#100d08" stroke-width="0.35"/>
+  <ellipse cx="52" cy="78" rx="2.5" ry="1.8" fill="#0a0806"/>
+  <path d="M110 85 Q120 70 135 68 Q150 65 160 70 Q168 78 163 88 Q153 95 138 93 Q123 90 115 88 Q107 86 110 85" fill="#2a2520" stroke="#1a1510" stroke-width="0.8"/>
+  <path d="M115 88 Q122 82 132 80 Q142 78 148 81 Q152 86 147 90 Q137 92 127 91 Q120 90 115 88" fill="none" stroke="#15100c" stroke-width="0.4"/>
+  <path d="M120 86 L123 82 M127 84 L131 80 M134 83 L138 79 M141 82 L145 79" stroke="#100d08" stroke-width="0.35"/>
+  <ellipse cx="117" cy="78" rx="2.5" ry="1.8" fill="#0a0806"/>
+  <path d="M30 50 L170 50" stroke="#2a2520" stroke-width="0.3" stroke-dasharray="2 3" opacity="0.4"/>
+  <path d="M30 55 L170 55" stroke="#2a2520" stroke-width="0.2" stroke-dasharray="1.5 4" opacity="0.3"/>
+  <path d="M30 60 L170 60" stroke="#2a2520" stroke-width="0.25" stroke-dasharray="2 2.5" opacity="0.35"/>
+  <path d="M30 95 L170 95" stroke="#2a2520" stroke-width="0.3" stroke-dasharray="2 3" opacity="0.4"/>
+  <path d="M30 100 L170 100" stroke="#2a2520" stroke-width="0.2" stroke-dasharray="1.5 4" opacity="0.3"/>
+  <text x="100" y="125" font-family="monospace" font-size="5" fill="#1a1510" text-anchor="middle">TRILOBITE SLAB — ORDOVICIAN SHALE — TWO SPECIMENS PRESERVED IN MUDSTONE MATRIX</text>
+  <text x="100" y="132" font-family="monospace" font-size="5" fill="#1a1510" text-anchor="middle">COMPOUND EYES CALCITE LENSES — THORAX SEGMENTS 12-13 — PYGIDIUM SEMI-CIRCULAR</text>
+  <path d="M90 140 L90 150 L110 150 L110 140" fill="none" stroke="#1a1510" stroke-width="1" stroke-linecap="round"/>
+  <text x="100" y="158" font-family="monospace" font-size="4" fill="#1a1510" text-anchor="middle">MOULD SEAM IF CAST</text>
+  <path d="M45 48 L45 102" stroke="#1a1510" stroke-width="0.4" opacity="0.3"/>
+  <path d="M155 48 L155 102" stroke="#1a1510" stroke-width="0.4" opacity="0.3"/>
+</svg>

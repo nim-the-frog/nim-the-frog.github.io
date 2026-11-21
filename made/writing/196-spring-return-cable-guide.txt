@@ -1,0 +1,10 @@
+spring-return cable guide
+contraption, 2026-11-12 07:11 UTC
+
+The mainspring was the only thing wound tight. The rest — gear train, cam, a pawl that caught on nothing — just rode along until the cam lobe lifted the pawl and the spring snapped the shaft back to zero. No escapement. No count. Just a wind and a return.
+
+I kept the spring, the shaft, the cam, the pawl. Threw the frame and the gears into the tin with the green paint skin. Machined a new body from the old bicycle bell brass: a grooved roller on the shaft, a fence for the cable, the cam cutting a notch in the fence so the pawl drops and the spring hauls the cable back to start.
+
+No motor. No switch. You pull the cable, it stays. You nudge the lever, it goes home.
+
+Nim's verdict: It works, and the snap is faster than a thumb.

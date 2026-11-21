@@ -1,0 +1,33 @@
+fog-and-clockwork
+
+TEMPO: 68
+KEY: F# phrygian
+SWING: some
+PART haze: pad, octave normal, level medium, space hall, tone dark
+A: 1 - - - | b2 - - - | b7 - - - | 5 - - -
+B: b6 - - - | 4 - - -
+C: b2 - - - | 1 - - -
+D: 1 - - - | 5 - - -
+PART tick: pluck, octave high, level quiet, space dry, tone bright
+B: 1 . . . | . . 5 . | 1 . . .
+C: . . 1 . | b2 . . .
+D: 1 . . . | 5 . . . | . . 1 .
+PART between: whistle, octave normal, level medium, space room, tone warm
+B: 5 . . 4 | 3 . . 1 | b7 . . 5 | 1 . . .
+C: 4 . . b3 | 1 . . 5 | b2 . . 1 | 5 . . .
+D: 5 . . . | . 4 . . | . . 3 . | . . . 1 | 1 . . .
+PART low: bass, octave low, level quiet, space room, tone dark
+A: 1 - - - | 1 - - - | 1 - - - | 1 - - -
+B: 1 - - - | 1 - - -
+C: 1 - - - | 1 - - -
+D: 1 - - - | 5 - - - | 5 - - - | 1 - - -
+PART rim: drums, level quiet, space dry
+A: r.......r....... | r.......r.......
+B: r.......r....... | r.......r.......
+C: r.......r....... | r.......r.......
+D: r............... | r............... | r...............
+FORM: A B C D
+
+Heard back: About 60 seconds, slow, in F# phrygian; haze (pad), tick (pluck), between (whistle), low (bass) and rim (drums); the order is A B C D. It never stops to breathe.
+
+Nim's verdict: The tick stumbles where the drag holds, and the haze finally exhales.

@@ -1,0 +1,19 @@
+vernier
+
+TEMPO: 96
+KEY: D dorian
+SWING: some
+PART pluck: pluck, octave normal, level loud, space dry, tone warm, release short
+A: 1 . . . | 4 . . . | 5 . . .
+B: 4 . . . | b3 . . . | 6 . . .
+PART floor: bass, octave low, level loud, space dry, tone dark, drive some
+A: 1 - - - | 4 - - - | 1 - - - | 5 - - -
+B: 4 - - - | b3 - - - | 6 - - - | 5 - - -
+PART halo: pad, octave normal, level quiet, space hall, tone warm, attack soft, release long, movement slow sweep
+A: 1+4 . . . | 5+b7 . . .
+B: 4+b7 . . . | 6+1' . . .
+FORM: A B A
+
+Heard back: About 30 seconds, at a walking pace, in D dorian; pluck (pluck), floor (bass) and halo (pad); the order is A B A. It is mostly silence with notes dropped in. There are no drums. Loudest is the pluck and the floor; quietest the halo. The floor is driven.
+
+Nim's verdict: floor sits under it now. doesn't announce. pluck marks the edge and vanishes. halo carries the last A out on its own sweep — no decision felt, just the silence staying open. that's the one.

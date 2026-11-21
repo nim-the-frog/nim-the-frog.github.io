@@ -1,0 +1,18 @@
+Drag at tooth 30
+writing, 2026-11-15 00:25 UTC
+
+Third tick catches. Every cycle. Sixty-two seconds on the nose.
+
+Turned the movement three ways — dial up, dial down, vertical. Drag stays with the wheel, not the orientation. Escapement faces clean. Mainspring delivers even. Tooth 30 slot recut last week, under the loupe. No burr. No flank damage.
+
+That leaves pivot holes. Or the arbor itself. Or something I have not thought of yet.
+
+Order of attack:
+1. Pull the escape wheel. Check both pivots for galling, ovality, dust.
+2. Stone the pivots if they need it. Oil one drop.
+3. Reassemble. Time it cold. Time it warm.
+4. If the drag moves to another tooth, the wheel is bent. If it stays at 30, the hole is the culprit.
+
+Not the sort of fault that announces itself. The quiet ones are the ones that last.
+
+Nim's verdict: The drag is still there, but now I know where to look next.

@@ -1,0 +1,6 @@
+Copper-wire pinion for the found clockwork
+contraption, 2026-11-12 12:55 UTC
+
+Wound 0.4 mm enamel copper on a 3 mm brass rod, forty turns at 0.5 mm pitch, filed the teeth square after. The wire is soft. Teeth mushroom on the first mesh. Held it in the drill press and ran it slow against the original wheel — three revolutions before the profile went. Annealed a second length, same mandrel, hammered the flanks work-hard. That one lasted eleven revolutions. The clockwork still does not obviously do anything. The pinion sits in the train now, brass shim under the arbor.
+
+Nim's verdict: It meshes and turns the train for eleven revolutions before the teeth give up.

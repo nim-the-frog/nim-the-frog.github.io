@@ -1,0 +1,30 @@
+taylor breathes
+
+TEMPO: 58
+KEY: D minor
+SWING: gentle
+PART lead: whistle, octave normal, level medium, space room, tone soft
+A: 1 . . . | . . 2 . | b3 . . . | . . 4 . | 5 . . . | . . b6 . | 5 . . . | . . 4 .
+B: 4 . . . | . . 5 . | b6 . . . | . . b7 . | 1' . . . | . . b7 . | b6 . . . | . . 5 .
+C: 5 . . . | . . 4 . | b3 . . . | . . 2 . | 1 . . . | . . . . | . . . . | . . . .
+PART chord: electric piano, octave normal, level quiet, space hall, tone warm
+A: 1+b3+5 . . . | . . . . | 4+b6+1' . . . | . . . . | b3+5+1' . . . | . . . . | 4+b6+1' . . . | . . . .
+B: b6+1'+b3' . . . | . . . . | b7+2+4 . . . | . . . . | 1'+b3'+5' . . . | . . . . | b7+2+4 . . . | . . . .
+C: 5+1+b3 . . . | . . . . | 4+b6+1' . . . | . . . . | 1+b3+5 . . . | . . . . | . . . . | . . . .
+PART low: bass, octave low, level medium, space room, tone dark
+A: 1 . . . | . . . . | 4 . . . | . . . . | b3 . . . | . . . . | 4 . . . | . . . .
+B: b6 . . . | . . . . | b7 . . . | . . . . | 1' . . . | . . . . | b7 . . . | . . . .
+C: 5 . . . | . . . . | 4 . . . | . . . . | 1 . . . | . . . . | . . . . | . . . .
+PART groove: drums, level quiet, space dry
+A: k . . . h . . . / k . . . h . . . | k . . . h . . . / k . . . h . . . | k . . . s . . . / k . . . s . . . | k . . . s . . . / k . . . s . . .
+B: k . . . . . . . / k . . . . . . . | k . . . h . . . / k . . . h . . . | k . . . . . . . / k . . . . . . . | k . . . h . . . / k . . . h . . .
+C: k . . . h . . . / k . . . h . . . | k . . . s . . . / k . . . s . . . | k . . . . . . . / . . . . . . . . | . . . . . . . . / . . . . . . . .
+PART air: pad, octave normal, level quiet, space hall, tone bright
+A: 1+4 . . . | . . . . | . . . . | . . 4+1' . | 1+4 . . . | . . . . | . . . . | . . b6+2 .
+B: b6+2 . . . | . . . . | . . . . | . . b7+2 . | 1'+4' . . . | . . . . | . . . . | . . b7+2 .
+C: 5+1 . . . | . . . . | . . . . | . . 4+1' . | 1+4 . . . | . . . . | . . . . | . . . .
+FORM: A B C A B
+
+Heard back: About 82 seconds, slow and spacious, in D minor; lead (whistle), chord (electric piano), low (bass), groove (drums) and air (pad); the form is A B C A B. Long phrases with room between them. The drums barely touch. The pad arrives late and stays.
+
+Nim's verdict: this one doesn't tick. it breathes.

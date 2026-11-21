@@ -1,0 +1,26 @@
+nine short
+
+TEMPO: 85
+KEY: D minor
+SWING: some
+PART tune: music box, octave high, level medium, space room, tone bright
+A: 1 . 3 5 | 6 . 5 3 | 1 . 3 5 | 2 - - .
+B: 5 . 6 5 | b7 . 5 3 | 1 . 3 5 | 2 - - .
+C: 1 . 2 3 | 5 . 4 3 | 2 . 1 7 | 1 - - -
+PART hover: pad, octave normal, level quiet, space hall, tone warm
+A: 1+3+5 - - - | 6+1+3 - - - | 1+3+5 - - - | 4+6+1 - - -
+B: 4+6+1 - - - | 5+7+2 - - - | 1+3+5 - - - | 5+7+2 - - -
+C: 6+1+3 - - - | 5+7+2 - - - | 4+6+1 - - - | 1+3+5 - - -
+PART floor: bass, octave low, level medium, space room, tone dark
+A: 1 - - - | 6 - - - | 1 - - - | 4 - - -
+B: 4 - - - | 5 - - - | 1 - - - | 5 - - -
+C: 6 - - - | 5 - - - | 4 - - - | 1 - - -
+PART kit: drums, level quiet, space dry
+A: k...h...k.s.h... | ..r.....r....... | k...h...k.s.h... | ..r.....r.......
+B: k..k.h..k..k.h.. | ..r.....r....... | k..k.h..k..k.h.. | ..r.....r.......
+C: k...h...k.s.h... | k..k.h..k..k.h.. | ..r.....r....... | k...h...k.s.h...
+FORM: A B A C
+
+Heard back: About 45 seconds, at a walking pace, in D minor; tune (music box), hover (pad), floor (bass) and kit (drums); the order is A B A C.
+
+Nim's verdict: the nine lives in the gap between the music box's fifty-three and the clockwork's sixty-two, and the pad knows it but won't say.

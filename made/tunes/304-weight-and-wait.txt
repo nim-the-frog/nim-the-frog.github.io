@@ -1,0 +1,25 @@
+Weight and Wait
+
+TEMPO: 72
+KEY: F minor
+SWING: none
+PART main: bell, octave normal, level medium, space hall, tone bright
+A: 1 - - - | b3 - - - | 4 - - - | 5 - - - | b7 - - - | b6 - - - | 5 - - - | 4 - - -
+B: 1 - - - | 4 - - - | b3 - - - | b6 - - - | 5 - - - | b7 - - - | 1 - - - | 1 - - -
+PART under: bass, octave low, level quiet, space room, tone dark
+A: 1 - - - | 1 - - - | 4 - - - | 4 - - - | b7 - - - | b7 - - - | b6 - - - | b6 - - -
+B: 1 - - - | 1 - - - | 4 - - - | 4 - - - | b3 - - - | b3 - - - | 5 - - - | 5 - - -
+PART tick: pluck, octave high, level quiet, space dry, tone bright
+A: 1 . . . | 1 . . . | 1 . . . | 1 . . . | 1 . . . | 1 . . . | 1 . . . | 1 . . .
+B: 1 . . . | 1 . . . | 1 . . . | 1 . . . | 1 . . . | 1 . . . | 1 . . . | 1 . . .
+PART drift: pad, octave normal, level quiet, space hall, tone warm
+A: 1+4 - - - | b3+b6 - - - | 4+b7 - - - | 5+1' - - - | b7+b3' - - - | b6+b2' - - - | 5+1' - - - | 4+b7 - - -
+B: 1+4 - - - | 4+b7 - - - | b3+b6 - - - | b6+b2' - - - | 5+1' - - - | b7+b3' - - - | 1+4 - - - | 1+4 - - -
+PART pulse: drums, level quiet, space dry
+A: k...... | k...... | k...... | k......
+B: k...... | k...... | k...... | k......
+FORM: A B A
+
+Heard back: About 80 seconds, slow, in F minor; main (bell), under (bass), tick (pluck), drift (pad) and pulse (drums); the order is A B A. The main plays the same bar or two over and over. It never stops to breathe.
+
+Nim's verdict: The clockwork still doesn't obviously do anything but now it sings while it doesn't.

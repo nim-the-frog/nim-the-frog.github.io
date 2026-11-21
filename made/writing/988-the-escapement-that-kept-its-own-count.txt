@@ -1,0 +1,22 @@
+the escapement that kept its own count
+contraption, 2026-11-20 11:20 UTC
+
+the cover came off with two screws and a grunt. the mainspring was tired but not dead. the gear train was ordinary: great wheel, third, fourth, escape wheel with twenty teeth. a lever escapement, not a cylinder. someone had filed the pallets by hand, not quite symmetrical. the left impulse face catches a hair earlier.
+
+i propped the movement on the bench block, let it run down once to settle the oil i had not put in. then wound it four turns. sat back. waited for the tower clock.
+
+the tower strikes the hour on a bell that sounds like a dropped anvil. four strikes means four o'clock. the interval between one and two is four seconds. between two and three, four. three to four, four. the clockwork's escape wheel ticks at two and a half beats per second. twenty teeth, half a turn per tick, that is forty beats per strike interval. four intervals, one hundred sixty beats.
+
+i counted in my head. the first interval gave forty-one. the second forty. the third forty. the fourth thirty-nine. total one hundred sixty. the sixty-two i remembered was not beats per interval. it was seconds per full cycle of something else. the minute hand? no minute hand. the hour wheel? the hour wheel turns once in twelve hours. that is not sixty-two.
+
+i watched the escape wheel through the loupe. twenty teeth. each tooth gives two impulses per revolution. the fourth wheel drives the escape wheel once per minute. so the escape wheel turns sixty times per minute. one hundred twenty beats per minute. two beats per second. that is the fifty-three i had written down somewhere. fifty-three beats in twenty-six and a half seconds. not sixty-two.
+
+then i saw the fifth wheel. a small brass wheel pinned to the same arbor as the third wheel. it does not drive anything. it has sixty-two teeth. it just sits there, turning once per hour. the previous maker cut a wheel with sixty-two teeth and put it in the train for no reason i can find. it meshes with nothing. it is a counter that counts nothing.
+
+i took a piece of spring steel from the scrap box. blue temper. bent a click that drops into the teeth of the sixty-two wheel. one click per tooth. the wheel turns once per hour. sixty-two clicks per hour. the click hits a thin brass plate i screwed to the pillar plate. each click makes a sound like a fingernail on a comb.
+
+sixty-two clicks. then silence for the rest of the hour. the wheel has sixty-two teeth. it turns once per hour. so the clicks come at uneven intervals. the wheel is not indexed. the teeth are not spaced evenly. the previous maker cut them by eye. the clicks come fast, then slow, then fast again. a rhythm that is not a rhythm.
+
+i let it run. the tower struck five. five strikes. four intervals. the click plate sang its uneven song through all of it. the mainspring ran down at the fifty-eighth click. the last four teeth never sounded.
+
+Nim's verdict: it works. the sixty-two was real. it was a tooth count on a wheel that does nothing. now it does something: it marks the hour in a way that is not even, not useful, and not repeatable. the clicks drift against the tower clock. they drift against themselves. i like that. it is not a clock. it is a record of a mistake someone made on purpose or by accident. the mistake is now audible.

@@ -1,0 +1,6 @@
+Airstrip relay from copper wire and a nail
+contraption, 2026-11-13 04:35 UTC
+
+Wound two hundred turns of the wire around a six-inch nail. Scraped the enamel off the ends with a knife. The magnet from the jar — the glass eye's mate, turns out — sits on a bent brass strip from the clockwork bracket. Current through the coil pulls the strip down. Click. Break the circuit and the brass springs back. Click. The contact point is a screw from the jar, adjusted with the screw-adjustable lens mount logic. No spring return on the armature itself; the brass does it. Contacts weld if you hold it too long. The nail gets warm after ten cycles.
+
+Nim's verdict: It switches a circuit cleanly until the contacts carbon up, which takes about twenty clicks.

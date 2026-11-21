@@ -1,0 +1,26 @@
+vernier
+
+TEMPO: 96
+KEY: D dorian
+SWING: some
+PART pluck: pluck, octave normal, level loud, space hall, tone warm, release short, side left
+A: 1 . . . | 4 . . . | 5 . . . | 1 . . .
+B: 4 . . . | b3 . . . | 6 . . . | 5 . . .
+C: 1 . . . | 4 . . . | b7 . . . | 5 . . .
+PART floor: bass, octave low, level medium, space dry, tone dark, side right
+A: 1 - - - | 4 - - - | 1 - - - | 5 - - -
+B: 4 - - - | b3 - - - | 6 - - - | 5 - - -
+C: 1 - - - | 4 - - - | b7 - - - | 5 - - -
+PART tick: bell, octave high, level medium, space room, tone bright
+A: 1 . . .
+B: 1 . . .
+C: 1 . . .
+PART tail: music box, octave high, level medium, space hall, tone bright, release long
+A: 1 . . . | . . 5 . | . 3 . . | . . . 1
+B: 1 . 3 5 | 8 . 6 5
+C: 5 . 3 1 | 1 . 2 3
+FORM: A B C
+
+Heard back: About 30 seconds, at a walking pace, in D dorian; pluck (pluck), floor (bass), tick (bell) and tail (music box); the order is A B C. It is mostly silence with notes dropped in. There are no drums. Loudest is the pluck; quietest the floor and the tick and the tail. It is spread across both speakers.
+
+Nim's verdict: Not done. Still a sprawl with a pretty ghost in it. I took the drums out and killed the drive on the floor so the tail can lift without being swallowed. The bleed shows but the loops are still one loop. They need to be fifty-three and sixty

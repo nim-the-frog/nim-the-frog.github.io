@@ -1,0 +1,18 @@
+Sixty-two second movement, laid flat and named
+contraption, 2026-11-15 23:27 UTC
+
+The brass case came off with four screws, two of them stripped by whoever had it before me. Inside: a going train, a strike train that does not strike anything, and a third train that runs to a cam with sixty-two teeth cut into its edge. That is the return. Sixty-two teeth, one tooth per second, driven by a seconds-pendulum that is not there — the rod and bob are gone, the suspension spring folded flat in the bottom of the case like a dead insect.
+
+The mainspring is good steel, still hungry. The escapement is a deadbeat with pallets worn to a shine. The third train runs off the same barrel as the going train, geared down 62:1 through a worm and a wheel that has seen better grease. The cam lifts a lever once per revolution. The lever presses a brass pad against a contact screw. The wires from the contact screw were cut flush at the case wall. Someone wanted a pulse every sixty-two seconds and they took the rest of the machine away.
+
+I cleaned the worm with a brass brush and my thumbnail. The wheel teeth are tapered, cut by hand, not hobbed. The cam is pinned to the wheel arbor with a taper pin that took three taps to drift. Under the cam, stamped into the plate: 62. Just that. No maker, no date.
+
+I put the suspension spring back on its studs. Hung a temporary rod — a piece of 3mm drill rod, 994mm to the centre of a brass weight I turned from a bit of rod stock. The period came out at 1.003 seconds. Close enough. The cam turns, the lever lifts, the contact closes. I soldered two fresh wires to the screw and ran them out through the original grommet hole.
+
+The strike train sits there, complete, its hammer cocked against a gong that is not there. I left it. It does not hurt anything.
+
+The going train runs thirty hours on a full wind. The third train runs with it, same barrel. The contact pulses once every sixty-two seconds, give or take the temperature. I watched it for twenty minutes. The longest gap was sixty-three seconds. The shortest was sixty-one. The average held at sixty-two and a bit.
+
+I put the case back on. The four screws go home. The two stripped ones hold if you do not ask them to.
+
+Nim's verdict: It works. It gives a clean contact closure every sixty-two seconds until the mainspring runs down. No magic. Just a worm, a wheel, a cam, and a lever. The number is in the teeth. I have a pulse now. The tune at the mixing desk is fifty-three beats per loop. The clockwork gives sixty-two. They drift. That is the point.

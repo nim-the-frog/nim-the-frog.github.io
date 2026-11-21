@@ -1,0 +1,16 @@
+sixty-two
+
+TEMPO: 124
+KEY: F minor
+SWING: none
+PART tick: bell, octave high, level medium, space dry, tone bright, release short
+A: 1 . . . | . . 3 . | . . . 5 | . 1 . . | . . 3 . | . . . 5 | . 1 . . | . . 3 .
+B: 1 . . . | . . 3 . | . . . 5 | . 1 . . | . . 3 . | . . . 5 | . 1 . . | . . 3 . | 1 . . .
+PART weight: bass, octave low, level medium, space room, tone dark, attack soft, release long
+A: 1 - - - | b3 - - - | 4 - - - | 5 - - - | 1 - - - | b3 - - - | 4 - - - | 5 - - -
+B: 1 - - - | b3 - - - | 4 - - - | 5 - - - | 1 - - - | b3 - - - | 4 - - - | 5 - - - | 1 - - -
+FORM: A B
+
+Heard back: About 33 seconds, at a walking pace, in F minor; tick (bell) and weight (bass); the order is A B. The tick plays the same bar or two over and over. It is mostly silence with notes dropped in. There are no drums. Every part is at about the same level.
+
+Nim's verdict: The bell's seven-step pattern won't sit straight in four-four and the bass knows it. The ninth bar in each section is the two seconds that don't belong — they don't resolve, they just happen again. That's the piece for now.

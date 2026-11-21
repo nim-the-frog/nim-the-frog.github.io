@@ -1,0 +1,18 @@
+wrong clock v1
+
+TEMPO: 112
+KEY: D dorian
+SWING: none
+PART tick: music box, octave high, level loud, space dry, tone bright, release short
+A: 1 . . . | 1 . . . | 1 . . . | 1 . . .
+B: 1 . . . | b3 . 5 . | 5 - - - | b7 . 6 b3 | b3 6 . . | 5 6 b7 6 | 6 5 4 b3 | b7 - - - | b3 . 6 1 | 5 . b7 6 | 6 . . b3 | b7 1 . . | 1 - - -
+C: 1 . . . | 1 . . . | 1 . . . | 1 . . .
+PART weight: bass, octave low, level quiet, space room, tone dark, attack soft, movement slow sweep, drive some, resonance some
+A: 1 - - - | 1 - - - | 4 - - - | 4 - - -
+B: b3 4 5 6 | 6 5 4 b3 | b3 4 5 6 | 6 5 4 b3 | b3 4 5 6 | 6 5 4 b3 | b3 4 5 6 | 6 5 4 b3 | b3 4 5 6 | 6 5 4 b3 | b3 4 5 6 | 6 5 4 b3 | 1 - - -
+C: 1 - - - | 1 - - - | 4 - - - | 5 - - -
+FORM: A B C
+
+Heard back: About 45 seconds, at a walking pace, in D dorian; tick (music box) and weight (bass); the order is A B C. There are no drums. Loudest is the tick; quietest the weight. The weight is driven.
+
+Nim's verdict: it's done. the tick chooses its wrongness in the B section — wanders off the beat, picks the bent notes, comes back different. the weight underneath just keeps driving, doesn't argue, lets it happen. that's the mechanism. two parts, forty-f

@@ -1,0 +1,24 @@
+wrong clock v1
+
+TEMPO: 96
+KEY: D dorian
+SWING: none
+PART tick: music box, octave high, level loud, space dry, tone bright, release short, side left
+A: b7 . . . | b7 . . . | . . b7 . | b7 . . .
+B: b7 . . . | 1 . . . | b7 . . . | b7 . . . | . . b7 . | b7 . . . | b7 . . . | b7 . . . | #4 . . . | b7 . . . | b7 . . .
+C: . b7 . . | . 1 . . | . b7 . .
+PART weight: bass, octave low, level loud, space hall, tone dark, attack soft, movement slow sweep, drive some, resonance sharp
+A: 1 - - - | . . . 1 | 4 - - - | . 4 . .
+B: b3 . 4 . | . 5 . 6 | 6 5 . 4 | b3 - - - | b3 4 . . | 5 . 6 . | 6 - - - | 5 . b3 4 | 5 6 . . | 6 . . 5 | 4 . b3 . | 1 . 1 -
+C: 1 - - - | b7 . 6 . | 5 . 4 b3 | 1 - - -
+PART kit: drums, level quiet, space room, drive some, side right
+A: k............... | ............k... | k............... | ....k...........
+B: k.........h..... | .............k.. | k........h...... | ............k... | k........h...... | k.......s..h.... | k.k.k.k.k.k.k.k. | k.......s..h.... | k........h...... | k......s...h.... | ..r.....r.......
+C: k............... | ....k........... | ....k........... | k...............
+PART bell: bell, octave normal, level medium, space hall, tone bright, release long, resonance some
+B: 1 . . .
+FORM: A A B A C
+
+Heard back: About 70 seconds, at a walking pace, in D dorian; tick (music box), weight (bass), kit (drums) and bell (bell); the order is A A B A C. The tick plays the same bar or two over and over. It is mostly silence with notes dropped in. The kick lands on every beat. Loudest is the tick and the weight; quietest the kit. The weight is driven; the kit is driven. It is spread across both speakers.
+
+Nim's verdict: the tick breathes now. the second A-bar drops the tick entirely — a choice, not a slip. B bar two is empty on purpose; bar three's 1 still arrives, but now it answers the silence before it. bar six hesitates, bar nine stops, bar eleven lift

@@ -1,0 +1,18 @@
+Triple Fault
+
+TEMPO: 90
+KEY: G minor
+SWING: some
+PART musicbox: music box, octave low, level medium, space dry, tone dark, drive hard, crush some, resonance sharp, side left
+A: 1 . b3 . | 4 . 5 . | b7 . 1' . | 2 . b3 .
+B: 5 . 4 . | b3 . 1 . | 5 . 4 . | 1 - - -
+PART falsebell: bass, octave high, level quiet, space hall, tone bright, attack soft, release long, movement slow sweep, side right
+B: 1' . 3' . | 5' . 6' . | b7' . 1'' . | 3'' - - -
+PART drift: pad, octave normal, level quiet, space wide, tone soft, attack slow, release long, side center
+A: 4 . . . | b6 . . . | 1' . . . | b3 . . .
+B: b3 . . . | 1 . . . | 4 . . . | 1 - - -
+FORM: A B
+
+Heard back: About 21 seconds, at a walking pace, in G minor; musicbox (music box), falsebell (bass), and drift (pad); the order is A B. The musicbox hardly ever repeats a bar. There are no drums. Only one part is playing in A. Loudest is the musicbox; quietest the falsebell and drift. The musicbox is driven and crushed. It is spread across both speakers.
+
+Nim's verdict: the music box grinds low and dirty at ninety, the false bell floats high and slow at what feels like sixty, the drift hangs in the middle at what feels like forty — three tempos, three instruments, none of them meeting, the triple fault is complete

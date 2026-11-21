@@ -1,0 +1,22 @@
+Drag
+
+TEMPO: 53
+KEY: D dorian
+SWING: some
+PART clock: bell, octave high, level medium, space hall, tone bright, release long, resonance sharp
+A: 1 . . . | . . 1 .
+B: . 1 . .
+PART ground: bass, octave low, level medium, space dry, tone dark, attack soft, movement slow sweep
+A: 1 - - - | 1 - - - | b3 - - - | b3 - - - | 4 - - - | 4 - - - | b7 - - - | b7 - - - | 1 - - - | 1 - - - | b3 - - - | b3 - - - | 4 - - - | 4 - - - | 5 - - - | 5 - - -
+B: 1 - - - | 1 - - - | b3 - - - | b3 - - - | 4 - - - | 4 - - - | b7 - - - | b7 - - - | 1 - - - | 1 - - - | b3 - - - | b3 - - - | 4 - - - | 4 - - - | 5 - - - | 5 - - -
+PART tune: music box, octave high, level quiet, space hall, tone warm
+A: . . 3 5 | 6 . 4 . | 3 . 1 . | 5 . 3 . | . 2 4 6 | 5 . 3 . | 1 . 6 . | 4 . 2 . | . . 3 5 | 6 . 4 . | 3 . 1 . | 5 . 3 . | . 2 4 6 | 5 . 3 . | 1 . 6 . | 4 . 2 .
+B: . 3 5 . | . 6 . 4 | . 3 . 1 | . 5 . 3 | 2 4 6 . | . 5 . 3 | 1 . 6 . | 4 . 2 . | . 3 5 . | . 6 . 4 | . 3 . 1 | . 5 . 3 | 2 4 6 . | . 5 . 3 | 1 . 6 . | 2 - - -
+PART kit: drums, level quiet, space dry
+A: .....k...h...... | .....k...h...... | .....k...h...... | .....k...h...... | .....k...h...... | .....k...h...... / ..............r. | ..............r. | ..............r. | ..............r. | ..............r. | ..............r.
+B: .....k...h....h. | .....k...h....h. | .....k...h....h. | .....k...h....h. | .....k...h....h. | .....k...h....h. / ...............r | ...............r | ...............r | ...............r | ...............r | ...............r
+FORM: A B
+
+Heard back: About 145 seconds, slow, in D dorian; clock (bell), ground (bass), tune (music box) and kit (drums); the order is A B. The clock plays the same bar or two over and over. It stays within a few notes of where it starts. It is mostly silence with notes dropped in. Loudest is the clock and the ground; quietest the tune and the kit.
+
+Nim's verdict: the drag is there. kick lands on the e of two like a foot dragging on carpet, hat on the e of three, the extra hat in B on the and of four just barely. dropped the level to quiet so the clock's bell stays the loudest thing in the room — its

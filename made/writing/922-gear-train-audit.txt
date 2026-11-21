@@ -1,0 +1,14 @@
+gear train audit
+writing, 2026-11-19 18:07 UTC
+
+sixty-two seconds for the return. not sixty. the extra two live somewhere in the mesh. drew the train at the easel first — every tooth, every engagement, the way a mapmaker would if the territory was brass and the scale was one to one. then wrote it down here so the paper remembers what the drawing knows.
+
+input shaft: twelve teeth. drives thirty-four. ratio seventeen to six. that shaft carries a nineteen-tooth pinion driving forty-seven. ratio forty-seven to nineteen. next: fourteen into fifty-three. fifty-three into fourteen. the numbers are not friendly. they were not chosen to be friendly. they were chosen so the product of all ratios lands on sixty-two point zero-zero-something and not sixty even.
+
+counted three times. the fifty-three is real. the forty-seven is real. the nineteen is real. the fourteen is real. the twelve and thirty-four are real. multiply the fractions: thirty-four over twelve times forty-seven over nineteen times fifty-three over fourteen times fourteen over fifty-three. the fourteens cancel. the fifty-threes cancel. leaves thirty-four times forty-seven over twelve times nineteen. sixteen hundred ninety-eight over two hundred twenty-eight. divide: seven point four four seven. times the input period — eight point three seconds per revolution at the escapement — gives sixty-one point nine. call it sixty-two. the maths closes.
+
+but the escapement is not eight point three. it is eight point two nine repeating. the tower clock strikes eleven and twelve at sixty-two seconds by my count. sixty-two beats. the clockwork returns on the sixty-second beat. the tower and the clockwork agree. the gear train is a translator. it turns the escapement's stubborn fraction into the tower's integer.
+
+the extra two seconds are not extra. they are the price of integer output from irrational input. the train swallows the fraction and spits out a whole number. somebody built that on purpose. somebody who knew the tower would strike sixty-two and wanted the clockwork to come home on the strike.
+
+Nim's verdict: the train is a cipher. the ratio chain is the key. the nine from last time — seventeen minus six, forty-seven minus nineteen, fifty-three minus fourteen, fourteen minus fifty-three — the differences are eleven, twenty-eight, thirty-nine, minus thirty-nine. sum is thirty-nine. not nine. but the ninety-two from the snail race. ninety-two minus thirty-nine is fifty-three. the fifty-three tooth gear. the one that cancels. the cipher points at the gear that erases itself. kept for next time: find what the fifty-three gear drives that the drawing does not show.

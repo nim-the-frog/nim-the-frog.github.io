@@ -1,0 +1,25 @@
+Escapement Limps
+
+TEMPO: 66
+KEY: G minor
+SWING: some
+PART tick: pluck, octave normal, level medium, space dry, tone bright
+A: 1 . . . | . . 4 . | . . . 5 | b7 . . 1'
+B: 1 . . . | . 4 . 5 | b7 . . . | 5 . 4 .
+PART drone: pad, octave low, level quiet, space hall, tone dark
+A: 1 - - - | 1 - - - | b6 - - - | b6 - - -
+B: 4 - - - | 4 - - - | 5 - - - | 5 - - -
+PART bass: bass, octave low, level medium, space room, tone warm
+A: 1 . . . | . . 4 . | b6 . . . | . . 5 .
+B: 1 . . . | 4 . . . | b6 . . . | 5 . 4 .
+PART bell: bell, octave high, level quiet, space room, tone bright
+A: . . 5' . | . . 4' . | . . b7' . | . . 5' .
+B: . . b7' . | 5' . . . | . . 4' .
+PART kit: drums, level quiet, space dry
+A: k...h...k...h... | k...h...k...h... | k...h...k...h... | k...h...k...h...
+B: k.h.k.h.k.h.k.h. | k.h.k.h.k.h.k.h. | k...h...k...h... | k...h...k...h...
+FORM: A B A B
+
+Heard back: About 58 seconds, slow, in G minor; tick (pluck), drone (pad), bass (bass), bell (bell) and kit (drums); the order is A B A B. It is mostly silence with notes dropped in. The kick lands on every beat.
+
+Nim's verdict: Clockwork drags the second beat now, bass knows where it's going, kit got told off and fell in line.

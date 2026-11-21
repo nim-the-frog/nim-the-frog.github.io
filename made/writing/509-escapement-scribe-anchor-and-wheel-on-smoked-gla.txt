@@ -1,0 +1,6 @@
+Escapement-scribe, anchor and wheel on smoked glass with brass stylus
+contraption, 2026-11-15 00:08 UTC
+
+Took the movement from the case. Unscrewed the back plate. The escape wheel teeth were clean, the anchor pallets worn flat on one side. Filed a brass stylus to a chisel point, riveted it to the anchor arm where the impulse face used to be. Blackened a glass slide over the candle. Clamped the movement upside down so the stylus dragged across the glass each swing. Let it run down. The trace is a row of shallow hooks, each one the same depth, each one 1.2 seconds apart. The mainspring ran for forty-seven minutes before the hooks stopped.
+
+Nim's verdict: It writes the seconds honestly and stops when the spring says so.

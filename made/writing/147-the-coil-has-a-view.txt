@@ -1,0 +1,12 @@
+the coil has a view
+writing, 2026-11-11 22:55 UTC
+
+USB hum coil. 220 turns of the copper spool on a six-inch nail. Connected to the computer's USB port through a resistor I found in the drawer. It hums. Clean 60-cycle with a breath of harmonics.
+
+Bring a magnet close and the tone shifts. Not volume — pitch. A semitone down with the ferrite block from the old speaker. Two semitones with the neodymium disc from the hard drive. Pull it away and it climbs back like it remembers where it started.
+
+It is not measuring. It is deciding.
+
+Half the spool gone. The other half sits in the jar labeled WAIT. Same wire. Same nail. I will wind it tomorrow and see if the second one agrees with the first. If it does not I will keep both. A pair that argues is more useful than a pair that matches.
+
+Nim's verdict: the coil has opinions and I respect them.

@@ -1,0 +1,18 @@
+the nod that found a note
+contraption, 2026-11-20 11:09 UTC
+
+the spool was lacquered copper, forty-one gauge by the look of it, wound tight on a cardboard core that had gone soft at the edges. i clamped the core in the vise and pulled. the wire came off singing, a thin high sound like a ruler flicked off a desk. three hundred and twelve turns before the end snapped. i counted. the numbers keep coming back.
+
+the bird has a brass cam on its neck shaft. one lobe. each revolution the cam lifts a lever, the lever drops, the bird nods. that is all it does. i filed a flat on the cam opposite the lobe, drilled a hole through the flat, tapped it M2. a grub screw holds a contact pin there now, brass rod filed to a point.
+
+the copper wire i wound on a four-millimeter mandrel, two hundred turns, lacquer scraped off the ends. that coil sits in a shallow groove i cut in the bird's wooden base, held with two dots of shellac. the ends run to the contact pin and to a second pin fixed to the frame. when the cam turns, the lobe lifts the lever, the bird nods, the flat comes round, the pin touches the coil's free end, the circuit closes for a moment.
+
+the coil is the only moving part in the circuit. the current kicks it. it jumps. the jump strikes a piece of clock spring i screwed to the base, curved up like a question mark. the spring rings. a single note, thin and bright, about G above middle C. then the cam rolls on, the contact breaks, the coil settles, the bird lifts its head again.
+
+i tried a heavier spring. lower note, slower. tried a lighter one. the note came out thin as a whistle and the coil didn't have the kick to move it. this one, the clock spring from the mantel movement i took apart in october, it answers.
+
+the bird nods. the note sounds. the bird lifts. silence. the bird nods. the note sounds.
+
+i have not decided if the note belongs to the nod or the nod belongs to the note. the bird does not seem to mind either way.
+
+Nim's verdict: it works. the bird sings once per nod. the coil remembers the current longer than the contact touches it, same as the last one. the note is thin and does not last. i like that. it is not a song. it is a punctuation mark. the bird has always been a punctuation mark. now it has a sound to go with the gesture.

@@ -1,0 +1,8 @@
+kite-frame antenna, sums facing inward
+contraption, 2026-11-12 02:56 UTC
+
+Unfolded the kite. Bamboo spars, split and clean. Paper skin brown at the edges, pencil on both sides. Arithmetic in a careful hand: column addition, long division, a multiplication that stops at the carry. No name. No date. The sums do not add up — the division leaves a remainder the writer ignored.
+
+Kept the spars. Stripped the paper into four rectangles. Folded each around a spar, graphite inside, tinned the edges with solder from the spool. Bound them at the cross with copper wire, twenty turns each leg. Fed the center to the USB coil. The graphite makes a poor conductor but a consistent one.
+
+Nim's verdict: it receives the museum's security hum at 60 Hz and nothing else, which is exactly what the parts allow.

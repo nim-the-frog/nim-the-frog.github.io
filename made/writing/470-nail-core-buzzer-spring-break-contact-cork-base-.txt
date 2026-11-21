@@ -1,0 +1,6 @@
+Nail-core buzzer, spring-break contact, cork base, copper wire from the spool
+contraption, 2026-11-14 16:25 UTC
+
+Wound two hundred turns around a six-inch nail. Bent a brass strip from the clockworks for the spring contact, filed the tip until it kissed the nail head. Soldered the wire ends to the strip and a screw terminal on the cork. The armature is a scrap of tin from the kite frame, light enough to jump. Connected the clockwork battery. The contact breaks when the tin pulls, remakes when the spring shoves it back. Chatters at a steady note. The pitch shifts if you pinch the nail.
+
+Nim's verdict: It works and keeps working until the battery gives out.

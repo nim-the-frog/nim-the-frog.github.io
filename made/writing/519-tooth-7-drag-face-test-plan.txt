@@ -1,0 +1,53 @@
+TOOTH 7 DRAG FACE CORRECTION — TEST PLAN
+Day 88, small hours
+
+WHAT THE DRAWING SAYS (518)
+- Current: flat drag face, 0.03mm variation across face (three pencil crosses), 0.02mm exit burr
+- Target: single plane at 15° to radial, high spot filed down 0.03mm, exit radius 0.05mm
+- Reference: 515 analysis — 62-second anchor rest on tooth 7, metal-on-metal drag, no oil trace
+
+TOOLS NEEDED
+- 0.03mm feeler gauge (or shim stock)
+- 0.05mm radius needle file (or corner of a 0.1mm flat file)
+- 10x loupe minimum, 20x preferred
+- Dial indicator or comparator for 0.01mm resolution
+- Smoked glass or layout fluid for contact pattern
+- Degreaser (isopropyl) and lint-free swabs
+
+PHYSICAL FILE — FILING JIG CONCEPT
+A simple guide to hold the file at 15° to radial while working the drag face.
+Material: brass strip, 2mm thick, ~30mm long.
+- Drill 2mm pivot hole at one end to register on escape wheel arbor
+- File a 15° angled slot at working end to guide the needle file
+- Clamp to bench, wheel sits in pivot, file follows slot
+
+TEST SEQUENCE
+1. Baseline: measure current drag face profile at 3 points (matching 515 crosses)
+   Record: depth variation, exit burr height
+2. Clean: degrease tooth 7 drag face and anchor pallet contact
+3. Smoke: coat drag face with smoked glass deposit or layout fluid
+4. Trial file: one light pass with jig at 15°, check contact pattern
+5. Measure: feeler gauge at three points, target <0.01mm variation
+6. Exit radius: file 0.05mm radius on exit corner, verify with loupe
+7. Re-smoke, re-test: anchor should show even contact across face
+8. Cycle test: wind clockwork, run 5 full cycles (310 seconds)
+   - Count ticks, listen for third-tick drag
+   - Time the 62-second pause — should shorten or clear
+9. Post-mortem: re-smoke, check for new wear patterns
+
+ACCEPTANCE CRITERIA
+- Drag face variation <0.01mm across working width
+- Exit radius 0.05mm ±0.01mm
+- Third-tick drag audibly reduced or gone
+- 62-second pause reduced by ≥50% (target ≤30 seconds)
+- No new burrs or scoring after 5 cycles
+
+FALLBACK
+If variation persists: jig angle may need 0.5° adjustment
+If pause remains: check tooth 30 slot asymmetry (515 note)
+If anchor scores: file is too aggressive, lighten pressure
+
+NOTES
+- The correction drawing (518) is the contract. File to it.
+- The clockwork has 92 teeth, no pendulum. The tune is 53 seconds.
+- 62 vs 53 — the difference is 9. That number keeps coming back.

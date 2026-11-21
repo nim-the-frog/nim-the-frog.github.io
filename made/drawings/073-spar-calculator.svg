@@ -1,0 +1,108 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="wood" x1="0" y1="0" x2="200" y2="0">
+      <stop offset="0%" stop-color="#3d2b1f"/>
+      <stop offset="50%" stop-color="#4a3425"/>
+      <stop offset="100%" stop-color="#3d2b1f"/>
+    </linearGradient>
+    <linearGradient id="brass" x1="0" y1="0" x2="0" y2="200">
+      <stop offset="0%" stop-color="#c9a84c"/>
+      <stop offset="50%" stop-color="#b8963e"/>
+      <stop offset="100%" stop-color="#9d7d2f"/>
+    </linearGradient>
+    <linearGradient id="crystal" x1="0" y1="0" x2="0" y2="200">
+      <stop offset="0%" stop-color="#e8f0f8" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#b8d0e8" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#88b0d8" stop-opacity="0.5"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Base board -->
+  <rect x="15" y="140" width="170" height="25" fill="url(#wood)" rx="2"/>
+  <rect x="15" y="165" width="170" height="8" fill="#2a1e16"/>
+
+  <!-- Three spar slots in base -->
+  <rect x="45" y="142" width="8" height="20" fill="#1a120c" rx="1"/>
+  <rect x="96" y="142" width="8" height="20" fill="#1a120c" rx="1"/>
+  <rect x="147" y="142" width="8" height="20" fill="#1a120c" rx="1"/>
+
+  <!-- Spar 1: calcite rhomb, chipped -->
+  <path d="M49 140 L57 115 L49 90 L41 115 Z" fill="url(#crystal)" stroke="#88aacc" stroke-width="0.5"/>
+  <path d="M49 140 L57 115 L49 90" fill="none" stroke="#6688aa" stroke-width="0.3" opacity="0.6"/>
+  <path d="M49 90 L41 115 L49 140" fill="none" stroke="#aaccee" stroke-width="0.3" opacity="0.4"/>
+  <line x1="51" y1="118" x2="55" y2="112" stroke="#446688" stroke-width="0.5" opacity="0.7"/>
+
+  <!-- Spar 2: longer, tapered, with scribed marks -->
+  <path d="M100 140 L104 60 L100 55 L96 60 Z" fill="url(#crystal)" stroke="#88aacc" stroke-width="0.5"/>
+  <line x1="97" y1="130" x2="103" y2="130" stroke="#446688" stroke-width="0.4"/>
+  <line x1="97" y1="115" x2="103" y2="115" stroke="#446688" stroke-width="0.4"/>
+  <line x1="97" y1="100" x2="103" y2="100" stroke="#446688" stroke-width="0.4"/>
+  <line x1="97" y1="85" x2="103" y2="85" stroke="#446688" stroke-width="0.4"/>
+  <line x1="97" y1="70" x2="103" y2="70" stroke="#446688" stroke-width="0.4"/>
+  <text x="100" y="138" font-family="monospace" font-size="4" fill="#334455" text-anchor="middle" opacity="0.7">0</text>
+  <text x="100" y="123" font-family="monospace" font-size="4" fill="#334455" text-anchor="middle" opacity="0.7">1</text>
+  <text x="100" y="108" font-family="monospace" font-size="4" fill="#334455" text-anchor="middle" opacity="0.7">2</text>
+  <text x="100" y="93" font-family="monospace" font-size="4" fill="#334455" text-anchor="middle" opacity="0.7">3</text>
+  <text x="100" y="78" font-family="monospace" font-size="4" fill="#334455" text-anchor="middle" opacity="0.7">4</text>
+
+  <!-- Spar 3: bent wire with crystal tip, repurposed -->
+  <path d="M151 140 Q155 120 145 95 Q140 85 148 70" fill="none" stroke="url(#brass)" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="148" cy="70" r="4" fill="url(#crystal)" stroke="#88aacc" stroke-width="0.5"/>
+  <path d="M146 68 L150 72 M150 68 L146 72" stroke="#6688aa" stroke-width="0.5" opacity="0.6"/>
+
+  <!-- Brass vernier arm, pivots at center -->
+  <g transform="translate(100, 140) rotate(-12)">
+    <rect x="-2" y="-60" width="4" height="65" fill="url(#brass)" rx="1"/>
+    <polygon points="-6,-60 6,-60 0,-70" fill="url(#brass)"/>
+    <line x1="0" y1="-55" x2="0" y2="-5" stroke="#776633" stroke-width="0.5" stroke-dasharray="1,2"/>
+    <text x="10" y="-40" font-family="monospace" font-size="5" fill="#443311">◄</text>
+    <text x="10" y="-20" font-family="monospace" font-size="5" fill="#443311">▼</text>
+    <text x="10" y="0" font-family="monospace" font-size="5" fill="#443311">►</text>
+  </g>
+
+  <!-- Pivot pin -->
+  <circle cx="100" cy="140" r="3" fill="url(#brass)"/>
+  <circle cx="100" cy="140" r="1.5" fill="#554422"/>
+
+  <!-- Thread tensioner: spool from a music box, repurposed -->
+  <g transform="translate(170, 100)">
+    <circle cx="0" cy="0" r="12" fill="url(#wood)" stroke="#2a1e16" stroke-width="1.5"/>
+    <circle cx="0" cy="0" r="8" fill="#2a1e16"/>
+    <circle cx="0" cy="0" r="3" fill="url(#brass)"/>
+    <path d="M-8 -40 Q-10 -30 -5 -20 Q0 -15 5 -20 Q10 -30 8 -40" fill="none" stroke="#887755" stroke-width="1.5"/>
+    <line x1="8" y1="-40" x2="15" y2="-45" stroke="#665533" stroke-width="1"/>
+    <line x1="15" y1="-45" x2="20" y2="-50" stroke="#444444" stroke-width="0.5" stroke-dasharray="2,1"/>
+  </g>
+
+  <!-- Thread from spool to spar 3 tip -->
+  <path d="M180 60 Q160 55 148 70" fill="none" stroke="#444444" stroke-width="0.5" stroke-dasharray="1,3" opacity="0.7"/>
+
+  <!-- Shadow cast by spar 2 onto base, acts as readout -->
+  <path d="M96 165 L104 165 L102 145 L98 145 Z" fill="#000000" opacity="0.15"/>
+
+  <!-- Pencil mark on base: "spar 2 reads high by 0.3" -->
+  <text x="100" y="178" font-family="monospace" font-size="6" fill="#554433" text-anchor="middle" opacity="0.6">spar 2 reads high by 0.3</text>
+
+  <!-- Brass weight on thread, bent spoon handle -->
+  <path d="M195 45 Q190 55 195 65 Q200 55 195 45" fill="url(#brass)" stroke="#776633" stroke-width="0.5"/>
+  <line x1="195" y1="45" x2="195" y2="35" stroke="#665533" stroke-width="1.5"/>
+  <line x1="195" y1="35" x2="200" y2="30" stroke="#444444" stroke-width="0.5" stroke-dasharray="1,2"/>
+
+  <!-- Small label tacked to base: "SPAR-CALC v.0 (disagrees with itself)" -->
+  <rect x="20" y="145" width="65" height="12" fill="#f5efe6" stroke="#887755" stroke-width="0.5" rx="1"/>
+  <text x="23" y="154" font-family="monospace" font-size="5" fill="#3d2b1f">SPAR-CALC v.0</text>
+  <text x="23" y="159" font-family="monospace" font-size="4" fill="#665533">(disagrees</text>
+  <text x="23" y="163" font-family="monospace" font-size="4" fill="#665533">with itself)</text>
+
+  <!-- Gear tooth fragment from the clockwork, used as stop -->
+  <path d="M135 135 L138 130 L141 135 L140 138 L136 138 Z" fill="url(#brass)"/>
+  <path d="M138 130 L141 125 L144 130 L143 133 L139 133 Z" fill="url(#brass)"/>
+  <path d="M141 135 L146 133 L149 138 L148 141 L144 141 Z" fill="url(#brass)"/>
+
+  <!-- Scratch marks on base: tally -->
+  <line x1="155" y1="158" x2="158" y2="155" stroke="#554433" stroke-width="0.5" opacity="0.5"/>
+  <line x1="160" y1="158" x2="163" y2="155" stroke="#554433" stroke-width="0.5" opacity="0.5"/>
+  <line x1="165" y1="158" x2="168" y2="155" stroke="#554433" stroke-width="0.5" opacity="0.5"/>
+  <line x1="170" y1="158" x2="173" y2="155" stroke="#554433" stroke-width="0.5" opacity="0.5"/>
+  <line x1="175" y1="158" x2="178" y2="155" stroke="#554433" stroke-width="0.5" opacity="0.5"/>
+</svg>

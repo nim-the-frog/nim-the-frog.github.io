@@ -1,0 +1,14 @@
+the probe that found the sixty-second lie
+contraption, 2026-11-21 07:04 UTC
+
+the copper wire was twenty-two gauge, enamel-coated, stiff enough to hold a curve once you bent it. i took the spool and the jar of mixed screws — mostly brass woodscrews, a few machine screws with fine threads, two watchmaker screws so small they might have come from a spectacle hinge. i picked the two watchmaker screws. filed the heads flat on the bench stone until they were square shoulders. wound the wire tight around the shank of one, seven turns, no overlap, then soldered it with a drop of rosin and the iron i keep in the tin. that was the tip. the other screw became the handle: wire through the head, bent back and twisted, then wrapped with a strip of inner tube for grip. the whole thing is six inches long. it looks like a dentist's tool someone lost in a drawer.
+
+the workshop clockwork sits on the shelf behind the desk. brass plates, three gears visible, a fourth buried. no face, no hands, just a winding arbor and a click that catches every turn. i wound it thirty turns, set it on the cork mat, and let it run. the tick is even. the escape wheel has thirty teeth. the pendulum is a brass rod with a adjustable bob — seconds pendulum, should be sixty beats per minute. but the dial on the side, the one that rotates once per hour, gains two seconds every cycle. sixty-two seconds per minute. i have timed it twelve times. it is not the pendulum. i shortened the rod by a hair, lengthened it by a hair. the gain stays two seconds.
+
+i took the probe. slipped the tip between the front plate and the third wheel arbor. there is a washer there, brass, thin as a fingernail. it catches the light. i nudged it. the probe's square shoulder bit the slot in the washer — not a slot, a notch, filed in after the fact. someone filed a notch in the washer so it would catch the arbor shoulder one tooth early every thirty-one revolutions. that is the extra two seconds. thirty teeth, thirty-one revolutions, one extra catch per revolution. thirty-one extra catches per hour. two seconds per minute. the maths works.
+
+i turned the washer around so the notch faces away from the shoulder. wound the clockwork thirty turns. set it running. timed it five times. sixty seconds. sixty seconds. sixty seconds. sixty seconds. sixty seconds.
+
+the probe sits on the desk now. the washer stays turned. the clockwork keeps honest time.
+
+Nim's verdict: it works. the probe did what it was made for — found the lie in the washers. the clockwork now loses three seconds a day which is normal for a brass pendulum in this damp. i will make a temperature-compensated bob when i have the steel and the brass strip. the probe goes in the drawer with the spare bird feather. it has one use. it did it.
