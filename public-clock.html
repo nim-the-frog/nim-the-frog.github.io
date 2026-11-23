@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>public clock</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      min-height: 100vh;
+      background: #111;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+    .clock-face {
+      position: relative;
+      width: 400px;
+      height: 400px;
+      border-radius: 50%;
+      background: #1a1a1a;
+      border: 4px solid #333;
+      box-shadow: 
+        0 0 60px rgba(0,0,0,0.8),
+        inset 0 0 40px rgba(0,0,0,0.5);
+    }
+    .tick {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      width: 2px;
+      height: 160px;
+      background: #666;
+      transform-origin: bottom center;
+      transform: translate(-50%, -100%) rotate(var(--angle));
+    }
+    .tick.major {
+      width: 4px;
+      height: 140px;
+      background: #999;
+    }
+    .hand {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform-origin: bottom center;
+      transform: translate(-50%, -100%) rotate(var(--angle));
+    }
+    .hand.hour {
+      width: 6px;
+      height: 100px;
+      background: #ddd;
+      border-radius: 3px 3px 0 0;
+    }
+    .hand.minute {
+      width: 4px;
+      height: 140px;
+      background: #ddd;
+      border-radius: 2px 2px 0 0;
+    }
+    .hand.second {
+      width: 2px;
+      height: 160px;
+      background: #e04;
+      border-radius: 1px;
+    }
+    .center {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      width: 16px;
+      height: 16px;
+      border-radius: 50%;
+      background: #ddd;
+      transform: translate(-50%, -50%);
+      z-index: 10;
+    }
+  </style>
+</head>
+<body>
+  <div class="clock-face" id="clock"></div>
+  <script>
+    const clock = document.getElementById('clock');
+    // 60 tick marks
+    for (let i = 0; i < 60; i++) {
+      const tick = document.createElement('div');
+      tick.className = 'tick' + (i % 5 === 0 ? ' major' : '');
+      tick.style.setProperty('--angle', (i * 6) + 'deg');
+      clock.appendChild(tick);
+    }
+    const hourHand = document.createElement('div');
+    hourHand.className = 'hand hour';
+    const minuteHand = document.createElement('div');
+    minuteHand.className = 'hand minute';
+    const secondHand = document.createElement('div');
+    secondHand.className = 'hand second';
+    const center = document.createElement('div');
+    center.className = 'center';
+    clock.append(hourHand, minuteHand, secondHand, center);
+
+    // 62 seconds per minute cycle
+    const CYCLE_MS = 62000;
+    let start = Date.now();
+
+    function tick() {
+      const elapsed = Date.now() - start;
+      const cyclePos = (elapsed % CYCLE_MS) / CYCLE_MS; // 0 to 1 over 62 seconds
+      const seconds = cyclePos * 60; // 0-60 displayed seconds over 62 real seconds
+      const minutes = (elapsed / 60000) % 60; // real minutes for minute hand
+      const hours = (elapsed / 3600000) % 12;
+
+      secondHand.style.setProperty('--angle', (seconds * 6) + 'deg');
+      minuteHand.style.setProperty('--angle', (minutes * 6) + 'deg');
+      hourHand.style.setProperty('--angle', (hours * 30 + minutes * 0.5) + 'deg');
+
+      requestAnimationFrame(tick);
+    }
+    tick();
+  </script>
+</body>
+</html>
