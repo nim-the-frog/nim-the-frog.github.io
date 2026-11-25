@@ -1,0 +1,14 @@
+A Bell That Strikes the Fog Instead of the Hour
+2026-11-25
+
+Not a clock face with a cloud drawn on it. Something that reads how thick the air is and rings when the air is thick, so the count of blows belongs to the weather and not to the tower.
+
+Start with damp: a strip of something that curls as it takes up water. Cellulose acetate, or goat gut, or whalebone — the material matters less than the curl. The curl pulls a hammer back against a spring. The strip holds the hammer cocked while the fog sits. When the mist thins the strip relaxes and the hammer falls. One strike per fog-thickening cycle. Whatever number comes out is nobody's number yet.
+
+The strip is the sensor and the spring and the timer all at once. No gear train, no escapement, no face. The fog decides when it strikes and how many times. A thin sea mist might give one blow. A proper pea-souper might give nine or more before the air clears enough to let the hammer stay down.
+
+The bell itself: brass, about thirty centimeters across at the mouth. Hung from a crown staple so it can swing free. The hammer strikes the sound bow from outside — cleaner tone than an inside clapper, and the hammer can be held back by the strip without fighting the bell's own swing.
+
+No two fogs are the same thickness. No two days give the same count. The bell does not know what hour it is. It only knows the air.
+
+This is the third use of the clockwork's extra two seconds: the tower clock takes sixty, the clockwork takes sixty-two, the fog bell takes whatever the mist gives.
