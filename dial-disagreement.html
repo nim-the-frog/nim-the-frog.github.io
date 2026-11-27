@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>dial disagreement</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      min-height: 100vh;
+      background: #0a0a0a;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      font-family: monospace;
+      color: #ccc;
+    }
+    .clock-face {
+      position: relative;
+      width: 500px;
+      height: 500px;
+      border-radius: 50%;
+      background: #111;
+      border: 2px solid #222;
+      box-shadow: 
+        0 0 80px rgba(0,0,0,0.9),
+        inset 0 0 60px rgba(0,0,0,0.7);
+    }
+    .ring {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      border-radius: 50%;
+      border: 1px solid;
+      pointer-events: none;
+    }
+    .mark {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform-origin: bottom center;
+      transform: translate(-50%, -100%) rotate(var(--angle));
+    }
+    .mark.tick {
+      width: 1px;
+      height: 15px;
+      background: currentColor;
+    }
+    .mark.label {
+      height: 24px;
+      width: 40px;
+      margin-top: -24px;
+      text-align: center;
+      font-size: 11px;
+      line-height: 22px;
+      white-space: nowrap;
+    }
+    .hand {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform-origin: bottom center;
+      transform: translate(-50%, -100%) rotate(var(--angle));
+      z-index: 10;
+    }
+    .hand.main {
+      width: 3px;
+      height: 180px;
+      background: #fff;
+      border-radius: 2px 2px 0 0;
+      box-shadow: 0 0 8px #fff;
+    }
+    .hand.main::after {
+      content: '';
+      position: absolute;
+      bottom: -6px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 12px;
+      height: 12px;
+      background: #fff;
+      border-radius: 50%;
+      box-shadow: 0 0 8px #fff;
+    }
+    .center {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 16px;
+      height: 16px;
+      background: #fff;
+      border-radius: 50%;
+      z-index: 11;
+      box-shadow: 0 0 12px #fff;
+    }
+    .info {
+      margin-top: 24px;
+      text-align: center;
+      max-width: 500px;
+      font-size: 13px;
+      line-height: 1.6;
+      color: #888;
+    }
+    .info .value { color: #aaa; }
+    .legend {
+      margin-top: 16px;
+      display: flex;
+      gap: 24px;
+      justify-content: center;
+      flex-wrap: wrap;
+      font-size: 11px;
+    }
+    .legend-item { display: flex; align-items: center; gap: 6px; }
+    .legend-color { width: 16px; height: 2px; display: inline-block; }
+    .ring-60 { border-color: #333; color: #444; }
+    .ring-62 { border-color: #224422; color: #226622; }
+    .ring-53 { border-color: #442222; color: #662222; }
+    .mark-60 { color: #555; }
+    .mark-60.major { color: #777; height: 22px; }
+    .mark-60.label { color: #666; }
+    .mark-62 { color: #225522; }
+    .mark-62.major { color: #337733; height: 22px; }
+    .mark-62.label { color: #337733; }
+    .mark-53 { color: #552222; }
+    .mark-53.major { color: #773333; height: 22px; }
+    .mark-53.label { color: #773333; }
+    .hand-62 { background: #44aa44; box-shadow: 0 0 8px #44aa44; }
+    .hand-62::after { background: #44aa44; box-shadow: 0 0 8px #44aa44; }
+    .hand-60 { background: #aaa; box-shadow: 0 0 8px #aaa; }
+    .hand-60::after { background: #aaa; box-shadow: 0 0 8px #aaa; }
+    .hand-53 { background: #aa4444; box-shadow: 0 0 8px #aa4444; }
+    .hand-53::after { background: #aa4444; box-shadow: 0 0 8px #aa4444; }
+  </style>
+</head>
+<body>
+  <div class="clock-face" id="clock"></div>
+  <div class="info">
+    <div>One hand returns to the same mark every <span class="value" id="cycle-display">62</span> seconds.</div>
+    <div>The dial has three rings of marks. They disagree.</div>
+    <div>Ring 1 (gray): 60 marks — calls them seconds.</div>
+    <div>Ring 2 (green): 62 marks — calls them returns.</div>
+    <div>Ring 3 (red): 53 marks — calls them beats.</div>
+    <div>None of them match. The hand follows the 62-ring.</div>
+  </div>
+  <div class="legend">
+    <div class="legend-item"><span class="legend-color" style="background:#555"></span> 60 marks (seconds)</div>
+    <div class="legend-item"><span class="legend-color" style="background:#337733"></span> 62 marks (returns)</div>
+    <div class="legend-item"><span class="legend-color" style="background:#773333"></span> 53 marks (beats)</div>
+    <div class="legend-item"><span class="legend-color" style="background:#44aa44"></span> hand (62s cycle)</div>
+  </div>
+  <script>
+    const clock = document.getElementById('clock');
+    const cycleDisplay = document.getElementById('cycle-display');
+    
+    // Three rings
+    const rings = [
+      { count: 60, radius: 210, className: 'ring-60', markClass: 'mark-60', labelClass: 'mark-60 label', labelPrefix: '', labelEvery: 5 },
+      { count: 62, radius: 180, className: 'ring-62', markClass: 'mark-62', labelClass: 'mark-62 label', labelPrefix: '', labelEvery: 1 },
+      { count: 53, radius: 150, className: 'ring-53', markClass: 'mark-53', labelClass: 'mark-53 label', labelPrefix: '', labelEvery: 1 }
+    ];
+    
+    rings.forEach(ring => {
+      const ringEl = document.createElement('div');
+      ringEl.className = 'ring ' + ring.className;
+      ringEl.style.width = (ring.radius * 2) + 'px';
+      ringEl.style.height = (ring.radius * 2) + 'px';
+      clock.appendChild(ringEl);
+      
+      for (let i = 0; i < ring.count; i++) {
+        const angle = (i / ring.count) * 360;
+        const isMajor = (i % ring.labelEvery) === 0;
+        
+        const tick = document.createElement('div');
+        tick.className = 'mark tick ' + ring.markClass + (isMajor ? ' major' : '');
+        tick.style.setProperty('--angle', angle + 'deg');
+        tick.style.top = (250 - ring.radius) + 'px';
+        tick.style.left = '250px';
+        ringEl.appendChild(tick);
+        
+        if (isMajor) {
+          const label = document.createElement('div');
+          label.className = 'mark ' + ring.labelClass;
+          label.style.setProperty('--angle', angle + 'deg');
+          label.style.top = (250 - ring.radius - 28) + 'px';
+          label.style.left = '250px';
+          label.textContent = ring.labelPrefix + i;
+          ringEl.appendChild(label);
+        }
+      }
+    });
+    
+    // Three hands (only one moves, the others show where the other rings would point)
+    const hand62 = document.createElement('div');
+    hand62.className = 'hand main hand-62';
+    clock.appendChild(hand62);
+    
+    const hand60 = document.createElement('div');
+    hand60.className = 'hand main hand-60';
+    hand60.style.opacity = '0.3';
+    clock.appendChild(hand60);
+    
+    const hand53 = document.createElement('div');
+    hand53.className = 'hand main hand-53';
+    hand53.style.opacity = '0.3';
+    clock.appendChild(hand53);
+    
+    const center = document.createElement('div');
+    center.className = 'center';
+    clock.appendChild(center);
+    
+    const CYCLE_MS = 62000; // 62 seconds
+    const BEAT_MS = 53000 / 53; // 53 beats in... let's say 53 seconds for the beat cycle
+    let start = Date.now();
+    
+    function tick() {
+      const elapsed = Date.now() - start;
+      
+      // Main hand: 62-second cycle, returns to same mark
+      const cyclePos62 = (elapsed % CYCLE_MS) / CYCLE_MS;
+      const angle62 = cyclePos62 * 360;
+      hand62.style.setProperty('--angle', angle62 + 'deg');
+      
+      // Ghost hand: where a 60-second hand would be
+      const angle60 = ((elapsed / 1000) % 60) * 6;
+      hand60.style.setProperty('--angle', angle60 + 'deg');
+      
+      // Ghost hand: where a 53-beat hand would be
+      const beatCycleMs = 53000;
+      const cyclePos53 = (elapsed % beatCycleMs) / beatCycleMs;
+      const angle53 = cyclePos53 * 360;
+      hand53.style.setProperty('--angle', angle53 + 'deg');
+      
+      // Update display
+      const cycleSec = (elapsed % CYCLE_MS) / 1000;
+      cycleDisplay.textContent = cycleSec.toFixed(1);
+      
+      requestAnimationFrame(tick);
+    }
+    tick();
+  </script>
+</body>
+</html>
