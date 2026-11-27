@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>public clock — one hand per day</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      min-height: 100vh;
+      background: #111;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      font-family: monospace;
+      color: #888;
+    }
+    .clock-face {
+      position: relative;
+      width: 480px;
+      height: 480px;
+      border-radius: 50%;
+      background: #1a1a1a;
+      border: 4px solid #333;
+      box-shadow: 
+        0 0 60px rgba(0,0,0,0.8),
+        inset 0 0 40px rgba(0,0,0,0.5);
+    }
+    .tick {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      width: 2px;
+      height: 190px;
+      background: #666;
+      transform-origin: bottom center;
+      transform: translate(-50%, -100%) rotate(var(--angle));
+    }
+    .tick.major {
+      width: 4px;
+      height: 170px;
+      background: #999;
+    }
+    .tick.day {
+      width: 3px;
+      height: 160px;
+      background: #444;
+    }
+    .tick.day-label {
+      width: 1px;
+      height: 150px;
+      background: #333;
+    }
+    .hand {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform-origin: bottom center;
+      transform: translate(-50%, -100%) rotate(var(--angle));
+    }
+    .hand.day {
+      width: 8px;
+      height: 140px;
+      background: #ddd;
+      border-radius: 4px 4px 0 0;
+      box-shadow: 0 0 20px rgba(255,255,255,0.1);
+    }
+    .hand.day::before {
+      content: '';
+      position: absolute;
+      bottom: -20px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 16px;
+      height: 16px;
+      background: #ddd;
+      border-radius: 50%;
+    }
+    .center {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 24px;
+      height: 24px;
+      background: #ddd;
+      border-radius: 50%;
+      z-index: 10;
+    }
+    .window {
+      position: absolute;
+      bottom: 60px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 160px;
+      height: 50px;
+      background: #0a0a0a;
+      border: 2px solid #444;
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 20px;
+      font-family: monospace;
+      color: #aaa;
+      z-index: 5;
+      box-shadow: inset 0 0 20px rgba(0,0,0,0.8);
+    }
+    .window-label {
+      position: absolute;
+      bottom: 115px;
+      left: 50%;
+      transform: translateX(-50%);
+      font-size: 11px;
+      color: #666;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+    }
+    .day-markers {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 380px;
+      height: 380px;
+      border-radius: 50%;
+      pointer-events: none;
+    }
+    .day-marker {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -100%) rotate(var(--angle));
+      width: 2px;
+      height: 12px;
+      background: #555;
+    }
+    .day-marker.major {
+      height: 18px;
+      background: #777;
+      width: 3px;
+    }
+    .day-label-text {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -100%) rotate(var(--angle)) translateY(-170px) rotate(calc(-1 * var(--angle)));
+      font-size: 10px;
+      color: #555;
+      white-space: nowrap;
+      text-align: center;
+      width: 60px;
+      margin-left: -30px;
+    }
+    .note {
+      margin-top: 30px;
+      font-size: 13px;
+      color: #666;
+      max-width: 480px;
+      text-align: center;
+      line-height: 1.5;
+    }
+    .note strong { color: #888; }
+  </style>
+</head>
+<body>
+  <div class="clock-face" id="clock"></div>
+  <div class="window-label">actual time</div>
+  <div class="window" id="window">--:--:--</div>
+  <div class="note">
+    The hand points to a different hour each day. Today it reads <strong id="day-hour">--</strong>.
+    The window shows what time it actually is.
+  </div>
+
+  <script>
+    const clock = document.getElementById('clock');
+    const windowEl = document.getElementById('window');
+    const dayHourEl = document.getElementById('day-hour');
+
+    // Hour ticks (12-hour)
+    for (let i = 0; i < 12; i++) {
+      const tick = document.createElement('div');
+      tick.className = 'tick ' + (i % 3 === 0 ? 'major' : '');
+      tick.style.setProperty('--angle', (i * 30) + 'deg');
+      clock.appendChild(tick);
+    }
+
+    // Day markers (24 positions)
+    const dayMarkers = document.createElement('div');
+    dayMarkers.className = 'day-markers';
+    for (let d = 0; d < 24; d++) {
+      const angle = d * 15; // 360/24 = 15 degrees each
+      const marker = document.createElement('div');
+      marker.className = 'day-marker ' + (d % 6 === 0 ? 'major' : '');
+      marker.style.setProperty('--angle', angle + 'deg');
+      dayMarkers.appendChild(marker);
+
+      // Day number labels at major positions (every 6 = midnight, 6am, noon, 6pm)
+      if (d % 6 === 0) {
+        const label = document.createElement('div');
+        label.className = 'day-label-text';
+        label.style.setProperty('--angle', angle + 'deg');
+        const dayNum = d === 0 ? 24 : d;
+        label.textContent = dayNum;
+        dayMarkers.appendChild(label);
+      }
+    }
+    clock.appendChild(dayMarkers);
+
+    // Day hand
+    const dayHand = document.createElement('div');
+    dayHand.className = 'hand day';
+    clock.appendChild(dayHand);
+
+    // Center
+    const center = document.createElement('div');
+    center.className = 'center';
+    clock.appendChild(center);
+
+    function update() {
+      const now = new Date();
+
+      // Day of year (1-366), map to 1-24 hour position
+      const startOfYear = new Date(now.getFullYear(), 0, 0);
+      const diff = now - startOfYear;
+      const dayOfYear = Math.floor(diff / 86400000);
+      const dayPosition = ((dayOfYear - 1) % 24) + 1; // 1-24
+
+      // Angle for day hand (24 positions, 15 degrees each)
+      // Position 1 at top (0 deg), 2 at 15 deg, etc.
+      const dayAngle = (dayPosition - 1) * 15;
+      dayHand.style.setProperty('--angle', dayAngle + 'deg');
+
+      // Display hour for note
+      dayHourEl.textContent = dayPosition + (dayPosition === 1 ? ' (midnight)' : dayPosition === 13 ? ' (noon)' : '');
+
+      // Actual time in window
+      const h = String(now.getHours()).padStart(2, '0');
+      const m = String(now.getMinutes()).padStart(2, '0');
+      const s = String(now.getSeconds()).padStart(2, '0');
+      windowEl.textContent = h + ':' + m + ':' + s;
+    }
+
+    update();
+    setInterval(update, 1000);
+  </script>
+</body>
+</html>
