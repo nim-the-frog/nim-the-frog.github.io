@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>public clock — three times</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      min-height: 100vh;
+      background: #111;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      font-family: monospace;
+      color: #888;
+    }
+    .clock-face {
+      position: relative;
+      width: 480px;
+      height: 480px;
+      border-radius: 50%;
+      background: #1a1a1a;
+      border: 4px solid #333;
+      box-shadow: 
+        0 0 60px rgba(0,0,0,0.8),
+        inset 0 0 40px rgba(0,0,0,0.5);
+    }
+    .tick {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      width: 2px;
+      height: 190px;
+      background: #666;
+      transform-origin: bottom center;
+      transform: translate(-50%, -100%) rotate(var(--angle));
+    }
+    .tick.major {
+      width: 4px;
+      height: 170px;
+      background: #999;
+    }
+    .hand {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform-origin: bottom center;
+      transform: translate(-50%, -100%) rotate(var(--angle));
+    }
+    .hand.hour {
+      width: 7px;
+      height: 110px;
+      background: var(--color);
+      border-radius: 3.5px 3.5px 0 0;
+      opacity: 0.85;
+    }
+    .hand.minute {
+      width: 4px;
+      height: 160px;
+      background: var(--color);
+      border-radius: 2px 2px 0 0;
+      opacity: 0.85;
+    }
+    .hand.second {
+      width: 2px;
+      height: 180px;
+      background: var(--color);
+      opacity: 0.7;
+    }
+    .center {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      width: 16px;
+      height: 16px;
+      border-radius: 50%;
+      background: #444;
+      border: 2px solid #666;
+      transform: translate(-50%, -50%);
+      z-index: 10;
+    }
+    .legend {
+      margin-top: 24px;
+      display: flex;
+      gap: 32px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 13px;
+    }
+    .legend-swatch {
+      width: 18px;
+      height: 4px;
+      border-radius: 2px;
+    }
+    .legend-item:nth-child(1) .legend-swatch { background: #e07c7c; }
+    .legend-item:nth-child(2) .legend-swatch { background: #7cc0e0; }
+    .legend-item:nth-child(3) .legend-swatch { background: #c0e07c; }
+  </style>
+</head>
+<body>
+  <div class="clock-face" id="clock"></div>
+  <div class="legend">
+    <div class="legend-item"><div class="legend-swatch"></div><span>displayed time (62s cycle)</span></div>
+    <div class="legend-item"><div class="legend-swatch"></div><span>real time</span></div>
+    <div class="legend-item"><div class="legend-swatch"></div><span>corrected time (if 60s/min)</span></div>
+  </div>
+  <script>
+    const clock = document.getElementById('clock');
+
+    // ticks
+    for (let i = 0; i < 60; i++) {
+      const tick = document.createElement('div');
+      tick.className = 'tick' + (i % 5 === 0 ? ' major' : '');
+      tick.style.setProperty('--angle', (i * 6) + 'deg');
+      clock.appendChild(tick);
+    }
+
+    // three sets of hands
+    const colors = ['#e07c7c', '#7cc0e0', '#c0e07c'];
+    const hands = [];
+
+    for (let set = 0; set < 3; set++) {
+      const hourHand = document.createElement('div');
+      hourHand.className = 'hand hour';
+      hourHand.style.setProperty('--color', colors[set]);
+      const minuteHand = document.createElement('div');
+      minuteHand.className = 'hand minute';
+      minuteHand.style.setProperty('--color', colors[set]);
+      const secondHand = document.createElement('div');
+      secondHand.className = 'hand second';
+      secondHand.style.setProperty('--color', colors[set]);
+      clock.append(hourHand, minuteHand, secondHand);
+      hands.push({ hourHand, minuteHand, secondHand });
+    }
+
+    const center = document.createElement('div');
+    center.className = 'center';
+    clock.appendChild(center);
+
+    // 62 seconds per displayed minute cycle
+    const CYCLE_MS = 62000;
+    let start = Date.now();
+
+    function tick() {
+      const elapsed = Date.now() - start;
+      const cyclePos = (elapsed % CYCLE_MS) / CYCLE_MS; // 0 to 1 over 62 seconds
+      const displayedSeconds = cyclePos * 60; // 0-60 displayed seconds over 62 real seconds
+      const realSeconds = (elapsed / 1000) % 60;
+      const realMinutes = (elapsed / 60000) % 60;
+      const realHours = (elapsed / 3600000) % 12;
+      const displayedMinutes = (elapsed / 62000) % 60; // advances every 62s
+      const displayedHours = (elapsed / (62000 * 60)) % 12;
+      const correctedSeconds = (elapsed / 1000) % 60;
+      const correctedMinutes = (elapsed / 60000) % 60;
+      const correctedHours = (elapsed / 3600000) % 12;
+
+      // Set 0: displayed time (what the clock shows, running slow)
+      hands[0].secondHand.style.setProperty('--angle', (displayedSeconds * 6) + 'deg');
+      hands[0].minuteHand.style.setProperty('--angle', (displayedMinutes * 6 + displayedSeconds * 0.1) + 'deg');
+      hands[0].hourHand.style.setProperty('--angle', (displayedHours * 30 + displayedMinutes * 0.5) + 'deg');
+
+      // Set 1: real time (what it actually is)
+      hands[1].secondHand.style.setProperty('--angle', (realSeconds * 6) + 'deg');
+      hands[1].minuteHand.style.setProperty('--angle', (realMinutes * 6 + realSeconds * 0.1) + 'deg');
+      hands[1].hourHand.style.setProperty('--angle', (realHours * 30 + realMinutes * 0.5) + 'deg');
+
+      // Set 2: corrected time (what it would show if it kept proper minutes)
+      hands[2].secondHand.style.setProperty('--angle', (correctedSeconds * 6) + 'deg');
+      hands[2].minuteHand.style.setProperty('--angle', (correctedMinutes * 6 + correctedSeconds * 0.1) + 'deg');
+      hands[2].hourHand.style.setProperty('--angle', (correctedHours * 30 + correctedMinutes * 0.5) + 'deg');
+
+      requestAnimationFrame(tick);
+    }
+    tick();
+  </script>
+</body>
+</html>
