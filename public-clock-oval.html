@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>public clock — oval face, hand set to nothing agreed</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      min-height: 100vh;
+      background: #0d0d0d;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      font-family: monospace;
+      color: #777;
+    }
+    .clock-face {
+      position: relative;
+      width: 500px;
+      height: 500px;
+      border-radius: 50%;
+      background: radial-gradient(circle at 30% 30%, #1a1a1a 0%, #0a0a0a 100%);
+      border: 3px solid #2a2a2a;
+      box-shadow: 
+        0 0 80px rgba(0,0,0,0.9),
+        inset 0 0 60px rgba(0,0,0,0.7);
+    }
+    .oval {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      width: 380px;
+      height: 260px;
+      transform: translate(-50%, -50%);
+      border: 2px solid #333;
+      border-radius: 50% / 100%;
+      pointer-events: none;
+    }
+    .oval-tick {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      width: 2px;
+      background: #444;
+      transform-origin: bottom center;
+      transform: translate(-50%, -100%) rotate(var(--angle));
+    }
+    .oval-tick.major {
+      width: 3px;
+      background: #555;
+    }
+    .hand {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      width: 4px;
+      height: 200px;
+      background: linear-gradient(to bottom, #ddd 0%, #999 100%);
+      border-radius: 2px;
+      transform-origin: bottom center;
+      transform: translate(-50%, -100%) rotate(var(--angle));
+      cursor: grab;
+      z-index: 10;
+      transition: background 0.2s;
+    }
+    .hand:active { cursor: grabbing; background: #fff; }
+    .hand::before {
+      content: '';
+      position: absolute;
+      bottom: -8px;
+      left: 50%;
+      width: 16px;
+      height: 16px;
+      background: #ddd;
+      border-radius: 50%;
+      transform: translateX(-50%);
+      box-shadow: 0 0 4px rgba(0,0,0,0.5);
+    }
+    .center {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      width: 14px;
+      height: 14px;
+      background: #222;
+      border: 2px solid #444;
+      border-radius: 50%;
+      transform: translate(-50%, -50%);
+      z-index: 11;
+      box-shadow: inset 0 2px 4px rgba(255,255,255,0.1);
+    }
+    .readout {
+      margin-top: 24px;
+      text-align: center;
+      font-size: 14px;
+      line-height: 1.8;
+      color: #666;
+    }
+    .readout .label { color: #444; }
+    .readout .value { color: #999; font-weight: bold; }
+    .note {
+      margin-top: 16px;
+      font-size: 12px;
+      color: #333;
+      max-width: 400px;
+      text-align: center;
+    }
+    .set-btn {
+      margin-top: 16px;
+      padding: 8px 20px;
+      background: #1a1a1a;
+      border: 1px solid #333;
+      color: #888;
+      font-family: monospace;
+      font-size: 13px;
+      cursor: pointer;
+      border-radius: 4px;
+      transition: background 0.2s, border-color 0.2s, color 0.2s;
+    }
+    .set-btn:hover { background: #222; border-color: #444; color: #aaa; }
+    .set-btn:active { background: #2a2a2a; }
+  </style>
+</head>
+<body>
+  <div class="clock-face" id="clock"></div>
+  <div class="readout">
+    <div><span class="label">hand angle:</span> <span class="value" id="angle">0</span><span class="label">°</span></div>
+    <div><span class="label">nobody agrees this is:</span> <span class="value" id="time">—</span></div>
+  </div>
+  <div class="note">the oval marks where hours would be if hours were oval. the hand points where you put it. the time it shows is the one you decided on.</div>
+  <button class="set-btn" id="randomBtn">set hand to a time nobody agrees on</button>
+
+  <script>
+    const clock = document.getElementById('clock');
+    const angleEl = document.getElementById('angle');
+    const timeEl = document.getElementById('time');
+    const randomBtn = document.getElementById('randomBtn');
+
+    // Draw oval ticks - 24 positions around an ellipse
+    // Ellipse: x = a*cos(t), y = b*sin(t) where a=190, b=130
+    // But we want ticks perpendicular to the ellipse
+    // Simpler: place ticks at 24 angles around circle, but stretched to oval positions
+    for (let i = 0; i < 24; i++) {
+      const tick = document.createElement('div');
+      tick.className = 'oval-tick' + (i % 2 === 0 ? ' major' : '');
+      // Angle around circle, but the oval is stretched vertically less
+      // So the visual angle differs from parametric angle
+      // For an ellipse x=a*cos(t), y=b*sin(t), the tangent angle phi satisfies tan(phi) = (b/a)*tan(t)
+      // The normal (tick direction) is phi + 90°
+      const t = (i / 24) * 2 * Math.PI;
+      const a = 190, b = 130;
+      const phi = Math.atan2(b * Math.sin(t), a * Math.cos(t));
+      const normalAngle = phi + Math.PI / 2;
+      tick.style.setProperty('--angle', (normalAngle * 180 / Math.PI) + 'deg');
+      tick.style.height = (i % 2 === 0 ? '35px' : '22px');
+      clock.appendChild(tick);
+    }
+
+    // Hand
+    const hand = document.createElement('div');
+    hand.className = 'hand';
+    hand.style.setProperty('--angle', '0deg');
+    clock.appendChild(hand);
+
+    // Center
+    const center = document.createElement('div');
+    center.className = 'center';
+    clock.appendChild(center);
+
+    let currentAngle = 0;
+    let isDragging = false;
+
+    function angleToTime(angle) {
+      // Convert angle to a nonsense time reading
+      // 0° at top (like 12), 360° full circle
+      // But the oval is not a circle, so "hour" positions are warped
+      const normalized = ((angle % 360) + 360) % 360;
+      // Map to 24 positions around oval
+      const position = normalized / 15; // 0-24
+      const hour = Math.floor(position) % 24;
+      const minute = Math.round((position % 1) * 60);
+      const h = String(hour).padStart(2, '0');
+      const m = String(minute).padStart(2, '0');
+      return `${h}:${m} (on the oval)`;
+    }
+
+    function updateDisplay() {
+      angleEl.textContent = currentAngle.toFixed(1);
+      timeEl.textContent = angleToTime(currentAngle);
+    }
+
+    function setHandAngle(angle) {
+      currentAngle = angle;
+      hand.style.setProperty('--angle', currentAngle + 'deg');
+      updateDisplay();
+    }
+
+    // Drag handling
+    function getAngleFromEvent(e) {
+      const rect = clock.getBoundingClientRect();
+      const cx = rect.left + rect.width / 2;
+      const cy = rect.top + rect.height / 2;
+      const clientX = e.touches ? e.touches[0].clientX : e.clientX;
+      const clientY = e.touches ? e.touches[0].clientY : e.clientY;
+      const dx = clientX - cx;
+      const dy = clientY - cy;
+      let angle = Math.atan2(dx, -dy) * 180 / Math.PI; // 0 at top, clockwise
+      return angle;
+    }
+
+    hand.addEventListener('mousedown', (e) => {
+      isDragging = true;
+      hand.style.transition = 'none';
+      e.preventDefault();
+    });
+
+    window.addEventListener('mousemove', (e) => {
+      if (!isDragging) return;
+      setHandAngle(getAngleFromEvent(e));
+    });
+
+    window.addEventListener('mouseup', () => {
+      if (isDragging) {
+        isDragging = false;
+        hand.style.transition = 'background 0.2s';
+      }
+    });
+
+    // Touch support
+    hand.addEventListener('touchstart', (e) => {
+      isDragging = true;
+      hand.style.transition = 'none';
+      e.preventDefault();
+    }, { passive: false });
+
+    window.addEventListener('touchmove', (e) => {
+      if (!isDragging) return;
+      setHandAngle(getAngleFromEvent(e));
+    }, { passive: false });
+
+    window.addEventListener('touchend', () => {
+      if (isDragging) {
+        isDragging = false;
+        hand.style.transition = 'background 0.2s';
+      }
+    });
+
+    // Random button - set to a deliberately odd angle
+    randomBtn.addEventListener('click', () => {
+      // Pick an angle that doesn't align with any tick
+      const base = Math.random() * 360;
+      const offset = (Math.random() - 0.5) * 7.5; // ±3.75°, halfway between 15° ticks
+      setHandAngle(base + offset);
+    });
+
+    // Initial random position
+    setHandAngle(Math.random() * 360);
+  </script>
+</body>
+</html>
